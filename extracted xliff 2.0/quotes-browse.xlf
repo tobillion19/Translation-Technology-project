@@ -1,0 +1,1387 @@
+<xliff srcLang="en-IE" version="2.0" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0" trgLang="en-US" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file original="quotes-browse.html" canResegment="no" id="1">
+    <skeleton href="C:\Users\Tobi Aroyehun\AppData\Roaming\Maxprograms\skl\quotes-browse.html13052096443262074964.skl"/>
+    <mda:metadata>
+      <mda:metaGroup category="format">
+        <mda:meta type="datatype">html</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="tool">
+        <mda:meta type="tool-id">OpenXLIFF</mda:meta>
+        <mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+        <mda:meta type="tool-version">1.5.1 20190922_0931</mda:meta>
+      </mda:metaGroup>
+      <mda:metaGroup category="PI">
+        <mda:meta type="encoding">windows-1252</mda:meta>
+      </mda:metaGroup>
+    </mda:metadata>
+    <unit canResegment="no" id="0">
+      <segment canResegment="no" id="0">
+        <source xml:space="preserve">Blog definition, a website containing a writer's or group of writers' own experiences, observations, opinions, etc., and often having images and links to other websites.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="1">
+      <segment canResegment="no" id="1">
+        <source xml:space="preserve"> See more.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="2">
+      <segment canResegment="no" id="2">
+        <source xml:space="preserve">Definition of blog | Dictionary.com</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="3">
+      <segment canResegment="no" id="3">
+        <source xml:space="preserve">Definition of blog from Dictionary.com, the worldâ€™s leading online source for English definitions, pronunciations, word origins, idioms, Word of the Day, and more.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="4">
+      <segment canResegment="no" id="4">
+        <source xml:space="preserve">https://www.dictionary.com/assets/dictionary-social-logo-a60fa43a7f4c5e78893e1b228bdc74b3.png</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="5">
+      <segment canResegment="no" id="5">
+        <source xml:space="preserve">www.dictionary.com</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="6">
+      <segment canResegment="no" id="6">
+        <source xml:space="preserve">summary</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="7">
+      <segment canResegment="no" id="7">
+        <source xml:space="preserve">@Dictionarycom</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="8">
+      <segment canResegment="no" id="8">
+        <source xml:space="preserve">127444090629600</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="9">
+      <segment canResegment="no" id="9">
+        <source xml:space="preserve">100000304287730;109125464873</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="10">
+      <segment canResegment="no" id="10">
+        <source xml:space="preserve">DF5542D7723770377E9ABFF59AC1DC97</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="11">
+      <segment canResegment="no" id="11">
+        <source xml:space="preserve">Blog | Definition of Blog at Dictionary.com</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="12">
+      <segment canResegment="no" id="12">
+        <source xml:space="preserve">width=device-width, initial-scale=1.0</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="13">
+      <segment canResegment="no" id="13">
+        <source xml:space="preserve">Dictionary.com</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="14">
+      <segment canResegment="no" id="14">
+        <source xml:space="preserve">Thesaurus.com</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="15">
+      <segment canResegment="no" id="15">
+        <source xml:space="preserve">Everything After Z</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="16">
+      <segment canResegment="no" id="16">
+        <source xml:space="preserve">Word of the Day</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="17">
+      <segment canResegment="no" id="17">
+        <source xml:space="preserve">Video</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="18">
+      <segment canResegment="no" id="18">
+        <source xml:space="preserve">Word Facts</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="19">
+      <segment canResegment="no" id="19">
+        <source xml:space="preserve">Grammar</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="20">
+      <segment canResegment="no" id="20">
+        <source xml:space="preserve">Crossword Solver</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="21">
+      <segment canResegment="no" id="21">
+        <source xml:space="preserve">Daily Crossword</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="22">
+      <segment canResegment="no" id="22">
+        <source xml:space="preserve">All The Words</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="23">
+      <segment canResegment="no" id="23">
+        <source xml:space="preserve">Slang</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="24">
+      <segment canResegment="no" id="24">
+        <source xml:space="preserve">Emoji</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="25">
+      <segment canResegment="no" id="25">
+        <source xml:space="preserve">Gender &amp; Sexuality</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="26">
+      <segment canResegment="no" id="26">
+        <source xml:space="preserve">Acronyms</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="27">
+      <segment canResegment="no" id="27">
+        <source xml:space="preserve">Dictionary.com</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="28">
+      <segment canResegment="no" id="28">
+        <source xml:space="preserve">Thesaurus.com</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="29">
+      <segment canResegment="no" id="29">
+        <source xml:space="preserve">Dictionary.com</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="30">
+      <segment canResegment="no" id="30">
+        <source xml:space="preserve">DEFINITIONS</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="31">
+      <segment canResegment="no" id="31">
+        <source xml:space="preserve">SYNONYMS</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="32">
+      <segment canResegment="no" id="32">
+        <source xml:space="preserve">Search</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="33">
+      <segment canResegment="no" id="33">
+        <source xml:space="preserve">blog</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="34">
+      <segment canResegment="no" id="34">
+        <source xml:space="preserve">top definitions</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="35">
+      <segment canResegment="no" id="35">
+        <source xml:space="preserve">related content</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="36">
+      <segment canResegment="no" id="36">
+        <source xml:space="preserve">examples</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="37">
+      <segment canResegment="no" id="37">
+        <source xml:space="preserve">explore dictionary</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="38">
+      <segment canResegment="no" id="38">
+        <source xml:space="preserve">british</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="39">
+      <segment canResegment="no" id="39">
+        <source xml:space="preserve">blog</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="40">
+      <originalData>
+        <data id="ph7">&lt;div class="pron-spell-container css-1hyfx7x evh0tcl1"&gt;</data>
+        <data id="ph8">&lt;span class="pron-spell-content css-z3mf2 evh0tcl2"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="40">
+        <source xml:space="preserve"><ph dataRef="ph7" id="ph7"/><ph dataRef="ph8" id="ph8"/>[ blawg, blog ]</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="41">
+      <segment canResegment="no" id="41">
+        <source xml:space="preserve">SHOW IPA</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="42">
+      <originalData>
+        <data id="ph3">&lt;div class="pron-ipa-container css-1hyfx7x evh0tcl1"&gt;</data>
+        <data id="ph4">&lt;span class="pron-ipa-content css-z3mf2 evh0tcl2"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="42">
+        <source xml:space="preserve"><ph dataRef="ph3" id="ph3"/><ph dataRef="ph4" id="ph4"/>/ blÉ”g, blÉ’g /</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="43">
+      <segment canResegment="no" id="43">
+        <source xml:space="preserve">PHONETIC RESPELLING</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="44">
+      <originalData>
+        <data id="ph5">&lt;div class="css-164r41r e12fnee31"&gt;</data>
+        <data id="ph7">&lt;a href="https://www.thesaurus.com/browse/blog" target="_blank" data-linkid="oowy0r" class="css-1pfx2g8 e12fnee32"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="44">
+        <source xml:space="preserve"><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>SEE </source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="45">
+      <segment canResegment="no" id="45">
+        <source xml:space="preserve">SYNONYMS</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="46">
+      <segment canResegment="no" id="46">
+        <source xml:space="preserve"> FOR</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="47">
+      <originalData>
+        <data id="ph0">&lt;/span&gt;</data>
+        <data id="ph1">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="47">
+        <source xml:space="preserve">blog<ph dataRef="ph0" id="ph0"/> ON THESAURUS.COM<ph dataRef="ph1" id="ph1"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="48">
+      <originalData>
+        <data id="ph2">&lt;h3 class="css-sdwj8v e1hk9ate1"&gt;</data>
+        <data id="ph3">&lt;span class="css-1gxch3 e1hk9ate2"&gt;</data>
+        <data id="ph4">&lt;span class="luna-pos"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="48">
+        <source xml:space="preserve"><ph dataRef="ph2" id="ph2"/><ph dataRef="ph3" id="ph3"/><ph dataRef="ph4" id="ph4"/>noun</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="49">
+      <originalData>
+        <data id="ph4">&lt;div value="1" class="css-kg6o37 e1q3nk1v3"&gt;</data>
+        <data id="ph5">&lt;span class="one-click-content css-1p89gle e1q3nk1v4"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="49">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/>a website containing a writer's or group of writers' own experiences, observations, opinions, etc., and often having images and links to other websites.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="50">
+      <originalData>
+        <data id="ph2">&lt;div value="2" class="css-12vimxp e1q3nk1v3"&gt;</data>
+        <data id="ph3">&lt;span class="one-click-content css-1p89gle e1q3nk1v4"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="50">
+        <source xml:space="preserve"><ph dataRef="ph2" id="ph2"/><ph dataRef="ph3" id="ph3"/>a single entry or post on such a website:</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="51">
+      <originalData>
+        <data id="ph4">&lt;span class="luna-example italic"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="51">
+        <source xml:space="preserve"> <ph dataRef="ph4" id="ph4"/>She regularly contributes a blog to the magazine's website.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="52">
+      <originalData>
+        <data id="ph3">&lt;h3 class="css-sdwj8v e1hk9ate1"&gt;</data>
+        <data id="ph4">&lt;span class="css-1gxch3 e1hk9ate2"&gt;</data>
+        <data id="ph5">&lt;span class="luna-pos"&gt;</data>
+        <data id="ph6">&lt;/span&gt;</data>
+        <data id="ph7">&lt;/span&gt;</data>
+        <data id="ph8">&lt;span class="css-t9jmot e1hk9ate3"&gt;</data>
+        <data id="ph9">&lt;span class="luna-inflected-form"&gt;</data>
+        <data id="ph10">&lt;/span&gt;</data>
+        <data id="ph11">&lt;span class="luna-inflected-form"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="52">
+        <source xml:space="preserve"><ph dataRef="ph3" id="ph3"/><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/>verb (used without object),<ph dataRef="ph6" id="ph6"/><ph dataRef="ph7" id="ph7"/><ph dataRef="ph8" id="ph8"/> <ph dataRef="ph9" id="ph9"/>blogged,<ph dataRef="ph10" id="ph10"/> <ph dataRef="ph11" id="ph11"/>blogÂ·ging.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="53">
+      <originalData>
+        <data id="ph4">&lt;div value="3" class="css-1nmzxaj e1q3nk1v3"&gt;</data>
+        <data id="ph5">&lt;span class="one-click-content css-1p89gle e1q3nk1v4"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="53">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/>to maintain or add new entries to a blog.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="54">
+      <originalData>
+        <data id="ph3">&lt;h3 class="css-sdwj8v e1hk9ate1"&gt;</data>
+        <data id="ph4">&lt;span class="css-1gxch3 e1hk9ate2"&gt;</data>
+        <data id="ph5">&lt;span class="luna-pos"&gt;</data>
+        <data id="ph6">&lt;/span&gt;</data>
+        <data id="ph7">&lt;/span&gt;</data>
+        <data id="ph8">&lt;span class="css-t9jmot e1hk9ate3"&gt;</data>
+        <data id="ph9">&lt;span class="luna-inflected-form"&gt;</data>
+        <data id="ph10">&lt;/span&gt;</data>
+        <data id="ph11">&lt;span class="luna-inflected-form"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="54">
+        <source xml:space="preserve"><ph dataRef="ph3" id="ph3"/><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/>verb (used with object),<ph dataRef="ph6" id="ph6"/><ph dataRef="ph7" id="ph7"/><ph dataRef="ph8" id="ph8"/> <ph dataRef="ph9" id="ph9"/>blogged,<ph dataRef="ph10" id="ph10"/> <ph dataRef="ph11" id="ph11"/>blogÂ·ging.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="55">
+      <originalData>
+        <data id="ph4">&lt;div value="4" class="css-1euup3e e1q3nk1v3"&gt;</data>
+        <data id="ph5">&lt;span class="one-click-content css-1p89gle e1q3nk1v4"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="55">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/>to express or write about on a blog:</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="56">
+      <originalData>
+        <data id="ph6">&lt;span class="luna-example italic"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="56">
+        <source xml:space="preserve"> <ph dataRef="ph6" id="ph6"/>Sheâ€™s been blogging her illness for almost a year.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="57">
+      <segment canResegment="no" id="57">
+        <source xml:space="preserve">Content related to </source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="58">
+      <segment canResegment="no" id="58">
+        <source xml:space="preserve">blog</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="59">
+      <originalData>
+        <data id="ph6">&lt;div class="css-2ishhi e17deyx92"&gt;</data>
+        <data id="ph8">&lt;a href="https://www.dictionary.com/e/s/political-euphemisms?itm_source=parsely-api" data-linkid="2jxcxc" target="_blank" class="css-1ye6nww e17deyx93"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="59">
+        <source xml:space="preserve"><ph dataRef="ph6" id="ph6"/><ph dataRef="ph8" id="ph8"/>Political Euphemisms:</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="60">
+      <originalData>
+        <data id="ph9">&lt;/a&gt;</data>
+        <data id="ph11">&lt;a href="https://www.dictionary.com/e/s/political-euphemisms?itm_source=parsely-api" data-linkid="2jxcxc" target="_blank" class="css-1lhhotp e17deyx94"&gt;</data>
+        <data id="ph12">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="60">
+        <source xml:space="preserve"> The Good, The Bad, The Ugly<ph dataRef="ph9" id="ph9"/><ph dataRef="ph11" id="ph11"/>Read more in this article about some frequently asked questions and fun facts related to our definitions.<ph dataRef="ph12" id="ph12"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="61">
+      <originalData>
+        <data id="ph5">&lt;/div&gt;</data>
+        <data id="ph7">&lt;a href="https://www.dictionary.com/e/s/political-euphemisms?itm_source=parsely-api" data-linkid="2jxcxc" target="_blank" class="css-1pf0x3y e17deyx97"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="61">
+        <source xml:space="preserve"><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>READ MORE<ph dataRef="ph8" id="ph8"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="62">
+      <originalData>
+        <data id="ph5">&lt;div class="css-2ishhi e17deyx92"&gt;</data>
+        <data id="ph7">&lt;a href="https://www.dictionary.com/e/acronyms/jomo?itm_source=parsely-api" data-linkid="yfagey" target="_blank" class="css-1ye6nww e17deyx93"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph10">&lt;a href="https://www.dictionary.com/e/acronyms/jomo?itm_source=parsely-api" data-linkid="yfagey" target="_blank" class="css-1lhhotp e17deyx94"&gt;</data>
+        <data id="ph11">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="62">
+        <source xml:space="preserve"><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>JOMO<ph dataRef="ph8" id="ph8"/><ph dataRef="ph10" id="ph10"/>Read more in this article about some frequently asked questions and fun facts related to our definitions.<ph dataRef="ph11" id="ph11"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="63">
+      <originalData>
+        <data id="ph5">&lt;/div&gt;</data>
+        <data id="ph7">&lt;a href="https://www.dictionary.com/e/acronyms/jomo?itm_source=parsely-api" data-linkid="yfagey" target="_blank" class="css-1pf0x3y e17deyx97"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="63">
+        <source xml:space="preserve"><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>READ MORE<ph dataRef="ph8" id="ph8"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="64">
+      <segment canResegment="no" id="64">
+        <source xml:space="preserve">Words related to </source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="65">
+      <segment canResegment="no" id="65">
+        <source xml:space="preserve">blog</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="66">
+      <originalData>
+        <data id="ph2">&lt;div class="css-ja4gt7 e15p0a5t0"&gt;</data>
+        <data id="ph4">&lt;a href="/browse/site" target="_blank" data-linkid="ugrcqa" class="css-cilpq1 e15p0a5t1"&gt;</data>
+        <data id="ph5">&lt;/a&gt;</data>
+        <data id="ph7">&lt;a href="/browse/diary" target="_blank" data-linkid="ugrcqa" class="css-cilpq1 e15p0a5t1"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph10">&lt;a href="/browse/journal" target="_blank" data-linkid="ugrcqa" class="css-cilpq1 e15p0a5t1"&gt;</data>
+        <data id="ph11">&lt;/a&gt;</data>
+        <data id="ph13">&lt;a href="/browse/record" target="_blank" data-linkid="ugrcqa" class="css-cilpq1 e15p0a5t1"&gt;</data>
+        <data id="ph14">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="66">
+        <source xml:space="preserve"><ph dataRef="ph2" id="ph2"/><ph dataRef="ph4" id="ph4"/>site<ph dataRef="ph5" id="ph5"/>, <ph dataRef="ph7" id="ph7"/>diary<ph dataRef="ph8" id="ph8"/>, <ph dataRef="ph10" id="ph10"/>journal<ph dataRef="ph11" id="ph11"/>, <ph dataRef="ph13" id="ph13"/>record<ph dataRef="ph14" id="ph14"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="67">
+      <segment canResegment="no" id="67">
+        <source xml:space="preserve">Words nearby </source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="68">
+      <segment canResegment="no" id="68">
+        <source xml:space="preserve">blog</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="69">
+      <originalData>
+        <data id="ph2">&lt;div class="css-1foc103 e14wda90"&gt;</data>
+        <data id="ph4">&lt;a href="/browse/blocking-capacitor" data-linkid="lno2pu" class="css-6xix1i e14wda92"&gt;</data>
+        <data id="ph5">&lt;/a&gt;</data>
+        <data id="ph7">&lt;a href="/browse/blockish" data-linkid="lno2pu" class="css-6xix1i e14wda92"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph10">&lt;a href="/browse/blocky" data-linkid="lno2pu" class="css-6xix1i e14wda92"&gt;</data>
+        <data id="ph11">&lt;/a&gt;</data>
+        <data id="ph13">&lt;a href="/browse/blocq-s-disease" data-linkid="lno2pu" class="css-6xix1i e14wda92"&gt;</data>
+        <data id="ph14">&lt;/a&gt;</data>
+        <data id="ph16">&lt;a href="/browse/bloemfontein" data-linkid="lno2pu" class="css-6xix1i e14wda92"&gt;</data>
+        <data id="ph17">&lt;/a&gt;</data>
+        <data id="ph18">&lt;span class="css-4kjeik e14wda91"&gt;</data>
+        <data id="ph19">&lt;/span&gt;</data>
+        <data id="ph21">&lt;a href="/browse/bloggerati" data-linkid="lno2pu" class="css-6xix1i e14wda92"&gt;</data>
+        <data id="ph22">&lt;/a&gt;</data>
+        <data id="ph24">&lt;a href="/browse/blogosphere" data-linkid="lno2pu" class="css-6xix1i e14wda92"&gt;</data>
+        <data id="ph25">&lt;/a&gt;</data>
+        <data id="ph27">&lt;a href="/browse/blogroll" data-linkid="lno2pu" class="css-6xix1i e14wda92"&gt;</data>
+        <data id="ph28">&lt;/a&gt;</data>
+        <data id="ph30">&lt;a href="/browse/blogstream" data-linkid="lno2pu" class="css-6xix1i e14wda92"&gt;</data>
+        <data id="ph31">&lt;/a&gt;</data>
+        <data id="ph33">&lt;a href="/browse/blois" data-linkid="lno2pu" class="css-6xix1i e14wda92"&gt;</data>
+        <data id="ph34">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="69">
+        <source xml:space="preserve"><ph dataRef="ph2" id="ph2"/><ph dataRef="ph4" id="ph4"/>blocking capacitor<ph dataRef="ph5" id="ph5"/>, <ph dataRef="ph7" id="ph7"/>blockish<ph dataRef="ph8" id="ph8"/>, <ph dataRef="ph10" id="ph10"/>blocky<ph dataRef="ph11" id="ph11"/>, <ph dataRef="ph13" id="ph13"/>blocq's disease<ph dataRef="ph14" id="ph14"/>, <ph dataRef="ph16" id="ph16"/>bloemfontein<ph dataRef="ph17" id="ph17"/>, <ph dataRef="ph18" id="ph18"/>blog<ph dataRef="ph19" id="ph19"/>, <ph dataRef="ph21" id="ph21"/>bloggerati<ph dataRef="ph22" id="ph22"/>, <ph dataRef="ph24" id="ph24"/>blogosphere<ph dataRef="ph25" id="ph25"/>, <ph dataRef="ph27" id="ph27"/>blogroll<ph dataRef="ph28" id="ph28"/>, <ph dataRef="ph30" id="ph30"/>blogstream<ph dataRef="ph31" id="ph31"/>, <ph dataRef="ph33" id="ph33"/>blois<ph dataRef="ph34" id="ph34"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="70">
+      <segment canResegment="no" id="70">
+        <source xml:space="preserve">Origin of </source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="71">
+      <segment canResegment="no" id="71">
+        <source xml:space="preserve">blog</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="72">
+      <originalData>
+        <data id="ph2">&lt;div class="one-click-content css-otpbu9 e16svm7n0"&gt;</data>
+        <data id="ph3">&lt;span class="luna-date"&gt;</data>
+        <data id="ph4">&lt;/span&gt;</data>
+        <data id="ph6">&lt;a href="https://www.dictionary.com/browse/weblog" class="luna-xref" data-linkid="nn1ov4"&gt;</data>
+        <data id="ph7">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="72">
+        <source xml:space="preserve"><ph dataRef="ph2" id="ph2"/>First recorded in <ph dataRef="ph3" id="ph3"/>1995â€“2000;<ph dataRef="ph4" id="ph4"/> shortening of <ph dataRef="ph6" id="ph6"/>weblog<ph dataRef="ph7" id="ph7"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="73">
+      <segment canResegment="no" id="73">
+        <source xml:space="preserve">OTHER WORDS FROM blog</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="74">
+      <originalData>
+        <data id="ph0">&lt;/h2&gt;</data>
+        <data id="ph1">&lt;span class="one-click-content css-bhupyz e614id60"&gt;</data>
+        <data id="ph2">&lt;span class="luna-runon bold"&gt;</data>
+        <data id="ph3">&lt;/span&gt;</data>
+        <data id="ph4">&lt;span class="luna-pos"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="74">
+        <source xml:space="preserve"><ph dataRef="ph0" id="ph0"/><ph dataRef="ph1" id="ph1"/><ph dataRef="ph2" id="ph2"/>blogÂ·ger<ph dataRef="ph3" id="ph3"/>, <ph dataRef="ph4" id="ph4"/>noun</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="75">
+      <segment canResegment="no" id="75">
+        <source xml:space="preserve">Dictionary.com Unabridged Based on the Random House Unabridged Dictionary, Â© Random House, Inc. 2019</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="76">
+      <segment canResegment="no" id="76">
+        <source xml:space="preserve">Examples from the Web for </source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="77">
+      <segment canResegment="no" id="77">
+        <source xml:space="preserve">blog</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="78">
+      <originalData>
+        <data id="ph6">&lt;p class="one-click-content css-a8m74p e15kc6du6"&gt;</data>
+        <data id="ph7">&lt;span class="italic"&gt;</data>
+        <data id="ph8">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="78">
+        <source xml:space="preserve"><ph dataRef="ph6" id="ph6"/>â€œIÂ´m now writing to you from goat heaven,â€� he lamented on the <ph dataRef="ph7" id="ph7"/>blog<ph dataRef="ph8" id="ph8"/> he maintains.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="79">
+      <originalData>
+        <data id="ph4">&lt;div class="css-dxxtyy e15kc6du0"&gt;</data>
+        <data id="ph5">&lt;span&gt;</data>
+        <data id="ph7">&lt;a href="http://www.thedailybeast.com/articles/2014/12/25/sweden-s-burning-christmas-goat.html?source=dictionary" data-linkid="fboxke" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+        <data id="ph10">&lt;span class="css-42igfv e15kc6du7"&gt;</data>
+        <data id="ph11">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph12">&lt;/span&gt;</data>
+        <data id="ph13">&lt;/span&gt;</data>
+        <data id="ph14">&lt;span class="css-42igfv e15kc6du8"&gt;</data>
+        <data id="ph15">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph16">&lt;/span&gt;</data>
+        <data id="ph17">&lt;/span&gt;</data>
+        <data id="ph19">&lt;a href="http://www.thedailybeast.com/articles/2014/12/25/sweden-s-burning-christmas-goat.html?source=dictionary" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph20">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph21">&lt;/span&gt;</data>
+        <data id="ph22">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="79">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>Swedenâ€™s Burning Christmas Goat<ph dataRef="ph8" id="ph8"/><ph dataRef="ph9" id="ph9"/><ph dataRef="ph10" id="ph10"/><ph dataRef="ph11" id="ph11"/>|<ph dataRef="ph12" id="ph12"/>Nina Strochlic<ph dataRef="ph13" id="ph13"/><ph dataRef="ph14" id="ph14"/><ph dataRef="ph15" id="ph15"/>|<ph dataRef="ph16" id="ph16"/>December 25, 2014<ph dataRef="ph17" id="ph17"/><ph dataRef="ph19" id="ph19"/><ph dataRef="ph20" id="ph20"/>|<ph dataRef="ph21" id="ph21"/>DAILY BEAST<ph dataRef="ph22" id="ph22"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="80">
+      <originalData>
+        <data id="ph3">&lt;p class="one-click-content css-a8m74p e15kc6du6"&gt;</data>
+        <data id="ph4">&lt;span class="italic"&gt;</data>
+        <data id="ph5">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="80">
+        <source xml:space="preserve"><ph dataRef="ph3" id="ph3"/>Her followers love her honesty and the popularity of the <ph dataRef="ph4" id="ph4"/>blog<ph dataRef="ph5" id="ph5"/> grows.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="81">
+      <originalData>
+        <data id="ph4">&lt;div class="css-dxxtyy e15kc6du0"&gt;</data>
+        <data id="ph5">&lt;span&gt;</data>
+        <data id="ph7">&lt;a href="http://www.thedailybeast.com/articles/2014/12/11/meet-zoella-the-newbie-author-whose-book-sales-topped-j-k-rowling.html?source=dictionary" data-linkid="fboxke" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="81">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>Meet Zoellaâ€”The Newbie Author Whose Book Sales Topped J.K.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="82">
+      <originalData>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+        <data id="ph10">&lt;span class="css-42igfv e15kc6du7"&gt;</data>
+        <data id="ph11">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph12">&lt;/span&gt;</data>
+        <data id="ph13">&lt;/span&gt;</data>
+        <data id="ph14">&lt;span class="css-42igfv e15kc6du8"&gt;</data>
+        <data id="ph15">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph16">&lt;/span&gt;</data>
+        <data id="ph17">&lt;/span&gt;</data>
+        <data id="ph19">&lt;a href="http://www.thedailybeast.com/articles/2014/12/11/meet-zoella-the-newbie-author-whose-book-sales-topped-j-k-rowling.html?source=dictionary" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph20">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph21">&lt;/span&gt;</data>
+        <data id="ph22">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="82">
+        <source xml:space="preserve"> Rowling<ph dataRef="ph8" id="ph8"/><ph dataRef="ph9" id="ph9"/><ph dataRef="ph10" id="ph10"/><ph dataRef="ph11" id="ph11"/>|<ph dataRef="ph12" id="ph12"/>Lucy Scholes<ph dataRef="ph13" id="ph13"/><ph dataRef="ph14" id="ph14"/><ph dataRef="ph15" id="ph15"/>|<ph dataRef="ph16" id="ph16"/>December 11, 2014<ph dataRef="ph17" id="ph17"/><ph dataRef="ph19" id="ph19"/><ph dataRef="ph20" id="ph20"/>|<ph dataRef="ph21" id="ph21"/>DAILY BEAST<ph dataRef="ph22" id="ph22"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="83">
+      <originalData>
+        <data id="ph3">&lt;p class="one-click-content css-a8m74p e15kc6du6"&gt;</data>
+        <data id="ph4">&lt;span class="italic"&gt;</data>
+        <data id="ph5">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="83">
+        <source xml:space="preserve"><ph dataRef="ph3" id="ph3"/>I started a <ph dataRef="ph4" id="ph4"/>blog<ph dataRef="ph5" id="ph5"/> called Boo Cancer, You Suck as a safe place for me to process what I was going through.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="84">
+      <originalData>
+        <data id="ph4">&lt;div class="css-dxxtyy e15kc6du0"&gt;</data>
+        <data id="ph5">&lt;span&gt;</data>
+        <data id="ph7">&lt;a href="http://www.thedailybeast.com/articles/2014/12/09/blogger-shares-and-shames-cancer-in-lily.html?source=dictionary" data-linkid="fboxke" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+        <data id="ph10">&lt;span class="css-42igfv e15kc6du7"&gt;</data>
+        <data id="ph11">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph12">&lt;/span&gt;</data>
+        <data id="ph13">&lt;/span&gt;</data>
+        <data id="ph14">&lt;span class="css-42igfv e15kc6du8"&gt;</data>
+        <data id="ph15">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph16">&lt;/span&gt;</data>
+        <data id="ph17">&lt;/span&gt;</data>
+        <data id="ph19">&lt;a href="http://www.thedailybeast.com/articles/2014/12/09/blogger-shares-and-shames-cancer-in-lily.html?source=dictionary" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph20">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph21">&lt;/span&gt;</data>
+        <data id="ph22">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="84">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>Blogger Shares and Shames Cancer in â€˜Lilyâ€™<ph dataRef="ph8" id="ph8"/><ph dataRef="ph9" id="ph9"/><ph dataRef="ph10" id="ph10"/><ph dataRef="ph11" id="ph11"/>|<ph dataRef="ph12" id="ph12"/>Amy Grantham<ph dataRef="ph13" id="ph13"/><ph dataRef="ph14" id="ph14"/><ph dataRef="ph15" id="ph15"/>|<ph dataRef="ph16" id="ph16"/>December 9, 2014<ph dataRef="ph17" id="ph17"/><ph dataRef="ph19" id="ph19"/><ph dataRef="ph20" id="ph20"/>|<ph dataRef="ph21" id="ph21"/>DAILY BEAST<ph dataRef="ph22" id="ph22"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="85">
+      <originalData>
+        <data id="ph3">&lt;p class="one-click-content css-a8m74p e15kc6du6"&gt;</data>
+        <data id="ph4">&lt;span class="italic"&gt;</data>
+        <data id="ph5">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="85">
+        <source xml:space="preserve"><ph dataRef="ph3" id="ph3"/>The amount of love and support that was given to me through the <ph dataRef="ph4" id="ph4"/>blog<ph dataRef="ph5" id="ph5"/> was incredible.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="86">
+      <originalData>
+        <data id="ph4">&lt;div class="css-dxxtyy e15kc6du0"&gt;</data>
+        <data id="ph5">&lt;span&gt;</data>
+        <data id="ph7">&lt;a href="http://www.thedailybeast.com/articles/2014/12/09/blogger-shares-and-shames-cancer-in-lily.html?source=dictionary" data-linkid="fboxke" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+        <data id="ph10">&lt;span class="css-42igfv e15kc6du7"&gt;</data>
+        <data id="ph11">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph12">&lt;/span&gt;</data>
+        <data id="ph13">&lt;/span&gt;</data>
+        <data id="ph14">&lt;span class="css-42igfv e15kc6du8"&gt;</data>
+        <data id="ph15">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph16">&lt;/span&gt;</data>
+        <data id="ph17">&lt;/span&gt;</data>
+        <data id="ph19">&lt;a href="http://www.thedailybeast.com/articles/2014/12/09/blogger-shares-and-shames-cancer-in-lily.html?source=dictionary" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph20">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph21">&lt;/span&gt;</data>
+        <data id="ph22">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="86">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>Blogger Shares and Shames Cancer in â€˜Lilyâ€™<ph dataRef="ph8" id="ph8"/><ph dataRef="ph9" id="ph9"/><ph dataRef="ph10" id="ph10"/><ph dataRef="ph11" id="ph11"/>|<ph dataRef="ph12" id="ph12"/>Amy Grantham<ph dataRef="ph13" id="ph13"/><ph dataRef="ph14" id="ph14"/><ph dataRef="ph15" id="ph15"/>|<ph dataRef="ph16" id="ph16"/>December 9, 2014<ph dataRef="ph17" id="ph17"/><ph dataRef="ph19" id="ph19"/><ph dataRef="ph20" id="ph20"/>|<ph dataRef="ph21" id="ph21"/>DAILY BEAST<ph dataRef="ph22" id="ph22"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="87">
+      <originalData>
+        <data id="ph6">&lt;p class="one-click-content css-a8m74p e15kc6du6"&gt;</data>
+        <data id="ph7">&lt;span class="italic"&gt;</data>
+        <data id="ph8">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="87">
+        <source xml:space="preserve"><ph dataRef="ph6" id="ph6"/>I was surprised at the number of people who started following my <ph dataRef="ph7" id="ph7"/>blog<ph dataRef="ph8" id="ph8"/>.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="88">
+      <originalData>
+        <data id="ph4">&lt;div class="css-dxxtyy e15kc6du0"&gt;</data>
+        <data id="ph5">&lt;span&gt;</data>
+        <data id="ph7">&lt;a href="http://www.thedailybeast.com/articles/2014/12/09/blogger-shares-and-shames-cancer-in-lily.html?source=dictionary" data-linkid="fboxke" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+        <data id="ph10">&lt;span class="css-42igfv e15kc6du7"&gt;</data>
+        <data id="ph11">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph12">&lt;/span&gt;</data>
+        <data id="ph13">&lt;/span&gt;</data>
+        <data id="ph14">&lt;span class="css-42igfv e15kc6du8"&gt;</data>
+        <data id="ph15">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph16">&lt;/span&gt;</data>
+        <data id="ph17">&lt;/span&gt;</data>
+        <data id="ph19">&lt;a href="http://www.thedailybeast.com/articles/2014/12/09/blogger-shares-and-shames-cancer-in-lily.html?source=dictionary" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph20">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph21">&lt;/span&gt;</data>
+        <data id="ph22">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="88">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>Blogger Shares and Shames Cancer in â€˜Lilyâ€™<ph dataRef="ph8" id="ph8"/><ph dataRef="ph9" id="ph9"/><ph dataRef="ph10" id="ph10"/><ph dataRef="ph11" id="ph11"/>|<ph dataRef="ph12" id="ph12"/>Amy Grantham<ph dataRef="ph13" id="ph13"/><ph dataRef="ph14" id="ph14"/><ph dataRef="ph15" id="ph15"/>|<ph dataRef="ph16" id="ph16"/>December 9, 2014<ph dataRef="ph17" id="ph17"/><ph dataRef="ph19" id="ph19"/><ph dataRef="ph20" id="ph20"/>|<ph dataRef="ph21" id="ph21"/>DAILY BEAST<ph dataRef="ph22" id="ph22"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="89">
+      <originalData>
+        <data id="ph3">&lt;p class="one-click-content css-a8m74p e15kc6du6"&gt;</data>
+        <data id="ph4">&lt;span class="italic"&gt;</data>
+        <data id="ph5">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="89">
+        <source xml:space="preserve"><ph dataRef="ph3" id="ph3"/>Lester always complained when she quoted him directly in her <ph dataRef="ph4" id="ph4"/>blog<ph dataRef="ph5" id="ph5"/> posts, but she thought he secretly enjoyed it.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="90">
+      <originalData>
+        <data id="ph4">&lt;div class="css-dxxtyy e15kc6du0"&gt;</data>
+        <data id="ph5">&lt;span&gt;</data>
+        <data id="ph7">&lt;a href="http://www.gutenberg.org/files/34527/34527-h/34527-h.htm" data-linkid="sl8bq9" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+        <data id="ph10">&lt;span class="css-42igfv e15kc6du7"&gt;</data>
+        <data id="ph11">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph12">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="90">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>Makers<ph dataRef="ph8" id="ph8"/><ph dataRef="ph9" id="ph9"/><ph dataRef="ph10" id="ph10"/><ph dataRef="ph11" id="ph11"/>|<ph dataRef="ph12" id="ph12"/>Cory Doctorow</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="91">
+      <originalData>
+        <data id="ph3">&lt;p class="one-click-content css-a8m74p e15kc6du6"&gt;</data>
+        <data id="ph4">&lt;span class="italic"&gt;</data>
+        <data id="ph5">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="91">
+        <source xml:space="preserve"><ph dataRef="ph3" id="ph3"/>I started a new category on my <ph dataRef="ph4" id="ph4"/>blog<ph dataRef="ph5" id="ph5"/> for this, AbusesOfAuthority, and filed them away.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="92">
+      <originalData>
+        <data id="ph4">&lt;div class="css-dxxtyy e15kc6du0"&gt;</data>
+        <data id="ph5">&lt;span&gt;</data>
+        <data id="ph7">&lt;a href="http://www.gutenberg.org/files/30142/30142-h/30142-h.htm" data-linkid="sl8bq9" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+        <data id="ph10">&lt;span class="css-42igfv e15kc6du7"&gt;</data>
+        <data id="ph11">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph12">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="92">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>Little Brother<ph dataRef="ph8" id="ph8"/><ph dataRef="ph9" id="ph9"/><ph dataRef="ph10" id="ph10"/><ph dataRef="ph11" id="ph11"/>|<ph dataRef="ph12" id="ph12"/>Cory Doctorow</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="93">
+      <originalData>
+        <data id="ph3">&lt;p class="one-click-content css-a8m74p e15kc6du6"&gt;</data>
+        <data id="ph4">&lt;span class="italic"&gt;</data>
+        <data id="ph5">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="93">
+        <source xml:space="preserve"><ph dataRef="ph3" id="ph3"/>She felt a twinge of regret for not publishing it on her <ph dataRef="ph4" id="ph4"/>blog<ph dataRef="ph5" id="ph5"/>â€”that would have been some serious advertising coin.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="94">
+      <originalData>
+        <data id="ph4">&lt;div class="css-dxxtyy e15kc6du0"&gt;</data>
+        <data id="ph5">&lt;span&gt;</data>
+        <data id="ph7">&lt;a href="http://www.gutenberg.org/files/34527/34527-h/34527-h.htm" data-linkid="sl8bq9" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+        <data id="ph10">&lt;span class="css-42igfv e15kc6du7"&gt;</data>
+        <data id="ph11">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph12">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="94">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>Makers<ph dataRef="ph8" id="ph8"/><ph dataRef="ph9" id="ph9"/><ph dataRef="ph10" id="ph10"/><ph dataRef="ph11" id="ph11"/>|<ph dataRef="ph12" id="ph12"/>Cory Doctorow</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="95">
+      <originalData>
+        <data id="ph3">&lt;p class="one-click-content css-a8m74p e15kc6du6"&gt;</data>
+        <data id="ph4">&lt;span class="italic"&gt;</data>
+        <data id="ph5">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="95">
+        <source xml:space="preserve"><ph dataRef="ph3" id="ph3"/>So she retreated to <ph dataRef="ph4" id="ph4"/>blog<ph dataRef="ph5" id="ph5"/> in a cafe, posting snippets and impressions from her days with the boys, along with photos.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="96">
+      <originalData>
+        <data id="ph4">&lt;div class="css-dxxtyy e15kc6du0"&gt;</data>
+        <data id="ph5">&lt;span&gt;</data>
+        <data id="ph7">&lt;a href="http://www.gutenberg.org/files/34527/34527-h/34527-h.htm" data-linkid="sl8bq9" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+        <data id="ph10">&lt;span class="css-42igfv e15kc6du7"&gt;</data>
+        <data id="ph11">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph12">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="96">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>Makers<ph dataRef="ph8" id="ph8"/><ph dataRef="ph9" id="ph9"/><ph dataRef="ph10" id="ph10"/><ph dataRef="ph11" id="ph11"/>|<ph dataRef="ph12" id="ph12"/>Cory Doctorow</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="97">
+      <originalData>
+        <data id="ph3">&lt;p class="one-click-content css-a8m74p e15kc6du6"&gt;</data>
+        <data id="ph4">&lt;span class="italic"&gt;</data>
+        <data id="ph5">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="97">
+        <source xml:space="preserve"><ph dataRef="ph3" id="ph3"/>That was the first line of my first <ph dataRef="ph4" id="ph4"/>blog<ph dataRef="ph5" id="ph5"/> post on Open Revolt, my Xnet site.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="98">
+      <originalData>
+        <data id="ph4">&lt;div class="css-dxxtyy e15kc6du0"&gt;</data>
+        <data id="ph5">&lt;span&gt;</data>
+        <data id="ph7">&lt;a href="http://www.gutenberg.org/files/30142/30142-h/30142-h.htm" data-linkid="sl8bq9" rel="nofollow" class="css-6q1qpl e15kc6du2"&gt;</data>
+        <data id="ph8">&lt;/a&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+        <data id="ph10">&lt;span class="css-42igfv e15kc6du7"&gt;</data>
+        <data id="ph11">&lt;span class="css-hqvw25 e15kc6du1"&gt;</data>
+        <data id="ph12">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="98">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph7" id="ph7"/>Little Brother<ph dataRef="ph8" id="ph8"/><ph dataRef="ph9" id="ph9"/><ph dataRef="ph10" id="ph10"/><ph dataRef="ph11" id="ph11"/>|<ph dataRef="ph12" id="ph12"/>Cory Doctorow</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="99">
+      <originalData>
+        <data id="ph6">&lt;button type="button" class="expandable-button message expand"&gt;</data>
+        <data id="ph7">&lt;strong data-ci-target="seeMoreExamples"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="99">
+        <source xml:space="preserve"><ph dataRef="ph6" id="ph6"/><ph dataRef="ph7" id="ph7"/>SEE MORE EXAMPLES</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="100">
+      <originalData>
+        <data id="ph2">&lt;button type="button" class="expandable-button message collapse"&gt;</data>
+        <data id="ph3">&lt;strong data-ci-target="seeLessExamples"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="100">
+        <source xml:space="preserve"><ph dataRef="ph2" id="ph2"/><ph dataRef="ph3" id="ph3"/>SEE FEWER EXAMPLES</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="101">
+      <originalData>
+        <data id="ph4">&lt;button type="button" class="expandable-button icon expand"&gt;</data>
+        <data id="ph5">&lt;span data-ci-target="seeMoreExamples"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="101">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/>î˜“</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="102">
+      <originalData>
+        <data id="ph2">&lt;button type="button" class="expandable-button icon collapse"&gt;</data>
+        <data id="ph3">&lt;span data-ci-target="seeLessExamples"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="102">
+        <source xml:space="preserve"><ph dataRef="ph2" id="ph2"/><ph dataRef="ph3" id="ph3"/>î˜“</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="103">
+      <originalData>
+        <data id="ph10">&lt;h2 class="css-123d8bo-EditorialTitleH2 e1bbcgok3"&gt;</data>
+        <data id="ph12">&lt;a href="https://www.dictionary.com/e/" data-linkid="2azoy5" class="css-wxozmn-EditorialTitleLink e1bbcgok4"&gt;</data>
+        <data id="ph13">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="103">
+        <source xml:space="preserve"><ph dataRef="ph10" id="ph10"/><ph dataRef="ph12" id="ph12"/>Explore Dictionary.com<ph dataRef="ph13" id="ph13"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="104">
+      <segment canResegment="no" id="104">
+        <source xml:space="preserve">Modern Ways To Express Your Love And Affection</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="105">
+      <segment canResegment="no" id="105">
+        <source xml:space="preserve">Modern Ways To Express Your Love And Affection</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="106">
+      <segment canResegment="no" id="106">
+        <source xml:space="preserve">Empathy vs. Sympathy:</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="107">
+      <segment canResegment="no" id="107">
+        <source xml:space="preserve"> Which Word To Use And When</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="108">
+      <segment canResegment="no" id="108">
+        <source xml:space="preserve">Empathy vs. Sympathy:</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="109">
+      <segment canResegment="no" id="109">
+        <source xml:space="preserve"> Which Word To Use And When</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="110">
+      <segment canResegment="no" id="110">
+        <source xml:space="preserve">â€œComplimentâ€� vs. â€œComplementâ€�:</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="111">
+      <segment canResegment="no" id="111">
+        <source xml:space="preserve"> How To Pick The Right Word</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="112">
+      <segment canResegment="no" id="112">
+        <source xml:space="preserve">â€œComplimentâ€� vs. â€œComplementâ€�:</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="113">
+      <segment canResegment="no" id="113">
+        <source xml:space="preserve"> How To Pick The Right Word</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="114">
+      <segment canResegment="no" id="114">
+        <source xml:space="preserve">Advice vs. Advise</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="115">
+      <segment canResegment="no" id="115">
+        <source xml:space="preserve">Advice vs. Advise</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="116">
+      <segment canResegment="no" id="116">
+        <source xml:space="preserve">Savor The Rhapsodic Joy Of This Weekâ€™s Word Quiz!</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="117">
+      <segment canResegment="no" id="117">
+        <source xml:space="preserve">Savor The Rhapsodic Joy Of This Weekâ€™s Word Quiz!</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="118">
+      <segment canResegment="no" id="118">
+        <source xml:space="preserve">Yams Vs.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="119">
+      <segment canResegment="no" id="119">
+        <source xml:space="preserve"> Sweet Potatoes:</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="120">
+      <segment canResegment="no" id="120">
+        <source xml:space="preserve"> Whatâ€™s The Difference?</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="121">
+      <segment canResegment="no" id="121">
+        <source xml:space="preserve">Yams Vs.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="122">
+      <segment canResegment="no" id="122">
+        <source xml:space="preserve"> Sweet Potatoes:</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="123">
+      <segment canResegment="no" id="123">
+        <source xml:space="preserve"> Whatâ€™s The Difference?</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="124">
+      <segment canResegment="no" id="124">
+        <source xml:space="preserve">British Dictionary definitions for</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="125">
+      <segment canResegment="no" id="125">
+        <source xml:space="preserve">blog</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="126">
+      <originalData>
+        <data id="ph4">&lt;div class="css-b8jc62 e1rg2mtf5"&gt;</data>
+        <data id="ph5">&lt;span class="css-1jzk4d9 e1rg2mtf8"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="126">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/>blog</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="127">
+      <originalData>
+        <data id="ph6">&lt;div class="pron-ipa-container css-1hyfx7x evh0tcl1"&gt;</data>
+        <data id="ph7">&lt;span class="pron-ipa-content css-z3mf2 evh0tcl2"&gt;</data>
+        <data id="ph8">&lt;span class="pron"&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="127">
+        <source xml:space="preserve"><ph dataRef="ph6" id="ph6"/><ph dataRef="ph7" id="ph7"/>/ (<ph dataRef="ph8" id="ph8"/>blÉ’É¡<ph dataRef="ph9" id="ph9"/>) /</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="128">
+      <originalData>
+        <data id="ph4">&lt;h3 class="css-sdwj8v e1hk9ate1"&gt;</data>
+        <data id="ph5">&lt;span class="css-1gxch3 e1hk9ate2"&gt;</data>
+        <data id="ph6">&lt;span class="pos"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="128">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph6" id="ph6"/>noun</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="129">
+      <originalData>
+        <data id="ph4">&lt;div value="1" class="css-kg6o37 e1q3nk1v3"&gt;</data>
+        <data id="ph5">&lt;span class="one-click-content css-1p89gle e1q3nk1v4"&gt;</data>
+        <data id="ph6">&lt;span class="label italic"&gt;</data>
+        <data id="ph7">&lt;/span&gt;</data>
+        <data id="ph8">&lt;/span&gt;</data>
+        <data id="ph9">&lt;span class="one-click-content css-1p89gle e1q3nk1v4"&gt;</data>
+        <data id="ph10">&lt;/span&gt;</data>
+        <data id="ph11">&lt;span class="one-click-content css-qbz9p4 e1q3nk1v5"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="129">
+        <source xml:space="preserve"><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph6" id="ph6"/>informal<ph dataRef="ph7" id="ph7"/> <ph dataRef="ph8" id="ph8"/><ph dataRef="ph9" id="ph9"/>an online journal<ph dataRef="ph10" id="ph10"/><ph dataRef="ph11" id="ph11"/>Full name:</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="130">
+      <originalData>
+        <data id="ph12">&lt;span class="variant bold"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="130">
+        <source xml:space="preserve"> <ph dataRef="ph12" id="ph12"/>weblog</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="131">
+      <segment canResegment="no" id="131">
+        <source xml:space="preserve">Derived forms of blog</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="132">
+      <originalData>
+        <data id="ph0">&lt;/h2&gt;</data>
+        <data id="ph1">&lt;span class="one-click-content css-bhupyz e614id60"&gt;</data>
+        <data id="ph2">&lt;span class="headword bold"&gt;</data>
+        <data id="ph3">&lt;/span&gt;</data>
+        <data id="ph4">&lt;span class="pos"&gt;</data>
+        <data id="ph5">&lt;/span&gt;</data>
+        <data id="ph6">&lt;/span&gt;</data>
+        <data id="ph7">&lt;span class="one-click-content css-bhupyz e614id60"&gt;</data>
+        <data id="ph8">&lt;span class="headword bold"&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+        <data id="ph10">&lt;span class="pos"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="132">
+        <source xml:space="preserve"><ph dataRef="ph0" id="ph0"/><ph dataRef="ph1" id="ph1"/><ph dataRef="ph2" id="ph2"/>blogger<ph dataRef="ph3" id="ph3"/>, <ph dataRef="ph4" id="ph4"/>noun<ph dataRef="ph5" id="ph5"/><ph dataRef="ph6" id="ph6"/><ph dataRef="ph7" id="ph7"/><ph dataRef="ph8" id="ph8"/>blogging<ph dataRef="ph9" id="ph9"/>, <ph dataRef="ph10" id="ph10"/>noun</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="133">
+      <segment canResegment="no" id="133">
+        <source xml:space="preserve">Collins English Dictionary - Complete &amp; Unabridged 2012 Digital Edition Â© William Collins Sons &amp; Co.</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="134">
+      <segment canResegment="no" id="134">
+        <source xml:space="preserve"> Ltd. 1979, 1986 Â© HarperCollins Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="135">
+      <originalData>
+        <data id="ph2">&lt;div class="css-1c58498-EditorialTitleWrapper e1bbcgok2"&gt;</data>
+        <data id="ph4">&lt;a href="https://www.dictionary.com/e/" data-linkid="lcs15a" class="css-1p7xk26-EditorialTitleLink e1bbcgok4"&gt;</data>
+        <data id="ph5">&lt;/a&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="135">
+        <source xml:space="preserve"><ph dataRef="ph2" id="ph2"/><ph dataRef="ph4" id="ph4"/>Others Are Reading<ph dataRef="ph5" id="ph5"/></source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="136">
+      <segment canResegment="no" id="136">
+        <source xml:space="preserve">Talk Turkey Year-Round With This Thanksgiving Quiz!</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="137">
+      <segment canResegment="no" id="137">
+        <source xml:space="preserve">Talk Turkey Year-Round With This Thanksgiving Quiz!</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="138">
+      <segment canResegment="no" id="138">
+        <source xml:space="preserve">Whatâ€™s The Difference Between â€œi.e.â€� And â€œe.g.â€�?</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="139">
+      <segment canResegment="no" id="139">
+        <source xml:space="preserve">Whatâ€™s The Difference Between â€œi.e.â€� And â€œe.g.â€�?</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="140">
+      <segment canResegment="no" id="140">
+        <source xml:space="preserve">WORD OF THE DAY</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="141">
+      <originalData>
+        <data id="ph0">&lt;/p&gt;</data>
+        <data id="ph1">&lt;span class="wotd-word css-klr4kg-WotdWord e1reors13"&gt;</data>
+        <data id="ph2">&lt;/span&gt;</data>
+        <data id="ph3">&lt;span class="wotd-details css-l5e1qn-WotdDetails e1reors14"&gt;</data>
+        <data id="ph4">&lt;span class="css-68nz7a-BlockSpan e1reors15"&gt;</data>
+        <data id="ph5">&lt;em&gt;</data>
+        <data id="ph6">&lt;span class="luna-pos"&gt;</data>
+        <data id="ph7">&lt;/span&gt;</data>
+        <data id="ph8">&lt;/em&gt;</data>
+        <data id="ph9">&lt;/span&gt;</data>
+        <data id="ph10">&lt;span class="css-1of61ad-BlockSpan-Pipe e1reors16"&gt;</data>
+        <data id="ph11">&lt;/span&gt;</data>
+        <data id="ph12">&lt;span class="css-kznuui-BlockSpan-Pronunciation e1reors17"&gt;</data>
+        <data id="ph13">&lt;span class="bold"&gt;</data>
+        <data id="ph14">&lt;/span&gt;</data>
+        <data id="ph15">&lt;span class="italic"&gt;</data>
+        <data id="ph16">&lt;/span&gt;</data>
+        <data id="ph17">&lt;/span&gt;</data>
+        <data id="ph18">&lt;span class="audio-wrapper"&gt;</data>
+        <data id="ph19">&lt;span class="wotd-audio-btn css-73moer-AudioButton e1reors18" data-ci-target="audio"&gt;</data>
+        <data id="ph20">&lt;/span&gt;</data>
+        <data id="ph21">&lt;audio class="wotd-audio" preload="none"&gt;</data>
+        <data id="ph22">&lt;source src="https://static.sfdict.com/audio/P06/P0677600.mp3"/&gt;</data>
+        <data id="ph23">&lt;/audio&gt;</data>
+        <data id="ph24">&lt;/span&gt;</data>
+        <data id="ph25">&lt;/span&gt;</data>
+        <data id="ph26">&lt;span class="css-rtke0m-SeeMoreLink e1reors19"&gt;</data>
+      </originalData>
+      <segment canResegment="no" id="141">
+        <source xml:space="preserve"><ph dataRef="ph0" id="ph0"/><ph dataRef="ph1" id="ph1"/>postprandial<ph dataRef="ph2" id="ph2"/><ph dataRef="ph3" id="ph3"/><ph dataRef="ph4" id="ph4"/><ph dataRef="ph5" id="ph5"/><ph dataRef="ph6" id="ph6"/>adjective<ph dataRef="ph7" id="ph7"/><ph dataRef="ph8" id="ph8"/><ph dataRef="ph9" id="ph9"/><ph dataRef="ph10" id="ph10"/> | <ph dataRef="ph11" id="ph11"/><ph dataRef="ph12" id="ph12"/>[pohst-<ph dataRef="ph13" id="ph13"/>pran<ph dataRef="ph14" id="ph14"/>-dee-<ph dataRef="ph15" id="ph15"/>uh<ph dataRef="ph16" id="ph16"/>l]<ph dataRef="ph17" id="ph17"/><ph dataRef="ph18" id="ph18"/><ph dataRef="ph19" id="ph19"/><ph dataRef="ph20" id="ph20"/><ph dataRef="ph21" id="ph21"/><ph dataRef="ph22" id="ph22"/><ph dataRef="ph23" id="ph23"/><ph dataRef="ph24" id="ph24"/><ph dataRef="ph25" id="ph25"/><ph dataRef="ph26" id="ph26"/>SEE DEFINITION</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="142">
+      <segment canResegment="no" id="142">
+        <source xml:space="preserve">How Do People Say Grace In Other Religions And Cultures?</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="143">
+      <segment canResegment="no" id="143">
+        <source xml:space="preserve">How Do People Say Grace In Other Religions And Cultures?</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="144">
+      <segment canResegment="no" id="144">
+        <source xml:space="preserve">What Are Some Synonyms For Top Slang Words?</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="145">
+      <segment canResegment="no" id="145">
+        <source xml:space="preserve">What Are Some Synonyms For Top Slang Words?</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="146">
+      <segment canResegment="no" id="146">
+        <source xml:space="preserve">Browse the </source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="147">
+      <segment canResegment="no" id="147">
+        <source xml:space="preserve">Dictionary</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="148">
+      <segment canResegment="no" id="148">
+        <source xml:space="preserve">:</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="149">
+      <segment canResegment="no" id="149">
+        <source xml:space="preserve">#</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="150">
+      <segment canResegment="no" id="150">
+        <source xml:space="preserve">A</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="151">
+      <segment canResegment="no" id="151">
+        <source xml:space="preserve">B</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="152">
+      <segment canResegment="no" id="152">
+        <source xml:space="preserve">C</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="153">
+      <segment canResegment="no" id="153">
+        <source xml:space="preserve">D</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="154">
+      <segment canResegment="no" id="154">
+        <source xml:space="preserve">E</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="155">
+      <segment canResegment="no" id="155">
+        <source xml:space="preserve">F</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="156">
+      <segment canResegment="no" id="156">
+        <source xml:space="preserve">G</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="157">
+      <segment canResegment="no" id="157">
+        <source xml:space="preserve">H</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="158">
+      <segment canResegment="no" id="158">
+        <source xml:space="preserve">I</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="159">
+      <segment canResegment="no" id="159">
+        <source xml:space="preserve">J</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="160">
+      <segment canResegment="no" id="160">
+        <source xml:space="preserve">K</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="161">
+      <segment canResegment="no" id="161">
+        <source xml:space="preserve">L</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="162">
+      <segment canResegment="no" id="162">
+        <source xml:space="preserve">M</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="163">
+      <segment canResegment="no" id="163">
+        <source xml:space="preserve">N</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="164">
+      <segment canResegment="no" id="164">
+        <source xml:space="preserve">O</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="165">
+      <segment canResegment="no" id="165">
+        <source xml:space="preserve">P</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="166">
+      <segment canResegment="no" id="166">
+        <source xml:space="preserve">Q</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="167">
+      <segment canResegment="no" id="167">
+        <source xml:space="preserve">R</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="168">
+      <segment canResegment="no" id="168">
+        <source xml:space="preserve">S</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="169">
+      <segment canResegment="no" id="169">
+        <source xml:space="preserve">T</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="170">
+      <segment canResegment="no" id="170">
+        <source xml:space="preserve">U</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="171">
+      <segment canResegment="no" id="171">
+        <source xml:space="preserve">V</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="172">
+      <segment canResegment="no" id="172">
+        <source xml:space="preserve">W</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="173">
+      <segment canResegment="no" id="173">
+        <source xml:space="preserve">X</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="174">
+      <segment canResegment="no" id="174">
+        <source xml:space="preserve">Y</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="175">
+      <segment canResegment="no" id="175">
+        <source xml:space="preserve">Z</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="176">
+      <segment canResegment="no" id="176">
+        <source xml:space="preserve">Browse by Category:</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="177">
+      <segment canResegment="no" id="177">
+        <source xml:space="preserve">Slang</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="178">
+      <segment canResegment="no" id="178">
+        <source xml:space="preserve">Emoji</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="179">
+      <segment canResegment="no" id="179">
+        <source xml:space="preserve">Acronyms</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="180">
+      <segment canResegment="no" id="180">
+        <source xml:space="preserve">Pop Culture</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="181">
+      <segment canResegment="no" id="181">
+        <source xml:space="preserve">More</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="182">
+      <segment canResegment="no" id="182">
+        <source xml:space="preserve">About</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="183">
+      <segment canResegment="no" id="183">
+        <source xml:space="preserve">Careers</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="184">
+      <segment canResegment="no" id="184">
+        <source xml:space="preserve">Contact Us</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="185">
+      <segment canResegment="no" id="185">
+        <source xml:space="preserve">Cookies, Terms, &amp; Privacy</source>
+      </segment>
+    </unit>
+    <unit canResegment="no" id="186">
+      <segment canResegment="no" id="186">
+        <source xml:space="preserve">Â© 2019 Dictionary.com, LLC</source>
+      </segment>
+    </unit>
+  </file>
+</xliff>

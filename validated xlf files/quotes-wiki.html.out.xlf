@@ -1,0 +1,5509 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en-GB" trgLang="en-GB" xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0">
+<file id="1" canResegment="no" original="quotes-wiki.html">
+<skeleton href="C:\Users\Tobi Aroyehun\AppData\Roaming\Maxprograms\skl\quotes-wiki.html12432136346344057228.skl"></skeleton>
+<mda:metadata>
+<mda:metaGroup category="format">
+<mda:meta type="datatype">html</mda:meta>
+</mda:metaGroup>
+<mda:metaGroup category="tool">
+<mda:meta type="tool-id">OpenXLIFF</mda:meta>
+<mda:meta type="tool-name">OpenXLIFF Filters</mda:meta>
+<mda:meta type="tool-version">1.5.1 20190922_0931</mda:meta>
+</mda:metaGroup>
+<mda:metaGroup category="PI">
+<mda:meta type="encoding">x-windows-949</mda:meta>
+</mda:metaGroup>
+</mda:metadata>
+<unit id="0">
+<segment id="0">
+<source xml:space="preserve">Web scraping - Wikipedia</source>
+</segment>
+</unit>
+<unit id="1">
+<segment id="1">
+<source xml:space="preserve">MediaWiki 1.35.0-wmf.5</source>
+</segment>
+</unit>
+<unit id="2">
+<segment id="2">
+<source xml:space="preserve">origin</source>
+</segment>
+</unit>
+<unit id="3">
+<segment id="3">
+<source xml:space="preserve">origin-when-crossorigin</source>
+</segment>
+</unit>
+<unit id="4">
+<segment id="4">
+<source xml:space="preserve">origin-when-cross-origin</source>
+</segment>
+</unit>
+<unit id="5">
+<segment id="5">
+<source xml:space="preserve">Web scraping</source>
+</segment>
+</unit>
+<unit id="6">
+<segment id="6">
+<source xml:space="preserve">From Wikipedia, the free encyclopedia</source>
+</segment>
+</unit>
+<unit id="7">
+<originalData>
+<data id="d1">&lt;/div></data>
+<data id="d2">&lt;a class="mw-jump-link" href="#mw-head"></data>
+<data id="d3">&lt;/a></data>
+<data id="d4">&lt;a class="mw-jump-link" href="#p-search"></data>
+</originalData>
+<segment id="7">
+<source xml:space="preserve"><ph id="ph6" dataRef="d1"/> <ph id="ph8" dataRef="d2"/>Jump to navigation<ph id="ph9" dataRef="d3"/> <ph id="ph11" dataRef="d4"/>Jump to search<ph id="ph12" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="8">
+<originalData>
+<data id="d1">&lt;div class="mbox-text-span"></data>
+<data id="d2">&lt;b></data>
+<data id="d3">&lt;a href="/wiki/Wikipedia:Verifiability" title="</data>
+</originalData>
+<segment id="8">
+<source xml:space="preserve"><ph id="ph22" dataRef="d1"/>This article <ph id="ph23" dataRef="d2"/>needs additional citations for <ph id="ph24" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="9">
+<segment id="9">
+<source xml:space="preserve">Wikipedia:Verifiability</source>
+</segment>
+</unit>
+<unit id="10">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+</originalData>
+<segment id="10">
+<source xml:space="preserve"><ph id="ph25" dataRef="d1"/>verification<ph id="ph26" dataRef="d2"/><ph id="ph27" dataRef="d3"/>.</source>
+</segment>
+</unit>
+<unit id="11">
+<originalData>
+<data id="d1">&lt;span class="hide-when-compact"></data>
+<data id="d2">&lt;a class="external text" href="https://en.wikipedia.org/w/index.php?title=Web_scraping&amp;action=edit"></data>
+<data id="d3">&lt;/a></data>
+<data id="d4">&lt;a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="</data>
+</originalData>
+<segment id="11">
+<source xml:space="preserve"><ph id="ph28" dataRef="d1"/> Please help <ph id="ph30" dataRef="d2"/>improve this article<ph id="ph31" dataRef="d3"/> by <ph id="ph32" dataRef="d4"/></source>
+</segment>
+</unit>
+<unit id="12">
+<segment id="12">
+<source xml:space="preserve">Help:Introduction to referencing with Wiki Markup/1</source>
+</segment>
+</unit>
+<unit id="13">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="13">
+<source xml:space="preserve"><ph id="ph33" dataRef="d1"/>adding citations to reliable sources<ph id="ph34" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="14">
+<segment id="14">
+<source xml:space="preserve"> Unsourced material may be challenged and removed.</source>
+</segment>
+</unit>
+<unit id="15">
+<originalData>
+<data id="d1">&lt;/i></data>
+<data id="d2">&lt;a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Web+scraping%22"></data>
+<data id="d3">&lt;/a></data>
+<data id="d4">&lt;a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Web+scraping%22+-wikipedia"></data>
+<data id="d5">&lt;b></data>
+<data id="d6">&lt;/b></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Web+scraping%22+site:news.google.com/newspapers&amp;source=newspapers"></data>
+<data id="d8">&lt;a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Web+scraping%22+-wikipedia"></data>
+<data id="d9">&lt;a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Web+scraping%22"></data>
+<data id="d10">&lt;a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Web+scraping%22&amp;acc=on&amp;wc=on"></data>
+<data id="d11">&lt;/span></data>
+<data id="d12">&lt;/small></data>
+<data id="d13">&lt;small class="date-container"></data>
+<data id="d14">&lt;i></data>
+<data id="d15">&lt;span class="date"></data>
+<data id="d16">&lt;small class="hide-when-compact"></data>
+<data id="d17">&lt;a href="/wiki/Help:Maintenance_template_removal" title="</data>
+</originalData>
+<segment id="15">
+<source xml:space="preserve">Find sources:<ph id="ph0" dataRef="d1"/> <ph id="ph2" dataRef="d2"/>"Web scraping"<ph id="ph3" dataRef="d3"/> �� <ph id="ph5" dataRef="d4"/>news<ph id="ph6" dataRef="d3"/> <ph id="ph7" dataRef="d5"/>쨌<ph id="ph8" dataRef="d6"/> <ph id="ph10" dataRef="d7"/>newspapers<ph id="ph11" dataRef="d3"/> <ph id="ph12" dataRef="d5"/>쨌<ph id="ph13" dataRef="d6"/> <ph id="ph15" dataRef="d8"/>books<ph id="ph16" dataRef="d3"/> <ph id="ph17" dataRef="d5"/>쨌<ph id="ph18" dataRef="d6"/> <ph id="ph20" dataRef="d9"/>scholar<ph id="ph21" dataRef="d3"/> <ph id="ph22" dataRef="d5"/>쨌<ph id="ph23" dataRef="d6"/> <ph id="ph25" dataRef="d10"/>JSTOR<ph id="ph26" dataRef="d3"/><ph id="ph27" dataRef="d11"/><ph id="ph28" dataRef="d12"/><ph id="ph29" dataRef="d11"/> <ph id="ph30" dataRef="d13"/><ph id="ph31" dataRef="d14"/>(<ph id="ph32" dataRef="d15"/>June 2017<ph id="ph33" dataRef="d11"/>)<ph id="ph34" dataRef="d1"/><ph id="ph35" dataRef="d12"/><ph id="ph36" dataRef="d16"/><ph id="ph37" dataRef="d14"/> (<ph id="ph38" dataRef="d17"/></source>
+</segment>
+</unit>
+<unit id="16">
+<segment id="16">
+<source xml:space="preserve">Help:Maintenance template removal</source>
+</segment>
+</unit>
+<unit id="17">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="17">
+<source xml:space="preserve"><ph id="ph39" dataRef="d1"/>Learn how and when to remove this template message<ph id="ph40" dataRef="d2"/>)</source>
+</segment>
+</unit>
+<unit id="18">
+<segment id="18">
+<source xml:space="preserve">For broader coverage of this topic, see </source>
+</segment>
+</unit>
+<unit id="19">
+<segment id="19">
+<source xml:space="preserve">Data scraping</source>
+</segment>
+</unit>
+<unit id="20">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="20">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>Data scraping<ph id="ph8" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="21">
+<originalData>
+<data id="d1">&lt;p></data>
+<data id="d2">&lt;b></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;a href="/wiki/Data_scraping" title="</data>
+</originalData>
+<segment id="21">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>Web scraping<ph id="ph4" dataRef="d3"/>, <ph id="ph5" dataRef="d2"/>web harvesting<ph id="ph6" dataRef="d3"/>, or <ph id="ph7" dataRef="d2"/>web data extraction<ph id="ph8" dataRef="d3"/> is <ph id="ph9" dataRef="d4"/></source>
+</segment>
+</unit>
+<unit id="22">
+<segment id="22">
+<source xml:space="preserve">Data scraping</source>
+</segment>
+</unit>
+<unit id="23">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Data_extraction" title="</data>
+</originalData>
+<segment id="23">
+<source xml:space="preserve"><ph id="ph10" dataRef="d1"/>data scraping<ph id="ph11" dataRef="d2"/> used for <ph id="ph12" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="24">
+<segment id="24">
+<source xml:space="preserve">Data extraction</source>
+</segment>
+</unit>
+<unit id="25">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Website" title="</data>
+</originalData>
+<segment id="25">
+<source xml:space="preserve"><ph id="ph13" dataRef="d1"/>extracting data<ph id="ph14" dataRef="d2"/> from <ph id="ph15" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="26">
+<segment id="26">
+<source xml:space="preserve">Website</source>
+</segment>
+</unit>
+<unit id="27">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;sup id="cite_ref-Boeing2016JPER_1-0" class="reference"></data>
+<data id="d4">&lt;a href="#cite_note-Boeing2016JPER-1"></data>
+<data id="d5">&lt;/sup></data>
+<data id="d6">&lt;a href="/wiki/Hypertext_Transfer_Protocol" title="</data>
+</originalData>
+<segment id="27">
+<source xml:space="preserve"><ph id="ph16" dataRef="d1"/>websites<ph id="ph17" dataRef="d2"/>.<ph id="ph18" dataRef="d3"/><ph id="ph20" dataRef="d4"/>[1]<ph id="ph21" dataRef="d2"/><ph id="ph22" dataRef="d5"/> Web scraping software may access the World Wide Web directly using the <ph id="ph23" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="28">
+<segment id="28">
+<source xml:space="preserve">Hypertext Transfer Protocol</source>
+</segment>
+</unit>
+<unit id="29">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="29">
+<source xml:space="preserve"><ph id="ph24" dataRef="d1"/>Hypertext Transfer Protocol<ph id="ph25" dataRef="d2"/>, or through a web browser.</source>
+</segment>
+</unit>
+<unit id="30">
+<segment id="30">
+<source xml:space="preserve"> While web scraping can be done manually by a software user, the term typically refers to automated processes implemented using a </source>
+</segment>
+</unit>
+<unit id="31">
+<segment id="31">
+<source xml:space="preserve">Internet bot</source>
+</segment>
+</unit>
+<unit id="32">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Web_crawler" title="</data>
+</originalData>
+<segment id="32">
+<source xml:space="preserve"><ph id="ph27" dataRef="d1"/>bot<ph id="ph28" dataRef="d2"/> or <ph id="ph29" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="33">
+<segment id="33">
+<source xml:space="preserve">Web crawler</source>
+</segment>
+</unit>
+<unit id="34">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="34">
+<source xml:space="preserve"><ph id="ph30" dataRef="d1"/>web crawler<ph id="ph31" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="35">
+<segment id="35">
+<source xml:space="preserve"> It is a form of copying, in which specific data is gathered and copied from the web, typically into a central local </source>
+</segment>
+</unit>
+<unit id="36">
+<segment id="36">
+<source xml:space="preserve">Database</source>
+</segment>
+</unit>
+<unit id="37">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Data_retrieval" title="</data>
+</originalData>
+<segment id="37">
+<source xml:space="preserve"><ph id="ph33" dataRef="d1"/>database<ph id="ph34" dataRef="d2"/> or spreadsheet, for later <ph id="ph35" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="38">
+<segment id="38">
+<source xml:space="preserve">Data retrieval</source>
+</segment>
+</unit>
+<unit id="39">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Data_analysis" title="</data>
+</originalData>
+<segment id="39">
+<source xml:space="preserve"><ph id="ph36" dataRef="d1"/>retrieval<ph id="ph37" dataRef="d2"/> or <ph id="ph38" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="40">
+<segment id="40">
+<source xml:space="preserve">Data analysis</source>
+</segment>
+</unit>
+<unit id="41">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="41">
+<source xml:space="preserve"><ph id="ph39" dataRef="d1"/>analysis<ph id="ph40" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="42">
+<originalData>
+<data id="d1">&lt;p></data>
+<data id="d2">&lt;sup id="cite_ref-Boeing2016JPER_1-1" class="reference"></data>
+<data id="d3">&lt;a href="#cite_note-Boeing2016JPER-1"></data>
+<data id="d4">&lt;/a></data>
+<data id="d5">&lt;/sup></data>
+</originalData>
+<segment id="42">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/>Web scraping a web page involves fetching it and extracting from it.<ph id="ph3" dataRef="d2"/><ph id="ph5" dataRef="d3"/>[1]<ph id="ph6" dataRef="d4"/><ph id="ph7" dataRef="d5"/> Fetching is the downloading of a page (which a browser does when you view the page).</source>
+</segment>
+</unit>
+<unit id="43">
+<segment id="43">
+<source xml:space="preserve"> Therefore, web crawling is a main component of web scraping, to fetch pages for later processing.</source>
+</segment>
+</unit>
+<unit id="44">
+<segment id="44">
+<source xml:space="preserve"> Once fetched, then extraction can take place.</source>
+</segment>
+</unit>
+<unit id="45">
+<segment id="45">
+<source xml:space="preserve"> The content of a page may be </source>
+</segment>
+</unit>
+<unit id="46">
+<segment id="46">
+<source xml:space="preserve">Parsing</source>
+</segment>
+</unit>
+<unit id="47">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="47">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>parsed<ph id="ph10" dataRef="d2"/>, searched, reformatted, its data copied into a spreadsheet, and so on.</source>
+</segment>
+</unit>
+<unit id="48">
+<segment id="48">
+<source xml:space="preserve"> Web scrapers typically take something out of a page, to make use of it for another purpose somewhere else.</source>
+</segment>
+</unit>
+<unit id="49">
+<segment id="49">
+<source xml:space="preserve"> An example would be to find and copy names and phone numbers, or companies and their URLs, to a list (contact scraping).</source>
+</segment>
+</unit>
+<unit id="50">
+<segment id="50">
+<source xml:space="preserve">Web scraping is used for </source>
+</segment>
+</unit>
+<unit id="51">
+<segment id="51">
+<source xml:space="preserve">Contact scraping</source>
+</segment>
+</unit>
+<unit id="52">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Web_indexing" title="</data>
+</originalData>
+<segment id="52">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>contact scraping<ph id="ph5" dataRef="d2"/>, and as a component of applications used for <ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="53">
+<segment id="53">
+<source xml:space="preserve">Web indexing</source>
+</segment>
+</unit>
+<unit id="54">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Web_mining" title="</data>
+</originalData>
+<segment id="54">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>web indexing<ph id="ph8" dataRef="d2"/>, <ph id="ph9" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="55">
+<segment id="55">
+<source xml:space="preserve">Web mining</source>
+</segment>
+</unit>
+<unit id="56">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Data_mining" title="</data>
+</originalData>
+<segment id="56">
+<source xml:space="preserve"><ph id="ph10" dataRef="d1"/>web mining<ph id="ph11" dataRef="d2"/> and <ph id="ph12" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="57">
+<segment id="57">
+<source xml:space="preserve">Data mining</source>
+</segment>
+</unit>
+<unit id="58">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Comparison_shopping_website" title="</data>
+</originalData>
+<segment id="58">
+<source xml:space="preserve"><ph id="ph13" dataRef="d1"/>data mining<ph id="ph14" dataRef="d2"/>, online price change monitoring and <ph id="ph15" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="59">
+<segment id="59">
+<source xml:space="preserve">Comparison shopping website</source>
+</segment>
+</unit>
+<unit id="60">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Change_detection_and_notification" title="</data>
+</originalData>
+<segment id="60">
+<source xml:space="preserve"><ph id="ph16" dataRef="d1"/>price comparison<ph id="ph17" dataRef="d2"/>, product review scraping (to watch the competition), gathering real estate listings, weather data monitoring, <ph id="ph18" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="61">
+<segment id="61">
+<source xml:space="preserve">Change detection and notification</source>
+</segment>
+</unit>
+<unit id="62">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Web_mashup" class="mw-redirect" title="</data>
+</originalData>
+<segment id="62">
+<source xml:space="preserve"><ph id="ph19" dataRef="d1"/>website change detection<ph id="ph20" dataRef="d2"/>, research, tracking online presence and reputation, <ph id="ph21" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="63">
+<segment id="63">
+<source xml:space="preserve">Web mashup</source>
+</segment>
+</unit>
+<unit id="64">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Web_data_integration" title="</data>
+</originalData>
+<segment id="64">
+<source xml:space="preserve"><ph id="ph22" dataRef="d1"/>web mashup<ph id="ph23" dataRef="d2"/> and, <ph id="ph24" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="65">
+<segment id="65">
+<source xml:space="preserve">Web data integration</source>
+</segment>
+</unit>
+<unit id="66">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="66">
+<source xml:space="preserve"><ph id="ph25" dataRef="d1"/>web data integration<ph id="ph26" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="67">
+<segment id="67">
+<source xml:space="preserve">Web page</source>
+</segment>
+</unit>
+<unit id="68">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/HTML" title="</data>
+</originalData>
+<segment id="68">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>Web pages<ph id="ph5" dataRef="d2"/> are built using text-based mark-up languages (<ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="69">
+<segment id="69">
+<source xml:space="preserve">HTML</source>
+</segment>
+</unit>
+<unit id="70">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/XHTML" title="</data>
+</originalData>
+<segment id="70">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>HTML<ph id="ph8" dataRef="d2"/> and <ph id="ph9" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="71">
+<segment id="71">
+<source xml:space="preserve">XHTML</source>
+</segment>
+</unit>
+<unit id="72">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="72">
+<source xml:space="preserve"><ph id="ph10" dataRef="d1"/>XHTML<ph id="ph11" dataRef="d2"/>), and frequently contain a wealth of useful data in text form.</source>
+</segment>
+</unit>
+<unit id="73">
+<segment id="73">
+<source xml:space="preserve"> However, most web pages are designed for human </source>
+</segment>
+</unit>
+<unit id="74">
+<segment id="74">
+<source xml:space="preserve">End-user (computer science)</source>
+</segment>
+</unit>
+<unit id="75">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="75">
+<source xml:space="preserve"><ph id="ph13" dataRef="d1"/>end-users<ph id="ph14" dataRef="d2"/> and not for ease of automated use.</source>
+</segment>
+</unit>
+<unit id="76">
+<segment id="76">
+<source xml:space="preserve"> Because of this, tool kits that scrape web content were created.</source>
+</segment>
+</unit>
+<unit id="77">
+<segment id="77">
+<source xml:space="preserve"> A web scraper is an </source>
+</segment>
+</unit>
+<unit id="78">
+<segment id="78">
+<source xml:space="preserve">Application Programming Interface</source>
+</segment>
+</unit>
+<unit id="79">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="79">
+<source xml:space="preserve"><ph id="ph16" dataRef="d1"/>Application Programming Interface<ph id="ph17" dataRef="d2"/> (API) to extract data from a web site.</source>
+</segment>
+</unit>
+<unit id="80">
+<segment id="80">
+<source xml:space="preserve"> Companies like </source>
+</segment>
+</unit>
+<unit id="81">
+<segment id="81">
+<source xml:space="preserve">Amazon AWS</source>
+</segment>
+</unit>
+<unit id="82">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Google" title="</data>
+</originalData>
+<segment id="82">
+<source xml:space="preserve"><ph id="ph19" dataRef="d1"/>Amazon AWS<ph id="ph20" dataRef="d2"/> and <ph id="ph21" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="83">
+<segment id="83">
+<source xml:space="preserve">Google</source>
+</segment>
+</unit>
+<unit id="84">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="84">
+<source xml:space="preserve"><ph id="ph22" dataRef="d1"/>Google<ph id="ph23" dataRef="d2"/> provide web scraping tools, services and public data available free of cost to end users.</source>
+</segment>
+</unit>
+<unit id="85">
+<segment id="85">
+<source xml:space="preserve">Newer forms of web scraping involve listening to data feeds from web servers.</source>
+</segment>
+</unit>
+<unit id="86">
+<segment id="86">
+<source xml:space="preserve"> For example, </source>
+</segment>
+</unit>
+<unit id="87">
+<segment id="87">
+<source xml:space="preserve">JSON</source>
+</segment>
+</unit>
+<unit id="88">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="88">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>JSON<ph id="ph5" dataRef="d2"/> is commonly used as a transport storage mechanism between the client and the web server.</source>
+</segment>
+</unit>
+<unit id="89">
+<segment id="89">
+<source xml:space="preserve">There are methods that some websites use to prevent web scraping, such as detecting and disallowing bots from crawling (viewing) their pages.</source>
+</segment>
+</unit>
+<unit id="90">
+<segment id="90">
+<source xml:space="preserve"> In response, there are web scraping systems that rely on using techniques in </source>
+</segment>
+</unit>
+<unit id="91">
+<segment id="91">
+<source xml:space="preserve">Document Object Model</source>
+</segment>
+</unit>
+<unit id="92">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Computer_vision" title="</data>
+</originalData>
+<segment id="92">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>DOM<ph id="ph5" dataRef="d2"/> parsing, <ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="93">
+<segment id="93">
+<source xml:space="preserve">Computer vision</source>
+</segment>
+</unit>
+<unit id="94">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Natural_language_processing" title="</data>
+</originalData>
+<segment id="94">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>computer vision<ph id="ph8" dataRef="d2"/> and <ph id="ph9" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="95">
+<segment id="95">
+<source xml:space="preserve">Natural language processing</source>
+</segment>
+</unit>
+<unit id="96">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="96">
+<source xml:space="preserve"><ph id="ph10" dataRef="d1"/>natural language processing<ph id="ph11" dataRef="d2"/> to simulate human browsing to enable gathering web page content for offline parsing.</source>
+</segment>
+</unit>
+<unit id="97">
+<segment id="97">
+<source xml:space="preserve">Contents</source>
+</segment>
+</unit>
+<unit id="98">
+<originalData>
+<data id="d1">&lt;a href="#History"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="98">
+<source xml:space="preserve"><ph id="ph3" dataRef="d1"/><ph id="ph4" dataRef="d2"/>1<ph id="ph5" dataRef="d3"/> <ph id="ph6" dataRef="d4"/>History<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="99">
+<originalData>
+<data id="d1">&lt;a href="#Techniques"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="99">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>2<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>Techniques<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="100">
+<originalData>
+<data id="d1">&lt;a href="#Human_copy-and-paste"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="100">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>2.1<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>Human copy-and-paste<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="101">
+<originalData>
+<data id="d1">&lt;a href="#Text_pattern_matching"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="101">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>2.2<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>Text pattern matching<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="102">
+<originalData>
+<data id="d1">&lt;a href="#HTTP_programming"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="102">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>2.3<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>HTTP programming<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="103">
+<originalData>
+<data id="d1">&lt;a href="#HTML_parsing"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="103">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>2.4<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>HTML parsing<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="104">
+<originalData>
+<data id="d1">&lt;a href="#DOM_parsing"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="104">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>2.5<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>DOM parsing<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="105">
+<originalData>
+<data id="d1">&lt;a href="#Vertical_aggregation"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="105">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>2.6<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>Vertical aggregation<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="106">
+<originalData>
+<data id="d1">&lt;a href="#Semantic_annotation_recognizing"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="106">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>2.7<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>Semantic annotation recognizing<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="107">
+<originalData>
+<data id="d1">&lt;a href="#Computer_vision_web-page_analysis"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="107">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>2.8<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>Computer vision web-page analysis<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="108">
+<originalData>
+<data id="d1">&lt;a href="#Software"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="108">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>3<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>Software<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="109">
+<originalData>
+<data id="d1">&lt;a href="#Legal_issues"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="109">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>4<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>Legal issues<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="110">
+<originalData>
+<data id="d1">&lt;a href="#United_States"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="110">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>4.1<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>United States<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="111">
+<originalData>
+<data id="d1">&lt;a href="#The_EU"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="111">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>4.2<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>The EU<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="112">
+<originalData>
+<data id="d1">&lt;a href="#Australia"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="112">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>4.3<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>Australia<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="113">
+<originalData>
+<data id="d1">&lt;a href="#Methods_to_prevent_web_scraping"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="113">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>5<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>Methods to prevent web scraping<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="114">
+<originalData>
+<data id="d1">&lt;a href="#See_also"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="114">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>6<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>See also<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="115">
+<originalData>
+<data id="d1">&lt;a href="#References"></data>
+<data id="d2">&lt;span class="tocnumber"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="toctext"></data>
+<data id="d5">&lt;/a></data>
+</originalData>
+<segment id="115">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>7<ph id="ph3" dataRef="d3"/> <ph id="ph4" dataRef="d4"/>References<ph id="ph5" dataRef="d3"/><ph id="ph6" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="116">
+<originalData>
+<data id="d1">&lt;h2></data>
+<data id="d2">&lt;span class="mw-headline" id="History"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=1" title="</data>
+</originalData>
+<segment id="116">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>History<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="117">
+<segment id="117">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="118">
+<segment id="118">
+<source xml:space="preserve"> History</source>
+</segment>
+</unit>
+<unit id="119">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="119">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="120">
+<originalData>
+<data id="d1">&lt;div class="mbox-text-span"></data>
+<data id="d2">&lt;b></data>
+<data id="d3">&lt;a href="/wiki/Wikipedia:Citing_sources" title="</data>
+</originalData>
+<segment id="120">
+<source xml:space="preserve"><ph id="ph19" dataRef="d1"/>This section <ph id="ph20" dataRef="d2"/>does not <ph id="ph21" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="121">
+<segment id="121">
+<source xml:space="preserve">Wikipedia:Citing sources</source>
+</segment>
+</unit>
+<unit id="122">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Wikipedia:Verifiability" title="</data>
+</originalData>
+<segment id="122">
+<source xml:space="preserve"><ph id="ph22" dataRef="d1"/>cite<ph id="ph23" dataRef="d2"/> any <ph id="ph24" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="123">
+<segment id="123">
+<source xml:space="preserve">Wikipedia:Verifiability</source>
+</segment>
+</unit>
+<unit id="124">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+</originalData>
+<segment id="124">
+<source xml:space="preserve"><ph id="ph25" dataRef="d1"/>sources<ph id="ph26" dataRef="d2"/><ph id="ph27" dataRef="d3"/>.</source>
+</segment>
+</unit>
+<unit id="125">
+<originalData>
+<data id="d1">&lt;span class="hide-when-compact"></data>
+<data id="d2">&lt;a class="external text" href="https://en.wikipedia.org/w/index.php?title=Web_scraping&amp;action=edit"></data>
+<data id="d3">&lt;/a></data>
+<data id="d4">&lt;a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="</data>
+</originalData>
+<segment id="125">
+<source xml:space="preserve"><ph id="ph28" dataRef="d1"/> Please help <ph id="ph30" dataRef="d2"/>improve this section<ph id="ph31" dataRef="d3"/> by <ph id="ph32" dataRef="d4"/></source>
+</segment>
+</unit>
+<unit id="126">
+<segment id="126">
+<source xml:space="preserve">Help:Introduction to referencing with Wiki Markup/1</source>
+</segment>
+</unit>
+<unit id="127">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="127">
+<source xml:space="preserve"><ph id="ph33" dataRef="d1"/>adding citations to reliable sources<ph id="ph34" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="128">
+<segment id="128">
+<source xml:space="preserve"> Unsourced material may be challenged and </source>
+</segment>
+</unit>
+<unit id="129">
+<segment id="129">
+<source xml:space="preserve">Wikipedia:Verifiability</source>
+</segment>
+</unit>
+<unit id="130">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="130">
+<source xml:space="preserve"><ph id="ph36" dataRef="d1"/>removed<ph id="ph37" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="131">
+<originalData>
+<data id="d1">&lt;/i></data>
+<data id="d2">&lt;a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Web+scraping%22"></data>
+<data id="d3">&lt;/a></data>
+<data id="d4">&lt;a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Web+scraping%22+-wikipedia"></data>
+<data id="d5">&lt;b></data>
+<data id="d6">&lt;/b></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Web+scraping%22+site:news.google.com/newspapers&amp;source=newspapers"></data>
+<data id="d8">&lt;a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Web+scraping%22+-wikipedia"></data>
+<data id="d9">&lt;a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Web+scraping%22"></data>
+<data id="d10">&lt;a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Web+scraping%22&amp;acc=on&amp;wc=on"></data>
+<data id="d11">&lt;/span></data>
+<data id="d12">&lt;/small></data>
+<data id="d13">&lt;small class="date-container"></data>
+<data id="d14">&lt;i></data>
+<data id="d15">&lt;span class="date"></data>
+<data id="d16">&lt;small class="hide-when-compact"></data>
+<data id="d17">&lt;a href="/wiki/Help:Maintenance_template_removal" title="</data>
+</originalData>
+<segment id="131">
+<source xml:space="preserve">Find sources:<ph id="ph0" dataRef="d1"/> <ph id="ph2" dataRef="d2"/>"Web scraping"<ph id="ph3" dataRef="d3"/> �� <ph id="ph5" dataRef="d4"/>news<ph id="ph6" dataRef="d3"/> <ph id="ph7" dataRef="d5"/>쨌<ph id="ph8" dataRef="d6"/> <ph id="ph10" dataRef="d7"/>newspapers<ph id="ph11" dataRef="d3"/> <ph id="ph12" dataRef="d5"/>쨌<ph id="ph13" dataRef="d6"/> <ph id="ph15" dataRef="d8"/>books<ph id="ph16" dataRef="d3"/> <ph id="ph17" dataRef="d5"/>쨌<ph id="ph18" dataRef="d6"/> <ph id="ph20" dataRef="d9"/>scholar<ph id="ph21" dataRef="d3"/> <ph id="ph22" dataRef="d5"/>쨌<ph id="ph23" dataRef="d6"/> <ph id="ph25" dataRef="d10"/>JSTOR<ph id="ph26" dataRef="d3"/><ph id="ph27" dataRef="d11"/><ph id="ph28" dataRef="d12"/><ph id="ph29" dataRef="d11"/> <ph id="ph30" dataRef="d13"/><ph id="ph31" dataRef="d14"/>(<ph id="ph32" dataRef="d15"/>October 2018<ph id="ph33" dataRef="d11"/>)<ph id="ph34" dataRef="d1"/><ph id="ph35" dataRef="d12"/><ph id="ph36" dataRef="d16"/><ph id="ph37" dataRef="d14"/> (<ph id="ph38" dataRef="d17"/></source>
+</segment>
+</unit>
+<unit id="132">
+<segment id="132">
+<source xml:space="preserve">Help:Maintenance template removal</source>
+</segment>
+</unit>
+<unit id="133">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="133">
+<source xml:space="preserve"><ph id="ph39" dataRef="d1"/>Learn how and when to remove this template message<ph id="ph40" dataRef="d2"/>)</source>
+</segment>
+</unit>
+<unit id="134">
+<segment id="134">
+<source xml:space="preserve">The history of the web scraping is actually much longer, dating back significantly to the time when the World Wide Web, or colloquially �쐔he Internet��, was born.</source>
+</segment>
+</unit>
+<unit id="135">
+<segment id="135">
+<source xml:space="preserve">After the birth of </source>
+</segment>
+</unit>
+<unit id="136">
+<segment id="136">
+<source xml:space="preserve">History of the World Wide Web</source>
+</segment>
+</unit>
+<unit id="137">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;b></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/a></data>
+<data id="d5">&lt;sup id="cite_ref-2" class="reference"></data>
+<data id="d6">&lt;a href="#cite_note-2"></data>
+<data id="d7">&lt;/sup></data>
+<data id="d8">&lt;a href="/wiki/World_Wide_Web_Wanderer" title="</data>
+</originalData>
+<segment id="137">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>World Wide Web<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/> in 1989, the first web robot<ph id="ph6" dataRef="d5"/><ph id="ph8" dataRef="d6"/>[2]<ph id="ph9" dataRef="d4"/><ph id="ph10" dataRef="d7"/>, <ph id="ph11" dataRef="d2"/><ph id="ph12" dataRef="d8"/></source>
+</segment>
+</unit>
+<unit id="138">
+<segment id="138">
+<source xml:space="preserve">World Wide Web Wanderer</source>
+</segment>
+</unit>
+<unit id="139">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+</originalData>
+<segment id="139">
+<source xml:space="preserve"><ph id="ph13" dataRef="d1"/>World Wide Web Wanderer<ph id="ph14" dataRef="d2"/><ph id="ph15" dataRef="d3"/>, was created in June 1993, which was intended only to measure the size of the web.</source>
+</segment>
+</unit>
+<unit id="140">
+<originalData>
+<data id="d1">&lt;b></data>
+<data id="d2">&lt;/b></data>
+<data id="d3">&lt;a href="/wiki/JumpStation" title="</data>
+</originalData>
+<segment id="140">
+<source xml:space="preserve">In December 1993, the first <ph id="ph0" dataRef="d1"/>crawler-based web search engine<ph id="ph1" dataRef="d2"/>, <ph id="ph2" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="141">
+<segment id="141">
+<source xml:space="preserve">JumpStation</source>
+</segment>
+</unit>
+<unit id="142">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="142">
+<source xml:space="preserve"><ph id="ph3" dataRef="d1"/>JumpStation<ph id="ph4" dataRef="d2"/>, was launched.</source>
+</segment>
+</unit>
+<unit id="143">
+<segment id="143">
+<source xml:space="preserve"> As there were not so many websites available on the web, search engines at that time used to rely on their human website administrators to collect and edit the links into a particular format.</source>
+</segment>
+</unit>
+<unit id="144">
+<segment id="144">
+<source xml:space="preserve"> In comparison, JumpStation brought a new leap, being the first WWW search engine that relied on a web robot.</source>
+</segment>
+</unit>
+<unit id="145">
+<originalData>
+<data id="d1">&lt;b></data>
+<data id="d2">&lt;/b></data>
+</originalData>
+<segment id="145">
+<source xml:space="preserve">In 2000, the <ph id="ph0" dataRef="d1"/>first Web API and API crawler<ph id="ph1" dataRef="d2"/> came.</source>
+</segment>
+</unit>
+<unit id="146">
+<segment id="146">
+<source xml:space="preserve">Application programming interface</source>
+</segment>
+</unit>
+<unit id="147">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;b></data>
+<data id="d4">&lt;/b></data>
+</originalData>
+<segment id="147">
+<source xml:space="preserve"><ph id="ph3" dataRef="d1"/>API<ph id="ph4" dataRef="d2"/> stands for <ph id="ph5" dataRef="d3"/>Application Programming Interface<ph id="ph6" dataRef="d4"/>.</source>
+</segment>
+</unit>
+<unit id="148">
+<segment id="148">
+<source xml:space="preserve"> It is an interface that makes it much easier to develop a program by providing the building blocks. In 2000, </source>
+</segment>
+</unit>
+<unit id="149">
+<segment id="149">
+<source xml:space="preserve">Salesforce.com</source>
+</segment>
+</unit>
+<unit id="150">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/EBay" title="</data>
+</originalData>
+<segment id="150">
+<source xml:space="preserve"><ph id="ph8" dataRef="d1"/>Salesforce<ph id="ph9" dataRef="d2"/> and <ph id="ph10" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="151">
+<segment id="151">
+<source xml:space="preserve">EBay</source>
+</segment>
+</unit>
+<unit id="152">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="152">
+<source xml:space="preserve"><ph id="ph11" dataRef="d1"/>eBay<ph id="ph12" dataRef="d2"/> launched their own API, with which programmers were enabled to access and download some of the data available to the public.</source>
+</segment>
+</unit>
+<unit id="153">
+<segment id="153">
+<source xml:space="preserve"> Since then, many websites offer web APIs for people to access their public database.</source>
+</segment>
+</unit>
+<unit id="154">
+<segment id="154">
+<source xml:space="preserve">In 2004, </source>
+</segment>
+</unit>
+<unit id="155">
+<segment id="155">
+<source xml:space="preserve">Beautiful Soup (HTML parser)</source>
+</segment>
+</unit>
+<unit id="156">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;b></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/a></data>
+</originalData>
+<segment id="156">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>Beautiful Soup<ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> was released.</source>
+</segment>
+</unit>
+<unit id="157">
+<segment id="157">
+<source xml:space="preserve"> It is a library designed for Python.</source>
+</segment>
+</unit>
+<unit id="158">
+<segment id="158">
+<source xml:space="preserve"> As not all websites offer APIs, programmers were still working on developing an approach that could facilitate web scraping.</source>
+</segment>
+</unit>
+<unit id="159">
+<segment id="159">
+<source xml:space="preserve"> With simple commands, Beautiful Soup could parse content from within the HTML container.</source>
+</segment>
+</unit>
+<unit id="160">
+<segment id="160">
+<source xml:space="preserve"> It is considered the most sophisticated and advanced library for web scraping, and also one of the most common and popular approaches today.</source>
+</segment>
+</unit>
+<unit id="161">
+<originalData>
+<data id="d1">&lt;h2></data>
+<data id="d2">&lt;span class="mw-headline" id="Techniques"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=2" title="</data>
+</originalData>
+<segment id="161">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>Techniques<ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/><ph id="ph5" dataRef="d5"/>[<ph id="ph6" dataRef="d3"/><ph id="ph7" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="162">
+<segment id="162">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="163">
+<segment id="163">
+<source xml:space="preserve"> Techniques</source>
+</segment>
+</unit>
+<unit id="164">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="164">
+<source xml:space="preserve"><ph id="ph8" dataRef="d1"/>edit<ph id="ph9" dataRef="d2"/><ph id="ph10" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="165">
+<segment id="165">
+<source xml:space="preserve">Web scraping is the process of automatically mining data or collecting information from the World Wide Web.</source>
+</segment>
+</unit>
+<unit id="166">
+<segment id="166">
+<source xml:space="preserve"> It is a field with active developments sharing a common goal with the </source>
+</segment>
+</unit>
+<unit id="167">
+<segment id="167">
+<source xml:space="preserve">Semantic web</source>
+</segment>
+</unit>
+<unit id="168">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Human-computer_interaction" class="mw-redirect" title="</data>
+</originalData>
+<segment id="168">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>semantic web<ph id="ph5" dataRef="d2"/> vision, an ambitious initiative that still requires breakthroughs in text processing, semantic understanding, artificial intelligence and <ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="169">
+<segment id="169">
+<source xml:space="preserve">Human-computer interaction</source>
+</segment>
+</unit>
+<unit id="170">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="170">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>human-computer interactions<ph id="ph8" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="171">
+<segment id="171">
+<source xml:space="preserve"> Current web scraping solutions range from the ad-hoc, requiring human effort, to fully automated systems that are able to convert entire web sites into structured information, with limitations.</source>
+</segment>
+</unit>
+<unit id="172">
+<originalData>
+<data id="d1">&lt;h3></data>
+<data id="d2">&lt;span class="mw-headline" id="Human_copy-and-paste"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=3" title="</data>
+</originalData>
+<segment id="172">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>Human copy-and-paste<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="173">
+<segment id="173">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="174">
+<segment id="174">
+<source xml:space="preserve"> Human copy-and-paste</source>
+</segment>
+</unit>
+<unit id="175">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="175">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="176">
+<segment id="176">
+<source xml:space="preserve">Sometimes even the best web-scraping technology cannot replace a human�셲 manual examination and copy-and-paste, and sometimes this may be the only workable solution when the websites for scraping explicitly set up barriers to prevent machine automation.</source>
+</segment>
+</unit>
+<unit id="177">
+<originalData>
+<data id="d1">&lt;h3></data>
+<data id="d2">&lt;span class="mw-headline" id="Text_pattern_matching"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=4" title="</data>
+</originalData>
+<segment id="177">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>Text pattern matching<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="178">
+<segment id="178">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="179">
+<segment id="179">
+<source xml:space="preserve"> Text pattern matching</source>
+</segment>
+</unit>
+<unit id="180">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="180">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="181">
+<segment id="181">
+<source xml:space="preserve">A simple yet powerful approach to extract information from web pages can be based on the UNIX </source>
+</segment>
+</unit>
+<unit id="182">
+<segment id="182">
+<source xml:space="preserve">Grep</source>
+</segment>
+</unit>
+<unit id="183">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Regular_expression" title="</data>
+</originalData>
+<segment id="183">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>grep<ph id="ph5" dataRef="d2"/> command or <ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="184">
+<segment id="184">
+<source xml:space="preserve">Regular expression</source>
+</segment>
+</unit>
+<unit id="185">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Perl" title="</data>
+</originalData>
+<segment id="185">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>regular expression<ph id="ph8" dataRef="d2"/>-matching facilities of programming languages (for instance <ph id="ph9" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="186">
+<segment id="186">
+<source xml:space="preserve">Perl</source>
+</segment>
+</unit>
+<unit id="187">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Python_(programming_language)" title="</data>
+</originalData>
+<segment id="187">
+<source xml:space="preserve"><ph id="ph10" dataRef="d1"/>Perl<ph id="ph11" dataRef="d2"/> or <ph id="ph12" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="188">
+<segment id="188">
+<source xml:space="preserve">Python (programming language)</source>
+</segment>
+</unit>
+<unit id="189">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="189">
+<source xml:space="preserve"><ph id="ph13" dataRef="d1"/>Python<ph id="ph14" dataRef="d2"/>).</source>
+</segment>
+</unit>
+<unit id="190">
+<originalData>
+<data id="d1">&lt;h3></data>
+<data id="d2">&lt;span class="mw-headline" id="HTTP_programming"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=5" title="</data>
+</originalData>
+<segment id="190">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>HTTP programming<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="191">
+<segment id="191">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="192">
+<segment id="192">
+<source xml:space="preserve"> HTTP programming</source>
+</segment>
+</unit>
+<unit id="193">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="193">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="194">
+<segment id="194">
+<source xml:space="preserve">Static web page</source>
+</segment>
+</unit>
+<unit id="195">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Dynamic_web_page" title="</data>
+</originalData>
+<segment id="195">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>Static<ph id="ph5" dataRef="d2"/> and <ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="196">
+<segment id="196">
+<source xml:space="preserve">Dynamic web page</source>
+</segment>
+</unit>
+<unit id="197">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Socket_programming" class="mw-redirect" title="</data>
+</originalData>
+<segment id="197">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>dynamic web pages<ph id="ph8" dataRef="d2"/> can be retrieved by posting HTTP requests to the remote web server using <ph id="ph9" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="198">
+<segment id="198">
+<source xml:space="preserve">Socket programming</source>
+</segment>
+</unit>
+<unit id="199">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="199">
+<source xml:space="preserve"><ph id="ph10" dataRef="d1"/>socket programming<ph id="ph11" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="200">
+<originalData>
+<data id="d1">&lt;h3></data>
+<data id="d2">&lt;span class="mw-headline" id="HTML_parsing"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=6" title="</data>
+</originalData>
+<segment id="200">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>HTML parsing<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="201">
+<segment id="201">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="202">
+<segment id="202">
+<source xml:space="preserve"> HTML parsing</source>
+</segment>
+</unit>
+<unit id="203">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="203">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="204">
+<segment id="204">
+<source xml:space="preserve">Many websites have large collections of pages generated dynamically from an underlying structured source like a database.</source>
+</segment>
+</unit>
+<unit id="205">
+<segment id="205">
+<source xml:space="preserve"> Data of the same category are typically encoded into similar pages by a common script or template.</source>
+</segment>
+</unit>
+<unit id="206">
+<segment id="206">
+<source xml:space="preserve"> In data mining, a program that detects such templates in a particular information source, extracts its content and translates it into a relational form, is called a </source>
+</segment>
+</unit>
+<unit id="207">
+<segment id="207">
+<source xml:space="preserve">Wrapper (data mining)</source>
+</segment>
+</unit>
+<unit id="208">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="208">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>wrapper<ph id="ph5" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="209">
+<originalData>
+<data id="d1">&lt;sup id="cite_ref-3" class="reference"></data>
+<data id="d2">&lt;a href="#cite_note-3"></data>
+<data id="d3">&lt;/a></data>
+<data id="d4">&lt;/sup></data>
+<data id="d5">&lt;a href="/wiki/Semi-structured_data" title="</data>
+</originalData>
+<segment id="209">
+<source xml:space="preserve"> Wrapper generation algorithms assume that input pages of a wrapper induction system conform to a common template and that they can be easily identified in terms of a URL common scheme.<ph id="ph6" dataRef="d1"/><ph id="ph8" dataRef="d2"/>[3]<ph id="ph9" dataRef="d3"/><ph id="ph10" dataRef="d4"/> Moreover, some <ph id="ph11" dataRef="d5"/></source>
+</segment>
+</unit>
+<unit id="210">
+<segment id="210">
+<source xml:space="preserve">Semi-structured data</source>
+</segment>
+</unit>
+<unit id="211">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/XQuery" title="</data>
+</originalData>
+<segment id="211">
+<source xml:space="preserve"><ph id="ph12" dataRef="d1"/>semi-structured data<ph id="ph13" dataRef="d2"/> query languages, such as <ph id="ph14" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="212">
+<segment id="212">
+<source xml:space="preserve">XQuery</source>
+</segment>
+</unit>
+<unit id="213">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="213">
+<source xml:space="preserve"><ph id="ph15" dataRef="d1"/>XQuery<ph id="ph16" dataRef="d2"/> and the HTQL, can be used to parse HTML pages and to retrieve and transform page content.</source>
+</segment>
+</unit>
+<unit id="214">
+<originalData>
+<data id="d1">&lt;h3></data>
+<data id="d2">&lt;span class="mw-headline" id="DOM_parsing"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=7" title="</data>
+</originalData>
+<segment id="214">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>DOM parsing<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="215">
+<segment id="215">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="216">
+<segment id="216">
+<source xml:space="preserve"> DOM parsing</source>
+</segment>
+</unit>
+<unit id="217">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="217">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="218">
+<segment id="218">
+<source xml:space="preserve">Further information:</source>
+</segment>
+</unit>
+<unit id="219">
+<segment id="219">
+<source xml:space="preserve">Document Object Model</source>
+</segment>
+</unit>
+<unit id="220">
+<segment id="220">
+<source xml:space="preserve">Document Object Model</source>
+</segment>
+</unit>
+<unit id="221">
+<segment id="221">
+<source xml:space="preserve">By embedding a full-fledged web browser, such as the </source>
+</segment>
+</unit>
+<unit id="222">
+<segment id="222">
+<source xml:space="preserve">Internet Explorer</source>
+</segment>
+</unit>
+<unit id="223">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Mozilla" title="</data>
+</originalData>
+<segment id="223">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>Internet Explorer<ph id="ph5" dataRef="d2"/> or the <ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="224">
+<segment id="224">
+<source xml:space="preserve">Mozilla</source>
+</segment>
+</unit>
+<unit id="225">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="225">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>Mozilla<ph id="ph8" dataRef="d2"/> browser control, programs can retrieve the dynamic content generated by client-side scripts.</source>
+</segment>
+</unit>
+<unit id="226">
+<segment id="226">
+<source xml:space="preserve"> These browser controls also parse web pages into a DOM tree, based on which programs can retrieve parts of the pages.</source>
+</segment>
+</unit>
+<unit id="227">
+<originalData>
+<data id="d1">&lt;h3></data>
+<data id="d2">&lt;span class="mw-headline" id="Vertical_aggregation"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=8" title="</data>
+</originalData>
+<segment id="227">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>Vertical aggregation<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="228">
+<segment id="228">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="229">
+<segment id="229">
+<source xml:space="preserve"> Vertical aggregation</source>
+</segment>
+</unit>
+<unit id="230">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="230">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="231">
+<segment id="231">
+<source xml:space="preserve">There are several companies that have developed vertical specific harvesting platforms.</source>
+</segment>
+</unit>
+<unit id="232">
+<segment id="232">
+<source xml:space="preserve"> These platforms create and monitor a multitude of �쐀ots�� for specific verticals with no "man in the loop" (no direct human involvement), and no work related to a specific target site.</source>
+</segment>
+</unit>
+<unit id="233">
+<segment id="233">
+<source xml:space="preserve"> The preparation involves establishing the knowledge base for the entire vertical and then the platform creates the bots automatically.</source>
+</segment>
+</unit>
+<unit id="234">
+<segment id="234">
+<source xml:space="preserve"> The platform's robustness is measured by the quality of the information it retrieves (usually number of fields) and its scalability (how quick it can scale up to hundreds or thousands of sites).</source>
+</segment>
+</unit>
+<unit id="235">
+<segment id="235">
+<source xml:space="preserve"> This scalability is mostly used to target the </source>
+</segment>
+</unit>
+<unit id="236">
+<segment id="236">
+<source xml:space="preserve">Long Tail</source>
+</segment>
+</unit>
+<unit id="237">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="237">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>Long Tail<ph id="ph5" dataRef="d2"/> of sites that common aggregators find complicated or too labor-intensive to harvest content from.</source>
+</segment>
+</unit>
+<unit id="238">
+<originalData>
+<data id="d1">&lt;h3></data>
+<data id="d2">&lt;span class="mw-headline" id="Semantic_annotation_recognizing"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=9" title="</data>
+</originalData>
+<segment id="238">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>Semantic annotation recognizing<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="239">
+<segment id="239">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="240">
+<segment id="240">
+<source xml:space="preserve"> Semantic annotation recognizing</source>
+</segment>
+</unit>
+<unit id="241">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="241">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="242">
+<segment id="242">
+<source xml:space="preserve">The pages being scraped may embrace </source>
+</segment>
+</unit>
+<unit id="243">
+<segment id="243">
+<source xml:space="preserve">Metadata</source>
+</segment>
+</unit>
+<unit id="244">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="244">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>metadata<ph id="ph5" dataRef="d2"/> or semantic markups and annotations, which can be used to locate specific data snippets.</source>
+</segment>
+</unit>
+<unit id="245">
+<segment id="245">
+<source xml:space="preserve"> If the annotations are embedded in the pages, as </source>
+</segment>
+</unit>
+<unit id="246">
+<segment id="246">
+<source xml:space="preserve">Microformat</source>
+</segment>
+</unit>
+<unit id="247">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="247">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>Microformat<ph id="ph8" dataRef="d2"/> does, this technique can be viewed as a special case of DOM parsing.</source>
+</segment>
+</unit>
+<unit id="248">
+<originalData>
+<data id="d1">&lt;sup id="cite_ref-4" class="reference"></data>
+<data id="d2">&lt;a href="#cite_note-4"></data>
+<data id="d3">&lt;/a></data>
+<data id="d4">&lt;/sup></data>
+</originalData>
+<segment id="248">
+<source xml:space="preserve"> In another case, the annotations, organized into a semantic layer,<ph id="ph9" dataRef="d1"/><ph id="ph11" dataRef="d2"/>[4]<ph id="ph12" dataRef="d3"/><ph id="ph13" dataRef="d4"/> are stored and managed separately from the web pages, so the scrapers can retrieve data schema and instructions from this layer before scraping the pages.</source>
+</segment>
+</unit>
+<unit id="249">
+<originalData>
+<data id="d1">&lt;h3></data>
+<data id="d2">&lt;span class="mw-headline" id="Computer_vision_web-page_analysis"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=10" title="</data>
+</originalData>
+<segment id="249">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>Computer vision web-page analysis<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="250">
+<segment id="250">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="251">
+<segment id="251">
+<source xml:space="preserve"> Computer vision web-page analysis</source>
+</segment>
+</unit>
+<unit id="252">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="252">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="253">
+<segment id="253">
+<source xml:space="preserve">There are efforts using </source>
+</segment>
+</unit>
+<unit id="254">
+<segment id="254">
+<source xml:space="preserve">Machine learning</source>
+</segment>
+</unit>
+<unit id="255">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Computer_vision" title="</data>
+</originalData>
+<segment id="255">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>machine learning<ph id="ph5" dataRef="d2"/> and <ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="256">
+<segment id="256">
+<source xml:space="preserve">Computer vision</source>
+</segment>
+</unit>
+<unit id="257">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;sup id="cite_ref-5" class="reference"></data>
+<data id="d4">&lt;a href="#cite_note-5"></data>
+</originalData>
+<segment id="257">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>computer vision<ph id="ph8" dataRef="d2"/> that attempt to identify and extract information from web pages by interpreting pages visually as a human being might.<ph id="ph9" dataRef="d3"/><ph id="ph11" dataRef="d4"/>[5]<ph id="ph12" dataRef="d2"/></source>
+</segment>
+</unit>
+<unit id="258">
+<originalData>
+<data id="d1">&lt;h2></data>
+<data id="d2">&lt;span class="mw-headline" id="Software"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=11" title="</data>
+</originalData>
+<segment id="258">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>Software<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="259">
+<segment id="259">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="260">
+<segment id="260">
+<source xml:space="preserve"> Software</source>
+</segment>
+</unit>
+<unit id="261">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="261">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="262">
+<segment id="262">
+<source xml:space="preserve">There are many software tools available that can be used to customize web-scraping solutions.</source>
+</segment>
+</unit>
+<unit id="263">
+<segment id="263">
+<source xml:space="preserve"> This software may attempt to automatically recognize the data structure of a page or provide a recording interface that removes the necessity to manually write web-scraping code, or some scripting functions that can be used to extract and transform content, and database interfaces that can store the scraped data in local databases.</source>
+</segment>
+</unit>
+<unit id="264">
+<segment id="264">
+<source xml:space="preserve"> Some web scraping software can also be used to extract data from an API directly.</source>
+</segment>
+</unit>
+<unit id="265">
+<originalData>
+<data id="d1">&lt;h2></data>
+<data id="d2">&lt;span class="mw-headline" id="Legal_issues"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=12" title="</data>
+</originalData>
+<segment id="265">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>Legal issues<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="266">
+<segment id="266">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="267">
+<segment id="267">
+<source xml:space="preserve"> Legal issues</source>
+</segment>
+</unit>
+<unit id="268">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="268">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="269">
+<segment id="269">
+<source xml:space="preserve">Globe icon.</source>
+</segment>
+</unit>
+<unit id="270">
+<originalData>
+<data id="d1">&lt;div class="mbox-text-span"></data>
+<data id="d2">&lt;b></data>
+<data id="d3">&lt;a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="</data>
+</originalData>
+<segment id="270">
+<source xml:space="preserve"><ph id="ph5" dataRef="d1"/>The examples and perspective in this section <ph id="ph6" dataRef="d2"/>deal primarily with the United States and do not represent a <ph id="ph7" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="271">
+<segment id="271">
+<source xml:space="preserve">Wikipedia:WikiProject Countering systemic bias</source>
+</segment>
+</unit>
+<unit id="272">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+</originalData>
+<segment id="272">
+<source xml:space="preserve"><ph id="ph8" dataRef="d1"/>worldwide view<ph id="ph9" dataRef="d2"/> of the subject<ph id="ph10" dataRef="d3"/>.</source>
+</segment>
+</unit>
+<unit id="273">
+<originalData>
+<data id="d1">&lt;span class="hide-when-compact"></data>
+<data id="d2">&lt;a class="external text" href="https://en.wikipedia.org/w/index.php?title=Web_scraping&amp;action=edit"></data>
+<data id="d3">&lt;/a></data>
+<data id="d4">&lt;a href="/wiki/Talk:Web_scraping" title="</data>
+</originalData>
+<segment id="273">
+<source xml:space="preserve"><ph id="ph11" dataRef="d1"/> You may <ph id="ph13" dataRef="d2"/>improve this section<ph id="ph14" dataRef="d3"/>, discuss the issue on the <ph id="ph15" dataRef="d4"/></source>
+</segment>
+</unit>
+<unit id="274">
+<segment id="274">
+<source xml:space="preserve">Talk:Web scraping</source>
+</segment>
+</unit>
+<unit id="275">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Wikipedia:Article_wizard" title="</data>
+</originalData>
+<segment id="275">
+<source xml:space="preserve"><ph id="ph16" dataRef="d1"/>talk page<ph id="ph17" dataRef="d2"/>, or <ph id="ph18" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="276">
+<segment id="276">
+<source xml:space="preserve">Wikipedia:Article wizard</source>
+</segment>
+</unit>
+<unit id="277">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="277">
+<source xml:space="preserve"><ph id="ph19" dataRef="d1"/>create a new article<ph id="ph20" dataRef="d2"/>, as appropriate.</source>
+</segment>
+</unit>
+<unit id="278">
+<originalData>
+<data id="d1">&lt;/span></data>
+<data id="d2">&lt;small class="date-container"></data>
+<data id="d3">&lt;i></data>
+<data id="d4">&lt;span class="date"></data>
+<data id="d5">&lt;/i></data>
+<data id="d6">&lt;/small></data>
+<data id="d7">&lt;small class="hide-when-compact"></data>
+<data id="d8">&lt;a href="/wiki/Help:Maintenance_template_removal" title="</data>
+</originalData>
+<segment id="278">
+<source xml:space="preserve"><ph id="ph21" dataRef="d1"/> <ph id="ph22" dataRef="d2"/><ph id="ph23" dataRef="d3"/>(<ph id="ph24" dataRef="d4"/>October 2015<ph id="ph25" dataRef="d1"/>)<ph id="ph26" dataRef="d5"/><ph id="ph27" dataRef="d6"/><ph id="ph28" dataRef="d7"/><ph id="ph29" dataRef="d3"/> (<ph id="ph30" dataRef="d8"/></source>
+</segment>
+</unit>
+<unit id="279">
+<segment id="279">
+<source xml:space="preserve">Help:Maintenance template removal</source>
+</segment>
+</unit>
+<unit id="280">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="280">
+<source xml:space="preserve"><ph id="ph31" dataRef="d1"/>Learn how and when to remove this template message<ph id="ph32" dataRef="d2"/>)</source>
+</segment>
+</unit>
+<unit id="281">
+<segment id="281">
+<source xml:space="preserve">The legality of web scraping varies across the world.</source>
+</segment>
+</unit>
+<unit id="282">
+<segment id="282">
+<source xml:space="preserve"> In general, web scraping may be against the </source>
+</segment>
+</unit>
+<unit id="283">
+<segment id="283">
+<source xml:space="preserve">Terms of use</source>
+</segment>
+</unit>
+<unit id="284">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;sup id="cite_ref-6" class="reference"></data>
+<data id="d4">&lt;a href="#cite_note-6"></data>
+</originalData>
+<segment id="284">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>terms of use<ph id="ph8" dataRef="d2"/> of some websites, but the enforceability of these terms is unclear.<ph id="ph9" dataRef="d3"/><ph id="ph11" dataRef="d4"/>[6]<ph id="ph12" dataRef="d2"/></source>
+</segment>
+</unit>
+<unit id="285">
+<originalData>
+<data id="d1">&lt;h3></data>
+<data id="d2">&lt;span class="mw-headline" id="United_States"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=13" title="</data>
+</originalData>
+<segment id="285">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>United States<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="286">
+<segment id="286">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="287">
+<segment id="287">
+<source xml:space="preserve"> United States</source>
+</segment>
+</unit>
+<unit id="288">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="288">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="289">
+<segment id="289">
+<source xml:space="preserve">In the United States, website owners can use three major </source>
+</segment>
+</unit>
+<unit id="290">
+<segment id="290">
+<source xml:space="preserve">Cause of action</source>
+</segment>
+</unit>
+<unit id="291">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="291">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>legal claims<ph id="ph5" dataRef="d2"/> to prevent undesired web scraping:</source>
+</segment>
+</unit>
+<unit id="292">
+<segment id="292">
+<source xml:space="preserve"> (1) copyright infringement (compilation), (2) violation of the </source>
+</segment>
+</unit>
+<unit id="293">
+<segment id="293">
+<source xml:space="preserve">Computer Fraud and Abuse Act</source>
+</segment>
+</unit>
+<unit id="294">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Trespass_to_chattels" title="</data>
+</originalData>
+<segment id="294">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>Computer Fraud and Abuse Act<ph id="ph8" dataRef="d2"/> (�쏞FAA��), and (3) <ph id="ph9" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="295">
+<segment id="295">
+<source xml:space="preserve">Trespass to chattels</source>
+</segment>
+</unit>
+<unit id="296">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;sup id="cite_ref-7" class="reference"></data>
+<data id="d4">&lt;a href="#cite_note-7"></data>
+<data id="d5">&lt;/sup></data>
+</originalData>
+<segment id="296">
+<source xml:space="preserve"><ph id="ph10" dataRef="d1"/>trespass to chattel<ph id="ph11" dataRef="d2"/>.<ph id="ph12" dataRef="d3"/><ph id="ph14" dataRef="d4"/>[7]<ph id="ph15" dataRef="d2"/><ph id="ph16" dataRef="d5"/> However, the effectiveness of these claims relies upon meeting various criteria, and the case law is still evolving.</source>
+</segment>
+</unit>
+<unit id="297">
+<segment id="297">
+<source xml:space="preserve"> For example, with regard to copyright, while outright duplication of original expression will in many cases be illegal, in the United States the courts ruled in </source>
+</segment>
+</unit>
+<unit id="298">
+<segment id="298">
+<source xml:space="preserve">Feist Publications, Inc., v.</source>
+</segment>
+</unit>
+<unit id="299">
+<segment id="299">
+<source xml:space="preserve"> Rural Telephone Service Co.</source>
+</segment>
+</unit>
+<unit id="300">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;i></data>
+</originalData>
+<segment id="300">
+<source xml:space="preserve"><ph id="ph18" dataRef="d1"/><ph id="ph19" dataRef="d2"/>Feist Publications v.</source>
+</segment>
+</unit>
+<unit id="301">
+<originalData>
+<data id="d1">&lt;/i></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="301">
+<source xml:space="preserve"> Rural Telephone Service<ph id="ph20" dataRef="d1"/><ph id="ph21" dataRef="d2"/> that duplication of facts is allowable.</source>
+</segment>
+</unit>
+<unit id="302">
+<segment id="302">
+<source xml:space="preserve">U.S. courts have acknowledged that users of "scrapers" or "robots" may be held liable for committing </source>
+</segment>
+</unit>
+<unit id="303">
+<segment id="303">
+<source xml:space="preserve">Trespass to chattels</source>
+</segment>
+</unit>
+<unit id="304">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;sup id="cite_ref-8" class="reference"></data>
+<data id="d4">&lt;a href="#cite_note-8"></data>
+<data id="d5">&lt;/sup></data>
+<data id="d6">&lt;sup id="cite_ref-9" class="reference"></data>
+<data id="d7">&lt;a href="#cite_note-9"></data>
+</originalData>
+<segment id="304">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>trespass to chattels<ph id="ph5" dataRef="d2"/>,<ph id="ph6" dataRef="d3"/><ph id="ph8" dataRef="d4"/>[8]<ph id="ph9" dataRef="d2"/><ph id="ph10" dataRef="d5"/><ph id="ph11" dataRef="d6"/><ph id="ph13" dataRef="d7"/>[9]<ph id="ph14" dataRef="d2"/><ph id="ph15" dataRef="d5"/> which involves a computer system itself being considered personal property upon which the user of a scraper is trespassing.</source>
+</segment>
+</unit>
+<unit id="305">
+<originalData>
+<data id="d1">&lt;i></data>
+<data id="d2">&lt;a href="/wiki/EBay_v._Bidder%27s_Edge" title="</data>
+</originalData>
+<segment id="305">
+<source xml:space="preserve"> The best known of these cases, <ph id="ph16" dataRef="d1"/><ph id="ph17" dataRef="d2"/></source>
+</segment>
+</unit>
+<unit id="306">
+<segment id="306">
+<source xml:space="preserve">EBay v.</source>
+</segment>
+</unit>
+<unit id="307">
+<segment id="307">
+<source xml:space="preserve"> Bidder's Edge</source>
+</segment>
+</unit>
+<unit id="308">
+<segment id="308">
+<source xml:space="preserve">eBay v.</source>
+</segment>
+</unit>
+<unit id="309">
+<originalData>
+<data id="d1">&lt;/a></data>
+<data id="d2">&lt;/i></data>
+</originalData>
+<segment id="309">
+<source xml:space="preserve"> Bidder's Edge<ph id="ph19" dataRef="d1"/><ph id="ph20" dataRef="d2"/>, resulted in an injunction ordering Bidder's Edge to stop accessing, collecting, and indexing auctions from the eBay web site.</source>
+</segment>
+</unit>
+<unit id="310">
+<segment id="310">
+<source xml:space="preserve"> This case involved automatic placing of bids, known as </source>
+</segment>
+</unit>
+<unit id="311">
+<segment id="311">
+<source xml:space="preserve">Auction sniping</source>
+</segment>
+</unit>
+<unit id="312">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="312">
+<source xml:space="preserve"><ph id="ph22" dataRef="d1"/>auction sniping<ph id="ph23" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="313">
+<segment id="313">
+<source xml:space="preserve"> However, in order to succeed on a claim of trespass to </source>
+</segment>
+</unit>
+<unit id="314">
+<segment id="314">
+<source xml:space="preserve">Personal property</source>
+</segment>
+</unit>
+<unit id="315">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Plaintiff" title="</data>
+</originalData>
+<segment id="315">
+<source xml:space="preserve"><ph id="ph25" dataRef="d1"/>chattels<ph id="ph26" dataRef="d2"/>, the <ph id="ph27" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="316">
+<segment id="316">
+<source xml:space="preserve">Plaintiff</source>
+</segment>
+</unit>
+<unit id="317">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Defendant" title="</data>
+</originalData>
+<segment id="317">
+<source xml:space="preserve"><ph id="ph28" dataRef="d1"/>plaintiff<ph id="ph29" dataRef="d2"/> must demonstrate that the <ph id="ph30" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="318">
+<segment id="318">
+<source xml:space="preserve">Defendant</source>
+</segment>
+</unit>
+<unit id="319">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="319">
+<source xml:space="preserve"><ph id="ph31" dataRef="d1"/>defendant<ph id="ph32" dataRef="d2"/> intentionally and without authorization interfered with the plaintiff's possessory interest in the computer system and that the defendant's unauthorized use caused damage to the plaintiff.</source>
+</segment>
+</unit>
+<unit id="320">
+<originalData>
+<data id="d1">&lt;sup id="cite_ref-10" class="reference"></data>
+<data id="d2">&lt;a href="#cite_note-10"></data>
+<data id="d3">&lt;/a></data>
+</originalData>
+<segment id="320">
+<source xml:space="preserve"> Not all cases of web spidering brought before the courts have been considered trespass to chattels.<ph id="ph33" dataRef="d1"/><ph id="ph35" dataRef="d2"/>[10]<ph id="ph36" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="321">
+<segment id="321">
+<source xml:space="preserve">One of the first major tests of </source>
+</segment>
+</unit>
+<unit id="322">
+<segment id="322">
+<source xml:space="preserve">Screen scraping</source>
+</segment>
+</unit>
+<unit id="323">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/American_Airlines" title="</data>
+</originalData>
+<segment id="323">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>screen scraping<ph id="ph5" dataRef="d2"/> involved <ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="324">
+<segment id="324">
+<source xml:space="preserve">American Airlines</source>
+</segment>
+</unit>
+<unit id="325">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;sup id="cite_ref-11" class="reference"></data>
+<data id="d4">&lt;a href="#cite_note-11"></data>
+<data id="d5">&lt;/sup></data>
+<data id="d6">&lt;a href="/wiki/Injunction" title="</data>
+</originalData>
+<segment id="325">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>American Airlines<ph id="ph8" dataRef="d2"/> (AA), and a firm called FareChase.<ph id="ph9" dataRef="d3"/><ph id="ph11" dataRef="d4"/>[11]<ph id="ph12" dataRef="d2"/><ph id="ph13" dataRef="d5"/> AA successfully obtained an <ph id="ph14" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="326">
+<segment id="326">
+<source xml:space="preserve">Injunction</source>
+</segment>
+</unit>
+<unit id="327">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="327">
+<source xml:space="preserve"><ph id="ph15" dataRef="d1"/>injunction<ph id="ph16" dataRef="d2"/> from a Texas trial court, stopping FareChase from selling software that enables users to compare online fares if the software also searches AA's website.</source>
+</segment>
+</unit>
+<unit id="328">
+<segment id="328">
+<source xml:space="preserve"> The airline argued that FareChase's websearch software trespassed on AA's servers when it collected the publicly available data.</source>
+</segment>
+</unit>
+<unit id="329">
+<segment id="329">
+<source xml:space="preserve"> FareChase filed an appeal in March 2003.</source>
+</segment>
+</unit>
+<unit id="330">
+<originalData>
+<data id="d1">&lt;sup id="cite_ref-12" class="reference"></data>
+<data id="d2">&lt;a href="#cite_note-12"></data>
+<data id="d3">&lt;/a></data>
+</originalData>
+<segment id="330">
+<source xml:space="preserve"> By June, FareChase and AA agreed to settle and the appeal was dropped.<ph id="ph17" dataRef="d1"/><ph id="ph19" dataRef="d2"/>[12]<ph id="ph20" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="331">
+<segment id="331">
+<source xml:space="preserve">Southwest Airlines</source>
+</segment>
+</unit>
+<unit id="332">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="332">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>Southwest Airlines<ph id="ph5" dataRef="d2"/> has also challenged screen-scraping practices, and has involved both FareChase and another firm, Outtask, in a legal claim.</source>
+</segment>
+</unit>
+<unit id="333">
+<segment id="333">
+<source xml:space="preserve"> Southwest Airlines charged that the screen-scraping is Illegal since it is an example of "Computer Fraud and Abuse" and has led to "Damage and Loss" and "Unauthorized Access" of Southwest's site.</source>
+</segment>
+</unit>
+<unit id="334">
+<segment id="334">
+<source xml:space="preserve"> It also constitutes "Interference with Business Relations", "Trespass", and "Harmful Access by Computer".</source>
+</segment>
+</unit>
+<unit id="335">
+<segment id="335">
+<source xml:space="preserve"> They also claimed that screen-scraping constitutes what is legally known as "Misappropriation and Unjust Enrichment", as well as being a breach of the web site's user agreement.</source>
+</segment>
+</unit>
+<unit id="336">
+<segment id="336">
+<source xml:space="preserve"> Outtask denied all these claims, claiming that the prevailing law in this case should be </source>
+</segment>
+</unit>
+<unit id="337">
+<segment id="337">
+<source xml:space="preserve">US Copyright law</source>
+</segment>
+</unit>
+<unit id="338">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="338">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>US Copyright law<ph id="ph8" dataRef="d2"/>, and that under copyright, the pieces of information being scraped would not be subject to copyright protection.</source>
+</segment>
+</unit>
+<unit id="339">
+<segment id="339">
+<source xml:space="preserve"> Although the cases were never resolved in the </source>
+</segment>
+</unit>
+<unit id="340">
+<segment id="340">
+<source xml:space="preserve">Supreme Court of the United States</source>
+</segment>
+</unit>
+<unit id="341">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Yahoo!" title="</data>
+</originalData>
+<segment id="341">
+<source xml:space="preserve"><ph id="ph10" dataRef="d1"/>Supreme Court of the United States<ph id="ph11" dataRef="d2"/>, FareChase was eventually shuttered by parent company <ph id="ph12" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="342">
+<segment id="342">
+<source xml:space="preserve">Yahoo!</source>
+</segment>
+</unit>
+<unit id="343">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;sup id="cite_ref-impervawp2011_13-0" class="reference"></data>
+<data id="d4">&lt;a href="#cite_note-impervawp2011-13"></data>
+<data id="d5">&lt;/sup></data>
+</originalData>
+<segment id="343">
+<source xml:space="preserve"><ph id="ph13" dataRef="d1"/>Yahoo!<ph id="ph14" dataRef="d2"/>, and Outtask was purchased by travel expense company Concur.<ph id="ph15" dataRef="d3"/><ph id="ph17" dataRef="d4"/>[13]<ph id="ph18" dataRef="d2"/><ph id="ph19" dataRef="d5"/> In 2012, a startup called 3Taps scraped classified housing ads from Craigslist.</source>
+</segment>
+</unit>
+<unit id="344">
+<originalData>
+<data id="d1">&lt;i></data>
+<data id="d2">&lt;a href="/wiki/Craigslist_v._3Taps" class="mw-redirect" title="</data>
+</originalData>
+<segment id="344">
+<source xml:space="preserve"> Craigslist sent 3Taps a cease-and-desist letter and blocked their IP addresses and later sued, in <ph id="ph20" dataRef="d1"/><ph id="ph21" dataRef="d2"/></source>
+</segment>
+</unit>
+<unit id="345">
+<segment id="345">
+<source xml:space="preserve">Craigslist v. 3Taps</source>
+</segment>
+</unit>
+<unit id="346">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/i></data>
+</originalData>
+<segment id="346">
+<source xml:space="preserve"><ph id="ph22" dataRef="d1"/>Craigslist v. 3Taps<ph id="ph23" dataRef="d2"/><ph id="ph24" dataRef="d3"/>.</source>
+</segment>
+</unit>
+<unit id="347">
+<segment id="347">
+<source xml:space="preserve"> The court held that the cease-and-desist letter and IP blocking was sufficient for Craigslist to properly claim that 3Taps had violated the </source>
+</segment>
+</unit>
+<unit id="348">
+<segment id="348">
+<source xml:space="preserve">Computer Fraud and Abuse Act</source>
+</segment>
+</unit>
+<unit id="349">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="349">
+<source xml:space="preserve"><ph id="ph26" dataRef="d1"/>Computer Fraud and Abuse Act<ph id="ph27" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="350">
+<segment id="350">
+<source xml:space="preserve">Although these are early scraping decisions, and the theories of liability are not uniform, it is difficult to ignore a pattern emerging that the courts are prepared to protect proprietary content on commercial sites from uses which are undesirable to the owners of such sites.</source>
+</segment>
+</unit>
+<unit id="351">
+<originalData>
+<data id="d1">&lt;sup id="cite_ref-14" class="reference"></data>
+<data id="d2">&lt;a href="#cite_note-14"></data>
+<data id="d3">&lt;/a></data>
+</originalData>
+<segment id="351">
+<source xml:space="preserve"> However, the degree of protection for such content is not settled, and will depend on the type of access made by the scraper, the amount of information accessed and copied, the degree to which the access adversely affects the site owner�셲 system and the types and manner of prohibitions on such conduct.<ph id="ph3" dataRef="d1"/><ph id="ph5" dataRef="d2"/>[14]<ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="352">
+<segment id="352">
+<source xml:space="preserve">While the law in this area becomes more settled, entities contemplating using scraping programs to access a public web site should also consider whether such action is authorized by reviewing the terms of use and other terms or notices posted on or made available through the site.</source>
+</segment>
+</unit>
+<unit id="353">
+<originalData>
+<data id="d1">&lt;i></data>
+<data id="d2">&lt;a href="/wiki/Cvent,_Inc." class="mw-redirect" title="</data>
+</originalData>
+<segment id="353">
+<source xml:space="preserve"> In a 2010 ruling in the <ph id="ph3" dataRef="d1"/><ph id="ph4" dataRef="d2"/></source>
+</segment>
+</unit>
+<unit id="354">
+<segment id="354">
+<source xml:space="preserve">Cvent, Inc.</source>
+</segment>
+</unit>
+<unit id="355">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="355">
+<source xml:space="preserve"><ph id="ph5" dataRef="d1"/>Cvent, Inc.<ph id="ph6" dataRef="d2"/> v.</source>
+</segment>
+</unit>
+<unit id="356">
+<segment id="356">
+<source xml:space="preserve">Eventbrite</source>
+</segment>
+</unit>
+<unit id="357">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/i></data>
+<data id="d4">&lt;a href="/wiki/Browse_wrap" title="</data>
+</originalData>
+<segment id="357">
+<source xml:space="preserve"><ph id="ph8" dataRef="d1"/>Eventbrite, Inc.<ph id="ph9" dataRef="d2"/><ph id="ph10" dataRef="d3"/> In the United States district court for the eastern district of Virginia, the court ruled that the terms of use should be brought to the users' attention In order for a <ph id="ph11" dataRef="d4"/></source>
+</segment>
+</unit>
+<unit id="358">
+<segment id="358">
+<source xml:space="preserve">Browse wrap</source>
+</segment>
+</unit>
+<unit id="359">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;sup id="cite_ref-15" class="reference"></data>
+<data id="d4">&lt;a href="#cite_note-15"></data>
+<data id="d5">&lt;/sup></data>
+<data id="d6">&lt;a href="/wiki/United_States_District_Court_for_the_Eastern_District_of_Pennsylvania" title="</data>
+</originalData>
+<segment id="359">
+<source xml:space="preserve"><ph id="ph12" dataRef="d1"/>browse wrap<ph id="ph13" dataRef="d2"/> contract or license to be enforced.<ph id="ph14" dataRef="d3"/><ph id="ph16" dataRef="d4"/>[15]<ph id="ph17" dataRef="d2"/><ph id="ph18" dataRef="d5"/> In a 2014, filed in the <ph id="ph19" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="360">
+<segment id="360">
+<source xml:space="preserve">United States District Court for the Eastern District of Pennsylvania</source>
+</segment>
+</unit>
+<unit id="361">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;sup id="cite_ref-16" class="reference"></data>
+<data id="d4">&lt;a href="#cite_note-16"></data>
+<data id="d5">&lt;/sup></data>
+<data id="d6">&lt;a href="/wiki/QVC" title="</data>
+</originalData>
+<segment id="361">
+<source xml:space="preserve"><ph id="ph20" dataRef="d1"/>United States District Court for the Eastern District of Pennsylvania<ph id="ph21" dataRef="d2"/>,<ph id="ph22" dataRef="d3"/><ph id="ph24" dataRef="d4"/>[16]<ph id="ph25" dataRef="d2"/><ph id="ph26" dataRef="d5"/> e-commerce site <ph id="ph27" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="362">
+<segment id="362">
+<source xml:space="preserve">QVC</source>
+</segment>
+</unit>
+<unit id="363">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="363">
+<source xml:space="preserve"><ph id="ph28" dataRef="d1"/>QVC<ph id="ph29" dataRef="d2"/> objected to the Pinterest-like shopping aggregator Resultly�셲 `scraping of QVC�셲 site for real-time pricing data.</source>
+</segment>
+</unit>
+<unit id="364">
+<originalData>
+<data id="d1">&lt;sup id="cite_ref-17" class="reference"></data>
+<data id="d2">&lt;a href="#cite_note-17"></data>
+<data id="d3">&lt;/a></data>
+<data id="d4">&lt;/sup></data>
+</originalData>
+<segment id="364">
+<source xml:space="preserve"> QVC alleges that Resultly �쐃xcessively crawled�� QVC�셲 retail site (allegedly sending 200-300 search requests to QVC�셲 website per minute, sometimes to up to 36,000 requests per minute) which caused QVC's site to crash for two days, resulting in lost sales for QVC.<ph id="ph30" dataRef="d1"/><ph id="ph32" dataRef="d2"/>[17]<ph id="ph33" dataRef="d3"/><ph id="ph34" dataRef="d4"/> QVC's complaint alleges that the defendant disguised its web crawler to mask its source IP address and thus prevented QVC from quickly repairing the problem.</source>
+</segment>
+</unit>
+<unit id="365">
+<segment id="365">
+<source xml:space="preserve"> This is a particularly interesting scraping case because QVC is seeking damages for the unavailability of their website, which QVC claims was caused by Resultly.</source>
+</segment>
+</unit>
+<unit id="366">
+<segment id="366">
+<source xml:space="preserve">In the plaintiff's web site during the period of this trial the terms of use link is displayed among all the links of the site, at the bottom of the page as most sites on the internet.</source>
+</segment>
+</unit>
+<unit id="367">
+<segment id="367">
+<source xml:space="preserve"> This ruling contradicts the Irish ruling described below.</source>
+</segment>
+</unit>
+<unit id="368">
+<originalData>
+<data id="d1">&lt;sup id="cite_ref-18" class="reference"></data>
+<data id="d2">&lt;a href="#cite_note-18"></data>
+<data id="d3">&lt;/a></data>
+</originalData>
+<segment id="368">
+<source xml:space="preserve"> The court also rejected the plaintiff's argument that the browse wrap restrictions were enforceable in view of Virginia's adoption of the Uniform Computer Information Transactions Act (UCITA)�봞 uniform law that many believed was in favor on common browse wrap contracting practices.<ph id="ph3" dataRef="d1"/><ph id="ph5" dataRef="d2"/>[18]<ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="369">
+<originalData>
+<data id="d1">&lt;p></data>
+<data id="d2">&lt;i></data>
+<data id="d3">&lt;a href="/wiki/Facebook,_Inc._v._Power_Ventures,_Inc." title="</data>
+</originalData>
+<segment id="369">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/>In <ph id="ph3" dataRef="d2"/><ph id="ph4" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="370">
+<segment id="370">
+<source xml:space="preserve">Facebook, Inc. v.</source>
+</segment>
+</unit>
+<unit id="371">
+<segment id="371">
+<source xml:space="preserve"> Power Ventures, Inc.</source>
+</segment>
+</unit>
+<unit id="372">
+<segment id="372">
+<source xml:space="preserve">Facebook, Inc. v.</source>
+</segment>
+</unit>
+<unit id="373">
+<originalData>
+<data id="d1">&lt;/a></data>
+<data id="d2">&lt;/i></data>
+</originalData>
+<segment id="373">
+<source xml:space="preserve"> Power Ventures, Inc.<ph id="ph6" dataRef="d1"/><ph id="ph7" dataRef="d2"/>, a district court ruled in 2012 that Power Ventures could not scrape Facebook pages on behalf of a Facebook user.</source>
+</segment>
+</unit>
+<unit id="374">
+<segment id="374">
+<source xml:space="preserve"> The case is on appeal, and the </source>
+</segment>
+</unit>
+<unit id="375">
+<segment id="375">
+<source xml:space="preserve">Electronic Frontier Foundation</source>
+</segment>
+</unit>
+<unit id="376">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;sup id="cite_ref-19" class="reference"></data>
+<data id="d4">&lt;a href="#cite_note-19"></data>
+<data id="d5">&lt;/sup></data>
+<data id="d6">&lt;sup id="cite_ref-20" class="reference"></data>
+<data id="d7">&lt;a href="#cite_note-20"></data>
+<data id="d8">&lt;i></data>
+<data id="d9">&lt;a href="/wiki/Associated_Press_v._Meltwater_U.S._Holdings,_Inc." title="</data>
+</originalData>
+<segment id="376">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>Electronic Frontier Foundation<ph id="ph10" dataRef="d2"/> filed a brief in 2015 asking that it be overturned.<ph id="ph11" dataRef="d3"/><ph id="ph13" dataRef="d4"/>[19]<ph id="ph14" dataRef="d2"/><ph id="ph15" dataRef="d5"/><ph id="ph16" dataRef="d6"/><ph id="ph18" dataRef="d7"/>[20]<ph id="ph19" dataRef="d2"/><ph id="ph20" dataRef="d5"/> In <ph id="ph21" dataRef="d8"/><ph id="ph22" dataRef="d9"/></source>
+</segment>
+</unit>
+<unit id="377">
+<segment id="377">
+<source xml:space="preserve">Associated Press v.</source>
+</segment>
+</unit>
+<unit id="378">
+<segment id="378">
+<source xml:space="preserve"> Meltwater U.S.</source>
+</segment>
+</unit>
+<unit id="379">
+<segment id="379">
+<source xml:space="preserve"> Holdings, Inc.</source>
+</segment>
+</unit>
+<unit id="380">
+<segment id="380">
+<source xml:space="preserve">Associated Press v.</source>
+</segment>
+</unit>
+<unit id="381">
+<segment id="381">
+<source xml:space="preserve"> Meltwater U.S.</source>
+</segment>
+</unit>
+<unit id="382">
+<originalData>
+<data id="d1">&lt;/a></data>
+<data id="d2">&lt;/i></data>
+</originalData>
+<segment id="382">
+<source xml:space="preserve"> Holdings, Inc.<ph id="ph24" dataRef="d1"/><ph id="ph25" dataRef="d2"/>, a court in the US held Meltwater liable for scraping and republishing news information from the Associated Press, but a court in the United Kingdom held in favor of Meltwater.</source>
+</segment>
+</unit>
+<unit id="383">
+<segment id="383">
+<source xml:space="preserve">Internet Archive collects and distributes significant number of publicly available webpages without it is considered to be copyright violation.</source>
+</segment>
+</unit>
+<unit id="384">
+<originalData>
+<data id="d1">&lt;h3></data>
+<data id="d2">&lt;span class="mw-headline" id="The_EU"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=14" title="</data>
+</originalData>
+<segment id="384">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>The EU<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="385">
+<segment id="385">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="386">
+<segment id="386">
+<source xml:space="preserve"> The EU</source>
+</segment>
+</unit>
+<unit id="387">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="387">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="388">
+<originalData>
+<data id="d1">&lt;p></data>
+<data id="d2">&lt;sup id="cite_ref-21" class="reference"></data>
+<data id="d3">&lt;a href="#cite_note-21"></data>
+<data id="d4">&lt;/a></data>
+</originalData>
+<segment id="388">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/>In February 2006, the Danish Maritime and Commercial Court (Copenhagen) ruled that systematic crawling, indexing, and deep linking by portal site ofir.dk of estate site Home.dk does not conflict with Danish law or the database directive of the European Union.<ph id="ph3" dataRef="d2"/><ph id="ph5" dataRef="d3"/>[21]<ph id="ph6" dataRef="d4"/></source>
+</segment>
+</unit>
+<unit id="389">
+<segment id="389">
+<source xml:space="preserve">In a February 2010 case complicated by matters of jurisdiction, Ireland's High Court delivered a verdict that illustrates the </source>
+</segment>
+</unit>
+<unit id="390">
+<segment id="390">
+<source xml:space="preserve">Inchoate offense</source>
+</segment>
+</unit>
+<unit id="391">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="391">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>inchoate<ph id="ph5" dataRef="d2"/> state of developing case law.</source>
+</segment>
+</unit>
+<unit id="392">
+<originalData>
+<data id="d1">&lt;i></data>
+<data id="d2">&lt;/i></data>
+<data id="d3">&lt;a href="/wiki/Ryanair" title="</data>
+</originalData>
+<segment id="392">
+<source xml:space="preserve"> In the case of <ph id="ph6" dataRef="d1"/>Ryanair Ltd v Billigfluege.de GmbH<ph id="ph7" dataRef="d2"/>, Ireland's High Court ruled <ph id="ph8" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="393">
+<segment id="393">
+<source xml:space="preserve">Ryanair</source>
+</segment>
+</unit>
+<unit id="394">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="394">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>Ryanair's<ph id="ph10" dataRef="d2"/> "click-wrap" agreement to be legally binding.</source>
+</segment>
+</unit>
+<unit id="395">
+<segment id="395">
+<source xml:space="preserve"> In contrast to the findings of the United States District Court Eastern District of Virginia and those of the Danish Maritime and Commercial Court, Justice </source>
+</segment>
+</unit>
+<unit id="396">
+<segment id="396">
+<source xml:space="preserve">Michael Hanna (judge)</source>
+</segment>
+</unit>
+<unit id="397">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="397">
+<source xml:space="preserve"><ph id="ph12" dataRef="d1"/>Michael Hanna<ph id="ph13" dataRef="d2"/> ruled that the hyperlink to Ryanair's terms and conditions was plainly visible, and that placing the onus on the user to agree to terms and conditions in order to gain access to online services is sufficient to comprise a contractual relationship.</source>
+</segment>
+</unit>
+<unit id="398">
+<originalData>
+<data id="d1">&lt;sup id="cite_ref-22" class="reference"></data>
+<data id="d2">&lt;a href="#cite_note-22"></data>
+<data id="d3">&lt;/a></data>
+<data id="d4">&lt;/sup></data>
+<data id="d5">&lt;sup id="cite_ref-23" class="reference"></data>
+<data id="d6">&lt;a href="#cite_note-23"></data>
+</originalData>
+<segment id="398">
+<source xml:space="preserve"> <ph id="ph14" dataRef="d1"/><ph id="ph16" dataRef="d2"/>[22]<ph id="ph17" dataRef="d3"/><ph id="ph18" dataRef="d4"/> The decision is under appeal in Ireland's Supreme Court.<ph id="ph19" dataRef="d5"/><ph id="ph21" dataRef="d6"/>[23]<ph id="ph22" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="399">
+<originalData>
+<data id="d1">&lt;h3></data>
+<data id="d2">&lt;span class="mw-headline" id="Australia"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=15" title="</data>
+</originalData>
+<segment id="399">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>Australia<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="400">
+<segment id="400">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="401">
+<segment id="401">
+<source xml:space="preserve"> Australia</source>
+</segment>
+</unit>
+<unit id="402">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="402">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="403">
+<segment id="403">
+<source xml:space="preserve">In Australia, the </source>
+</segment>
+</unit>
+<unit id="404">
+<segment id="404">
+<source xml:space="preserve">Spam Act 2003</source>
+</segment>
+</unit>
+<unit id="405">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;sup id="cite_ref-24" class="reference"></data>
+<data id="d4">&lt;a href="#cite_note-24"></data>
+<data id="d5">&lt;/sup></data>
+<data id="d6">&lt;sup id="cite_ref-25" class="reference"></data>
+<data id="d7">&lt;a href="#cite_note-25"></data>
+</originalData>
+<segment id="405">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>Spam Act 2003<ph id="ph5" dataRef="d2"/> outlaws some forms of web harvesting, although this only applies to email addresses.<ph id="ph6" dataRef="d3"/><ph id="ph8" dataRef="d4"/>[24]<ph id="ph9" dataRef="d2"/><ph id="ph10" dataRef="d5"/><ph id="ph11" dataRef="d6"/><ph id="ph13" dataRef="d7"/>[25]<ph id="ph14" dataRef="d2"/></source>
+</segment>
+</unit>
+<unit id="406">
+<originalData>
+<data id="d1">&lt;h2></data>
+<data id="d2">&lt;span class="mw-headline" id="Methods_to_prevent_web_scraping"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=16" title="</data>
+</originalData>
+<segment id="406">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>Methods to prevent web scraping<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="407">
+<segment id="407">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="408">
+<segment id="408">
+<source xml:space="preserve"> Methods to prevent web scraping</source>
+</segment>
+</unit>
+<unit id="409">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="409">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="410">
+<segment id="410">
+<source xml:space="preserve">The administrator of a website can use various measures to stop or slow a bot.</source>
+</segment>
+</unit>
+<unit id="411">
+<segment id="411">
+<source xml:space="preserve"> Some techniques include:</source>
+</segment>
+</unit>
+<unit id="412">
+<segment id="412">
+<source xml:space="preserve">Blocking an </source>
+</segment>
+</unit>
+<unit id="413">
+<segment id="413">
+<source xml:space="preserve">IP address</source>
+</segment>
+</unit>
+<unit id="414">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Geolocation" title="</data>
+</originalData>
+<segment id="414">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/>IP address<ph id="ph3" dataRef="d2"/> either manually or based on criteria such as <ph id="ph4" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="415">
+<segment id="415">
+<source xml:space="preserve">Geolocation</source>
+</segment>
+</unit>
+<unit id="416">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/DNSBL" title="</data>
+</originalData>
+<segment id="416">
+<source xml:space="preserve"><ph id="ph5" dataRef="d1"/>geolocation<ph id="ph6" dataRef="d2"/> and <ph id="ph7" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="417">
+<segment id="417">
+<source xml:space="preserve">DNSBL</source>
+</segment>
+</unit>
+<unit id="418">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="418">
+<source xml:space="preserve"><ph id="ph8" dataRef="d1"/>DNSRBL<ph id="ph9" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="419">
+<segment id="419">
+<source xml:space="preserve"> This will also block all browsing from that address.</source>
+</segment>
+</unit>
+<unit id="420">
+<segment id="420">
+<source xml:space="preserve">Disabling any </source>
+</segment>
+</unit>
+<unit id="421">
+<segment id="421">
+<source xml:space="preserve">Web service</source>
+</segment>
+</unit>
+<unit id="422">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Application_programming_interface" title="</data>
+</originalData>
+<segment id="422">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>web service<ph id="ph2" dataRef="d2"/> <ph id="ph3" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="423">
+<segment id="423">
+<source xml:space="preserve">Application programming interface</source>
+</segment>
+</unit>
+<unit id="424">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="424">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>API<ph id="ph5" dataRef="d2"/> that the website's system might expose.</source>
+</segment>
+</unit>
+<unit id="425">
+<segment id="425">
+<source xml:space="preserve">Bots sometimes declare who they are (using </source>
+</segment>
+</unit>
+<unit id="426">
+<segment id="426">
+<source xml:space="preserve">User agent</source>
+</segment>
+</unit>
+<unit id="427">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/String_(computer_science)" title="</data>
+</originalData>
+<segment id="427">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>user agent<ph id="ph2" dataRef="d2"/> <ph id="ph3" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="428">
+<segment id="428">
+<source xml:space="preserve">String (computer science)</source>
+</segment>
+</unit>
+<unit id="429">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Robots_exclusion_standard" title="</data>
+</originalData>
+<segment id="429">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>strings<ph id="ph5" dataRef="d2"/>) and can be blocked on that basis using <ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="430">
+<segment id="430">
+<source xml:space="preserve">Robots exclusion standard</source>
+</segment>
+</unit>
+<unit id="431">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Googlebot" title="</data>
+</originalData>
+<segment id="431">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>robots.txt<ph id="ph8" dataRef="d2"/>; '<ph id="ph9" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="432">
+<segment id="432">
+<source xml:space="preserve">Googlebot</source>
+</segment>
+</unit>
+<unit id="433">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="433">
+<source xml:space="preserve"><ph id="ph10" dataRef="d1"/>googlebot<ph id="ph11" dataRef="d2"/>' is an example.</source>
+</segment>
+</unit>
+<unit id="434">
+<segment id="434">
+<source xml:space="preserve"> Other bots make no distinction between themselves and a human using a browser.</source>
+</segment>
+</unit>
+<unit id="435">
+<segment id="435">
+<source xml:space="preserve">Bots can be blocked by monitoring excess traffic</source>
+</segment>
+</unit>
+<unit id="436">
+<segment id="436">
+<source xml:space="preserve">Bots can sometimes be blocked with tools to verify that it is a real person accessing the site, like a </source>
+</segment>
+</unit>
+<unit id="437">
+<segment id="437">
+<source xml:space="preserve">CAPTCHA</source>
+</segment>
+</unit>
+<unit id="438">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="438">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>CAPTCHA<ph id="ph2" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="439">
+<segment id="439">
+<source xml:space="preserve"> Bots are sometimes coded to explicitly break specific CAPTCHA patterns or may employ third-party services that utilize human labor to read and respond in real-time to CAPTCHA challenges.</source>
+</segment>
+</unit>
+<unit id="440">
+<segment id="440">
+<source xml:space="preserve">Commercial anti-bot services:</source>
+</segment>
+</unit>
+<unit id="441">
+<segment id="441">
+<source xml:space="preserve"> Companies offer anti-bot and anti-scraping services for websites.</source>
+</segment>
+</unit>
+<unit id="442">
+<segment id="442">
+<source xml:space="preserve"> A few web </source>
+</segment>
+</unit>
+<unit id="443">
+<segment id="443">
+<source xml:space="preserve">Application firewall</source>
+</segment>
+</unit>
+<unit id="444">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="444">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>application firewalls<ph id="ph2" dataRef="d2"/> have limited bot detection capabilities as well.</source>
+</segment>
+</unit>
+<unit id="445">
+<originalData>
+<data id="d1">&lt;sup id="cite_ref-26" class="reference"></data>
+<data id="d2">&lt;a href="#cite_note-26"></data>
+<data id="d3">&lt;/a></data>
+<data id="d4">&lt;/sup></data>
+</originalData>
+<segment id="445">
+<source xml:space="preserve"> However, many such solutions are not very effective<ph id="ph3" dataRef="d1"/><ph id="ph5" dataRef="d2"/>[26]<ph id="ph6" dataRef="d3"/><ph id="ph7" dataRef="d4"/>.</source>
+</segment>
+</unit>
+<unit id="446">
+<segment id="446">
+<source xml:space="preserve">Locating bots with a </source>
+</segment>
+</unit>
+<unit id="447">
+<segment id="447">
+<source xml:space="preserve">Honeypot (computing)</source>
+</segment>
+</unit>
+<unit id="448">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="448">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>honeypot<ph id="ph2" dataRef="d2"/> or other method to identify the IP addresses of automated crawlers.</source>
+</segment>
+</unit>
+<unit id="449">
+<segment id="449">
+<source xml:space="preserve">Obfuscation</source>
+</segment>
+</unit>
+<unit id="450">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/CSS_sprite" class="mw-redirect" title="</data>
+</originalData>
+<segment id="450">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>Obfuscation<ph id="ph2" dataRef="d2"/> using <ph id="ph3" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="451">
+<segment id="451">
+<source xml:space="preserve">CSS sprite</source>
+</segment>
+</unit>
+<unit id="452">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Web_accessibility" title="</data>
+</originalData>
+<segment id="452">
+<source xml:space="preserve"><ph id="ph4" dataRef="d1"/>CSS sprites<ph id="ph5" dataRef="d2"/> to display such data as phone numbers or email addresses, at the cost of <ph id="ph6" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="453">
+<segment id="453">
+<source xml:space="preserve">Web accessibility</source>
+</segment>
+</unit>
+<unit id="454">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="/wiki/Screen_reader" title="</data>
+</originalData>
+<segment id="454">
+<source xml:space="preserve"><ph id="ph7" dataRef="d1"/>accessibility<ph id="ph8" dataRef="d2"/> to <ph id="ph9" dataRef="d3"/></source>
+</segment>
+</unit>
+<unit id="455">
+<segment id="455">
+<source xml:space="preserve">Screen reader</source>
+</segment>
+</unit>
+<unit id="456">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="456">
+<source xml:space="preserve"><ph id="ph10" dataRef="d1"/>screen reader<ph id="ph11" dataRef="d2"/> users.</source>
+</segment>
+</unit>
+<unit id="457">
+<segment id="457">
+<source xml:space="preserve">Because bots rely on consistency in the front-end code of a target website, adding small variations to the HTML/CSS surrounding important data and navigation elements would require more human involvement in the initial set up of a bot and if done effectively may render the target website too difficult to scrape due to the diminished ability to automate the scraping process.</source>
+</segment>
+</unit>
+<unit id="458">
+<segment id="458">
+<source xml:space="preserve">Websites can declare if crawling is allowed or not in the </source>
+</segment>
+</unit>
+<unit id="459">
+<segment id="459">
+<source xml:space="preserve">Robots exclusion standard</source>
+</segment>
+</unit>
+<unit id="460">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="460">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>robots.txt<ph id="ph2" dataRef="d2"/> file and allow partial access, limit the crawl rate, specify the optimal time to crawl and more.</source>
+</segment>
+</unit>
+<unit id="461">
+<originalData>
+<data id="d1">&lt;h2></data>
+<data id="d2">&lt;span class="mw-headline" id="See_also"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=17" title="</data>
+</originalData>
+<segment id="461">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/><ph id="ph2" dataRef="d2"/>See also<ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/><ph id="ph5" dataRef="d5"/>[<ph id="ph6" dataRef="d3"/><ph id="ph7" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="462">
+<segment id="462">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="463">
+<segment id="463">
+<source xml:space="preserve"> See also</source>
+</segment>
+</unit>
+<unit id="464">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="464">
+<source xml:space="preserve"><ph id="ph8" dataRef="d1"/>edit<ph id="ph9" dataRef="d2"/><ph id="ph10" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="465">
+<segment id="465">
+<source xml:space="preserve">Archive.is</source>
+</segment>
+</unit>
+<unit id="466">
+<segment id="466">
+<source xml:space="preserve">Archive.is</source>
+</segment>
+</unit>
+<unit id="467">
+<segment id="467">
+<source xml:space="preserve">Comparison of feed aggregators</source>
+</segment>
+</unit>
+<unit id="468">
+<segment id="468">
+<source xml:space="preserve">Comparison of feed aggregators</source>
+</segment>
+</unit>
+<unit id="469">
+<segment id="469">
+<source xml:space="preserve">Data scraping</source>
+</segment>
+</unit>
+<unit id="470">
+<segment id="470">
+<source xml:space="preserve">Data scraping</source>
+</segment>
+</unit>
+<unit id="471">
+<segment id="471">
+<source xml:space="preserve">Data wrangling</source>
+</segment>
+</unit>
+<unit id="472">
+<segment id="472">
+<source xml:space="preserve">Data wrangling</source>
+</segment>
+</unit>
+<unit id="473">
+<segment id="473">
+<source xml:space="preserve">Importer (computing)</source>
+</segment>
+</unit>
+<unit id="474">
+<segment id="474">
+<source xml:space="preserve">Importer</source>
+</segment>
+</unit>
+<unit id="475">
+<segment id="475">
+<source xml:space="preserve">Job wrapping</source>
+</segment>
+</unit>
+<unit id="476">
+<segment id="476">
+<source xml:space="preserve">Job wrapping</source>
+</segment>
+</unit>
+<unit id="477">
+<segment id="477">
+<source xml:space="preserve">Knowledge extraction</source>
+</segment>
+</unit>
+<unit id="478">
+<segment id="478">
+<source xml:space="preserve">Knowledge extraction</source>
+</segment>
+</unit>
+<unit id="479">
+<segment id="479">
+<source xml:space="preserve">OpenSocial</source>
+</segment>
+</unit>
+<unit id="480">
+<segment id="480">
+<source xml:space="preserve">OpenSocial</source>
+</segment>
+</unit>
+<unit id="481">
+<segment id="481">
+<source xml:space="preserve">Scraper site</source>
+</segment>
+</unit>
+<unit id="482">
+<segment id="482">
+<source xml:space="preserve">Scraper site</source>
+</segment>
+</unit>
+<unit id="483">
+<segment id="483">
+<source xml:space="preserve">Fake news website</source>
+</segment>
+</unit>
+<unit id="484">
+<segment id="484">
+<source xml:space="preserve">Fake news website</source>
+</segment>
+</unit>
+<unit id="485">
+<segment id="485">
+<source xml:space="preserve">Blog scraping</source>
+</segment>
+</unit>
+<unit id="486">
+<segment id="486">
+<source xml:space="preserve">Blog scraping</source>
+</segment>
+</unit>
+<unit id="487">
+<segment id="487">
+<source xml:space="preserve">Spamdexing</source>
+</segment>
+</unit>
+<unit id="488">
+<segment id="488">
+<source xml:space="preserve">Spamdexing</source>
+</segment>
+</unit>
+<unit id="489">
+<segment id="489">
+<source xml:space="preserve">Domain name drop list</source>
+</segment>
+</unit>
+<unit id="490">
+<segment id="490">
+<source xml:space="preserve">Domain name drop list</source>
+</segment>
+</unit>
+<unit id="491">
+<segment id="491">
+<source xml:space="preserve">Text corpus</source>
+</segment>
+</unit>
+<unit id="492">
+<segment id="492">
+<source xml:space="preserve">Text corpus</source>
+</segment>
+</unit>
+<unit id="493">
+<segment id="493">
+<source xml:space="preserve">Web archiving</source>
+</segment>
+</unit>
+<unit id="494">
+<segment id="494">
+<source xml:space="preserve">Web archiving</source>
+</segment>
+</unit>
+<unit id="495">
+<segment id="495">
+<source xml:space="preserve">Blog network</source>
+</segment>
+</unit>
+<unit id="496">
+<segment id="496">
+<source xml:space="preserve">Blog network</source>
+</segment>
+</unit>
+<unit id="497">
+<segment id="497">
+<source xml:space="preserve">Search Engine Scraping</source>
+</segment>
+</unit>
+<unit id="498">
+<segment id="498">
+<source xml:space="preserve">Search Engine Scraping</source>
+</segment>
+</unit>
+<unit id="499">
+<segment id="499">
+<source xml:space="preserve">Category:Web crawlers</source>
+</segment>
+</unit>
+<unit id="500">
+<segment id="500">
+<source xml:space="preserve">Web crawlers</source>
+</segment>
+</unit>
+<unit id="501">
+<originalData>
+<data id="d1">&lt;h2></data>
+<data id="d2">&lt;span class="mw-headline" id="References"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="mw-editsection"></data>
+<data id="d5">&lt;span class="mw-editsection-bracket"></data>
+<data id="d6">&lt;a href="/w/index.php?title=Web_scraping&amp;action=edit&amp;section=18" title="</data>
+</originalData>
+<segment id="501">
+<source xml:space="preserve"><ph id="ph2" dataRef="d1"/><ph id="ph3" dataRef="d2"/>References<ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d4"/><ph id="ph6" dataRef="d5"/>[<ph id="ph7" dataRef="d3"/><ph id="ph8" dataRef="d6"/></source>
+</segment>
+</unit>
+<unit id="502">
+<segment id="502">
+<source xml:space="preserve">Edit section:</source>
+</segment>
+</unit>
+<unit id="503">
+<segment id="503">
+<source xml:space="preserve"> References</source>
+</segment>
+</unit>
+<unit id="504">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="mw-editsection-bracket"></data>
+</originalData>
+<segment id="504">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>edit<ph id="ph10" dataRef="d2"/><ph id="ph11" dataRef="d3"/>]</source>
+</segment>
+</unit>
+<unit id="505">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-Boeing2016JPER_1-0"></data>
+<data id="d2">&lt;sup></data>
+<data id="d3">&lt;i></data>
+<data id="d4">&lt;b></data>
+<data id="d5">&lt;/b></data>
+<data id="d6">&lt;/i></data>
+<data id="d7">&lt;/sup></data>
+<data id="d8">&lt;/a></data>
+<data id="d9">&lt;a href="#cite_ref-Boeing2016JPER_1-1"></data>
+<data id="d10">&lt;/span></data>
+<data id="d11">&lt;span class="reference-text"></data>
+<data id="d12">&lt;cite class="citation journal"></data>
+</originalData>
+<segment id="505">
+<source xml:space="preserve">^ <ph id="ph6" dataRef="d1"/><ph id="ph7" dataRef="d2"/><ph id="ph8" dataRef="d3"/><ph id="ph9" dataRef="d4"/>a<ph id="ph10" dataRef="d5"/><ph id="ph11" dataRef="d6"/><ph id="ph12" dataRef="d7"/><ph id="ph13" dataRef="d8"/> <ph id="ph15" dataRef="d9"/><ph id="ph16" dataRef="d2"/><ph id="ph17" dataRef="d3"/><ph id="ph18" dataRef="d4"/>b<ph id="ph19" dataRef="d5"/><ph id="ph20" dataRef="d6"/><ph id="ph21" dataRef="d7"/><ph id="ph22" dataRef="d8"/><ph id="ph23" dataRef="d10"/> <ph id="ph24" dataRef="d11"/><ph id="ph25" dataRef="d12"/>Boeing, G.; Waddell, P. (2016).</source>
+</segment>
+</unit>
+<unit id="506">
+<segment id="506">
+<source xml:space="preserve"> "New Insights into Rental Housing Markets across the United States:</source>
+</segment>
+</unit>
+<unit id="507">
+<segment id="507">
+<source xml:space="preserve"> Web Scraping and Analyzing Craigslist Rental Listings".</source>
+</segment>
+</unit>
+<unit id="508">
+<originalData>
+<data id="d1">&lt;i></data>
+<data id="d2">&lt;/i></data>
+</originalData>
+<segment id="508">
+<source xml:space="preserve"> <ph id="ph26" dataRef="d1"/>Journal of Planning Education and Research<ph id="ph27" dataRef="d2"/> (0739456X16664789).</source>
+</segment>
+</unit>
+<unit id="509">
+<segment id="509">
+<source xml:space="preserve">ArXiv</source>
+</segment>
+</unit>
+<unit id="510">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="cs1-lock-free" title="Freely accessible"></data>
+<data id="d4">&lt;a rel="nofollow" class="external text" href="//arxiv.org/abs/1605.05397"></data>
+<data id="d5">&lt;/span></data>
+</originalData>
+<segment id="510">
+<source xml:space="preserve"><ph id="ph29" dataRef="d1"/>arXiv<ph id="ph30" dataRef="d2"/>:<ph id="ph31" dataRef="d3"/><ph id="ph33" dataRef="d4"/>1605.05397<ph id="ph34" dataRef="d2"/><ph id="ph35" dataRef="d5"/>.</source>
+</segment>
+</unit>
+<unit id="511">
+<segment id="511">
+<source xml:space="preserve">Digital object identifier</source>
+</segment>
+</unit>
+<unit id="512">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a rel="nofollow" class="external text" href="//doi.org/10.1177%2F0739456X16664789"></data>
+</originalData>
+<segment id="512">
+<source xml:space="preserve"><ph id="ph37" dataRef="d1"/>doi<ph id="ph38" dataRef="d2"/>:<ph id="ph40" dataRef="d3"/>10.1177/0739456X16664789<ph id="ph41" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="513">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-2"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="http://www.searchenginehistory.com/"></data>
+</originalData>
+<segment id="513">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"Search Engine History.com"<ph id="ph9" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="514">
+<originalData>
+<data id="d1">&lt;i></data>
+<data id="d2">&lt;/i></data>
+<data id="d3">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="514">
+<source xml:space="preserve"> <ph id="ph10" dataRef="d1"/>Search Engine History<ph id="ph11" dataRef="d2"/><ph id="ph12" dataRef="d3"/>.</source>
+</segment>
+</unit>
+<unit id="515">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="515">
+<source xml:space="preserve"> Retrieved <ph id="ph13" dataRef="d1"/>November 26,<ph id="ph14" dataRef="d2"/> 2019<ph id="ph15" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="516">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-3"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation journal"></data>
+</originalData>
+<segment id="516">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/>Song, Ruihua; Microsoft Research (Sep 14, 2007).</source>
+</segment>
+</unit>
+<unit id="517">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="https://pdfs.semanticscholar.org/4fb4/3c5a212df751e84c3b2f8d29fabfe56c3616.pdf"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="cs1-format"></data>
+<data id="d4">&lt;/span></data>
+</originalData>
+<segment id="517">
+<source xml:space="preserve"> <ph id="ph8" dataRef="d1"/>"Joint Optimization of Wrapper Generation and Template Detection"<ph id="ph9" dataRef="d2"/> <ph id="ph10" dataRef="d3"/>(PDF)<ph id="ph11" dataRef="d4"/>.</source>
+</segment>
+</unit>
+<unit id="518">
+<originalData>
+<data id="d1">&lt;i></data>
+<data id="d2">&lt;/i></data>
+</originalData>
+<segment id="518">
+<source xml:space="preserve"> <ph id="ph12" dataRef="d1"/>The 13th International Conference on Knowledge Discovery and Data Mining<ph id="ph13" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="519">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-4"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;a rel="nofollow" class="external text" href="http://www.gooseeker.com/en/node/knowledgebase/freeformat"></data>
+</originalData>
+<segment id="519">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph7" dataRef="d6"/>Semantic annotation based web scraping<ph id="ph8" dataRef="d2"/></source>
+</segment>
+</unit>
+<unit id="520">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-5"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+</originalData>
+<segment id="520">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/>Roush, Wade (2012-07-25).</source>
+</segment>
+</unit>
+<unit id="521">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="http://www.xconomy.com/san-francisco/2012/07/25/diffbot-is-using-computer-vision-to-reinvent-the-semantic-web/"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="521">
+<source xml:space="preserve"> <ph id="ph8" dataRef="d1"/>"Diffbot Is Using Computer Vision to Reinvent the Semantic Web"<ph id="ph9" dataRef="d2"/>. www.xconomy.com<ph id="ph10" dataRef="d3"/>.</source>
+</segment>
+</unit>
+<unit id="522">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="522">
+<source xml:space="preserve"> Retrieved <ph id="ph11" dataRef="d1"/>2013-03-15<ph id="ph12" dataRef="d2"/><ph id="ph13" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="523">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-6"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="https://web.archive.org/web/20020308222536/http://www.chillingeffects.org/linking/faq.cgi#QID596"></data>
+</originalData>
+<segment id="523">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"FAQ about linking �� Are website terms of use binding contracts?"<ph id="ph9" dataRef="d2"/>. www.chillingeffects.org.</source>
+</segment>
+</unit>
+<unit id="524">
+<segment id="524">
+<source xml:space="preserve"> 2007-08-20.</source>
+</segment>
+</unit>
+<unit id="525">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="http://www.chillingeffects.org/linking/faq.cgi#QID596"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="525">
+<source xml:space="preserve"> Archived from <ph id="ph11" dataRef="d1"/>the original<ph id="ph12" dataRef="d2"/> on 2002-03-08<ph id="ph13" dataRef="d3"/>.</source>
+</segment>
+</unit>
+<unit id="526">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="526">
+<source xml:space="preserve"> Retrieved <ph id="ph14" dataRef="d1"/>2007-08-20<ph id="ph15" dataRef="d2"/><ph id="ph16" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="527">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-7"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation journal"></data>
+</originalData>
+<segment id="527">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/>Kenneth, Hirschey, Jeffrey (2014-01-01).</source>
+</segment>
+</unit>
+<unit id="528">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="http://scholarship.law.berkeley.edu/btlj/vol29/iss4/16/"></data>
+</originalData>
+<segment id="528">
+<source xml:space="preserve"> <ph id="ph8" dataRef="d1"/>"Symbiotic Relationships:</source>
+</segment>
+</unit>
+<unit id="529">
+<originalData>
+<data id="d1">&lt;/a></data>
+</originalData>
+<segment id="529">
+<source xml:space="preserve"> Pragmatic Acceptance of Data Scraping"<ph id="ph9" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="530">
+<originalData>
+<data id="d1">&lt;i></data>
+<data id="d2">&lt;/i></data>
+</originalData>
+<segment id="530">
+<source xml:space="preserve"> <ph id="ph10" dataRef="d1"/>Berkeley Technology Law Journal<ph id="ph11" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="531">
+<originalData>
+<data id="d1">&lt;b></data>
+<data id="d2">&lt;/b></data>
+</originalData>
+<segment id="531">
+<source xml:space="preserve"> <ph id="ph12" dataRef="d1"/>29<ph id="ph13" dataRef="d2"/> (4).</source>
+</segment>
+</unit>
+<unit id="532">
+<segment id="532">
+<source xml:space="preserve">Digital object identifier</source>
+</segment>
+</unit>
+<unit id="533">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a rel="nofollow" class="external text" href="//doi.org/10.15779%2FZ38B39B"></data>
+</originalData>
+<segment id="533">
+<source xml:space="preserve"><ph id="ph15" dataRef="d1"/>doi<ph id="ph16" dataRef="d2"/>:<ph id="ph18" dataRef="d3"/>10.15779/Z38B39B<ph id="ph19" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="534">
+<segment id="534">
+<source xml:space="preserve">International Standard Serial Number</source>
+</segment>
+</unit>
+<unit id="535">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1086-3818"></data>
+</originalData>
+<segment id="535">
+<source xml:space="preserve"><ph id="ph21" dataRef="d1"/>ISSN<ph id="ph22" dataRef="d2"/> <ph id="ph24" dataRef="d3"/>1086-3818<ph id="ph25" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="536">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-8"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="http://www.tomwbell.com/NetLaw/Ch06.html"></data>
+</originalData>
+<segment id="536">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"Internet Law, Ch. 06:</source>
+</segment>
+</unit>
+<unit id="537">
+<originalData>
+<data id="d1">&lt;/a></data>
+</originalData>
+<segment id="537">
+<source xml:space="preserve"> Trespass to Chattels"<ph id="ph9" dataRef="d1"/>. www.tomwbell.com.</source>
+</segment>
+</unit>
+<unit id="538">
+<originalData>
+<data id="d1">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="538">
+<source xml:space="preserve"> 2007-08-20<ph id="ph10" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="539">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="539">
+<source xml:space="preserve"> Retrieved <ph id="ph11" dataRef="d1"/>2007-08-20<ph id="ph12" dataRef="d2"/><ph id="ph13" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="540">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-9"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="https://web.archive.org/web/20020308222536/http://www.chillingeffects.org/linking/faq.cgi#QID460"></data>
+</originalData>
+<segment id="540">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"What are the "trespass to chattels" claims some companies or website owners have brought?"<ph id="ph9" dataRef="d2"/>. www.chillingeffects.org.</source>
+</segment>
+</unit>
+<unit id="541">
+<segment id="541">
+<source xml:space="preserve"> 2007-08-20.</source>
+</segment>
+</unit>
+<unit id="542">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="http://www.chillingeffects.org/linking/faq.cgi#QID460"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="542">
+<source xml:space="preserve"> Archived from <ph id="ph11" dataRef="d1"/>the original<ph id="ph12" dataRef="d2"/> on 2002-03-08<ph id="ph13" dataRef="d3"/>.</source>
+</segment>
+</unit>
+<unit id="543">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="543">
+<source xml:space="preserve"> Retrieved <ph id="ph14" dataRef="d1"/>2007-08-20<ph id="ph15" dataRef="d2"/><ph id="ph16" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="544">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-10"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="http://www.tomwbell.com/NetLaw/Ch07/Ticketmaster.html"></data>
+</originalData>
+<segment id="544">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"Ticketmaster Corp. v.</source>
+</segment>
+</unit>
+<unit id="545">
+<originalData>
+<data id="d1">&lt;/a></data>
+<data id="d2">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="545">
+<source xml:space="preserve"> Tickets.com, Inc"<ph id="ph9" dataRef="d1"/>. 2007-08-20<ph id="ph10" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="546">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="546">
+<source xml:space="preserve"> Retrieved <ph id="ph11" dataRef="d1"/>2007-08-20<ph id="ph12" dataRef="d2"/><ph id="ph13" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="547">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-11"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="https://web.archive.org/web/20110723131832/http://www.fornova.net/documents/AAFareChase.pdf"></data>
+</originalData>
+<segment id="547">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"American Airlines v.</source>
+</segment>
+</unit>
+<unit id="548">
+<originalData>
+<data id="d1">&lt;/a></data>
+<data id="d2">&lt;span class="cs1-format"></data>
+<data id="d3">&lt;/span></data>
+</originalData>
+<segment id="548">
+<source xml:space="preserve"> FareChase"<ph id="ph9" dataRef="d1"/> <ph id="ph10" dataRef="d2"/>(PDF)<ph id="ph11" dataRef="d3"/>. 2007-08-20.</source>
+</segment>
+</unit>
+<unit id="549">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="http://www.fornova.net/documents/AAFareChase.pdf"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="cs1-format"></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="549">
+<source xml:space="preserve"> Archived from <ph id="ph13" dataRef="d1"/>the original<ph id="ph14" dataRef="d2"/> <ph id="ph15" dataRef="d3"/>(PDF)<ph id="ph16" dataRef="d4"/> on 2011-07-23<ph id="ph17" dataRef="d5"/>.</source>
+</segment>
+</unit>
+<unit id="550">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="550">
+<source xml:space="preserve"> Retrieved <ph id="ph18" dataRef="d1"/>2007-08-20<ph id="ph19" dataRef="d2"/><ph id="ph20" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="551">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-12"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="http://www.thefreelibrary.com/American+Airlines,+FareChase+Settle+Suit.-a0103213546"></data>
+</originalData>
+<segment id="551">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"American Airlines, FareChase Settle Suit"<ph id="ph9" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="552">
+<segment id="552">
+<source xml:space="preserve"> The Free Library.</source>
+</segment>
+</unit>
+<unit id="553">
+<originalData>
+<data id="d1">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="553">
+<source xml:space="preserve"> 2003-06-13<ph id="ph10" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="554">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="554">
+<source xml:space="preserve"> Retrieved <ph id="ph11" dataRef="d1"/>2012-02-26<ph id="ph12" dataRef="d2"/><ph id="ph13" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="555">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-impervawp2011_13-0"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+</originalData>
+<segment id="555">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/>Imperva (2011).</source>
+</segment>
+</unit>
+<unit id="556">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="http://www.imperva.com/docs/WP_Detecting_and_Blocking_Site_Scraping_Attacks.pdf"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="556">
+<source xml:space="preserve"> <ph id="ph7" dataRef="d1"/>Detecting and Blocking Site Scraping Attacks<ph id="ph8" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="557">
+<segment id="557">
+<source xml:space="preserve"> Imperva white paper..</source>
+</segment>
+</unit>
+<unit id="558">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-14"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+</originalData>
+<segment id="558">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/>Adler, Kenneth A. (2003-07-29).</source>
+</segment>
+</unit>
+<unit id="559">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="http://library.findlaw.com/2003/Jul/29/132944.html"></data>
+</originalData>
+<segment id="559">
+<source xml:space="preserve"> <ph id="ph8" dataRef="d1"/>"Controversy Surrounds 'Screen Scrapers':</source>
+</segment>
+</unit>
+<unit id="560">
+<originalData>
+<data id="d1">&lt;/a></data>
+<data id="d2">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="560">
+<source xml:space="preserve"> Software Helps Users Access Web Sites But Activity by Competitors Comes Under Scrutiny"<ph id="ph9" dataRef="d1"/><ph id="ph10" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="561">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="561">
+<source xml:space="preserve"> Retrieved <ph id="ph11" dataRef="d1"/>2010-10-27<ph id="ph12" dataRef="d2"/><ph id="ph13" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="562">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-15"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="http://www.fornova.net/documents/Cvent.pdf"></data>
+</originalData>
+<segment id="562">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"QVC Inc. v.</source>
+</segment>
+</unit>
+<unit id="563">
+<originalData>
+<data id="d1">&lt;/a></data>
+<data id="d2">&lt;span class="cs1-format"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="563">
+<source xml:space="preserve"> Resultly LLC, No. 14-06714 (E.D. Pa. filed Nov. 24, 2014)"<ph id="ph9" dataRef="d1"/> <ph id="ph10" dataRef="d2"/>(PDF)<ph id="ph11" dataRef="d3"/>. 2014-11-24<ph id="ph12" dataRef="d4"/>.</source>
+</segment>
+</unit>
+<unit id="564">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="564">
+<source xml:space="preserve"> Retrieved <ph id="ph13" dataRef="d1"/>2015-11-05<ph id="ph14" dataRef="d2"/><ph id="ph15" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="565">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-16"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="https://www.scribd.com/doc/249068700/LinkedIn-v-Resultly-LLC-Complaint?secret_password=pEVKDbnvhQL52oKfdrmT"></data>
+</originalData>
+<segment id="565">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"QVC Inc. v.</source>
+</segment>
+</unit>
+<unit id="566">
+<originalData>
+<data id="d1">&lt;/a></data>
+</originalData>
+<segment id="566">
+<source xml:space="preserve"> Resultly LLC, No. 14-06714 (E.D. Pa. filed Nov. 24, 2014)"<ph id="ph9" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="567">
+<originalData>
+<data id="d1">&lt;i></data>
+<data id="d2">&lt;/i></data>
+<data id="d3">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="567">
+<source xml:space="preserve"> <ph id="ph10" dataRef="d1"/>United States District Court for the Eastern District of Pennsylvania<ph id="ph11" dataRef="d2"/><ph id="ph12" dataRef="d3"/>.</source>
+</segment>
+</unit>
+<unit id="568">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="568">
+<source xml:space="preserve"> Retrieved <ph id="ph13" dataRef="d1"/>5 November<ph id="ph14" dataRef="d2"/> 2015<ph id="ph15" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="569">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-17"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation journal"></data>
+</originalData>
+<segment id="569">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/>Neuburger, Jeffrey D (5 December 2014).</source>
+</segment>
+</unit>
+<unit id="570">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="http://newmedialaw.proskauer.com/2014/12/05/qvc-sues-shopping-app-for-web-scraping-that-allegedly-triggered-site-outage/"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="570">
+<source xml:space="preserve"> <ph id="ph8" dataRef="d1"/>"QVC Sues Shopping App for Web Scraping That Allegedly Triggered Site Outage"<ph id="ph9" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="571">
+<originalData>
+<data id="d1">&lt;i></data>
+<data id="d2">&lt;/i></data>
+</originalData>
+<segment id="571">
+<source xml:space="preserve"> <ph id="ph10" dataRef="d1"/>The National Law Review<ph id="ph11" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="572">
+<originalData>
+<data id="d1">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="572">
+<source xml:space="preserve"> Proskauer Rose LLP<ph id="ph12" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="573">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="573">
+<source xml:space="preserve"> Retrieved <ph id="ph13" dataRef="d1"/>5 November<ph id="ph14" dataRef="d2"/> 2015<ph id="ph15" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="574">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-18"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="http://www.fornova.net/documents/pblog-bna-com.pdf"></data>
+</originalData>
+<segment id="574">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"Did Iqbal/Twombly Raise the Bar for Browsewrap Claims?"</source>
+</segment>
+</unit>
+<unit id="575">
+<originalData>
+<data id="d1">&lt;/a></data>
+<data id="d2">&lt;span class="cs1-format"></data>
+<data id="d3">&lt;/span></data>
+<data id="d4">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="575">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/> <ph id="ph10" dataRef="d2"/>(PDF)<ph id="ph11" dataRef="d3"/>. 2010-09-17<ph id="ph12" dataRef="d4"/>.</source>
+</segment>
+</unit>
+<unit id="576">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="576">
+<source xml:space="preserve"> Retrieved <ph id="ph13" dataRef="d1"/>2010-10-27<ph id="ph14" dataRef="d2"/><ph id="ph15" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="577">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-19"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="https://www.techdirt.com/articles/20090605/2228205147.shtml"></data>
+</originalData>
+<segment id="577">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"Can Scraping Non-Infringing Content Become Copyright Infringement...</source>
+</segment>
+</unit>
+<unit id="578">
+<segment id="578">
+<source xml:space="preserve"> Because Of How Scrapers Work?</source>
+</segment>
+</unit>
+<unit id="579">
+<originalData>
+<data id="d1">&lt;/a></data>
+</originalData>
+<segment id="579">
+<source xml:space="preserve"> | Techdirt"<ph id="ph9" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="580">
+<originalData>
+<data id="d1">&lt;i></data>
+<data id="d2">&lt;/i></data>
+</originalData>
+<segment id="580">
+<source xml:space="preserve"> <ph id="ph10" dataRef="d1"/>Techdirt<ph id="ph11" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="581">
+<originalData>
+<data id="d1">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="581">
+<source xml:space="preserve"> 2009-06-10<ph id="ph12" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="582">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="582">
+<source xml:space="preserve"> Retrieved <ph id="ph13" dataRef="d1"/>2016-05-24<ph id="ph14" dataRef="d2"/><ph id="ph15" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="583">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-20"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="https://www.eff.org/cases/facebook-v-power-ventures"></data>
+</originalData>
+<segment id="583">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"Facebook v.</source>
+</segment>
+</unit>
+<unit id="584">
+<originalData>
+<data id="d1">&lt;/a></data>
+</originalData>
+<segment id="584">
+<source xml:space="preserve"> Power Ventures"<ph id="ph9" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="585">
+<originalData>
+<data id="d1">&lt;i></data>
+<data id="d2">&lt;/i></data>
+<data id="d3">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="585">
+<source xml:space="preserve"> <ph id="ph10" dataRef="d1"/>Electronic Frontier Foundation<ph id="ph11" dataRef="d2"/><ph id="ph12" dataRef="d3"/>.</source>
+</segment>
+</unit>
+<unit id="586">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="586">
+<source xml:space="preserve"> Retrieved <ph id="ph13" dataRef="d1"/>2016-05-24<ph id="ph14" dataRef="d2"/><ph id="ph15" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="587">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-21"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="https://web.archive.org/web/20071012005033/http://www.bvhd.dk/uploads/tx_mocarticles/S_-_og_Handelsrettens_afg_relse_i_Ofir-sagen.pdf"></data>
+<data id="d8">&lt;span class="cs1-format"></data>
+</originalData>
+<segment id="587">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"UDSKRIFT AF S횠- &amp; HANDELSRETTENS DOMBOG"<ph id="ph9" dataRef="d2"/> <ph id="ph10" dataRef="d8"/>(PDF)<ph id="ph11" dataRef="d4"/> (in Danish). bvhd.dk. 2006-02-24.</source>
+</segment>
+</unit>
+<unit id="588">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="http://www.bvhd.dk/uploads/tx_mocarticles/S_-_og_Handelsrettens_afg_relse_i_Ofir-sagen.pdf"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;span class="cs1-format"></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="588">
+<source xml:space="preserve"> Archived from <ph id="ph13" dataRef="d1"/>the original<ph id="ph14" dataRef="d2"/> <ph id="ph15" dataRef="d3"/>(PDF)<ph id="ph16" dataRef="d4"/> on 2007-10-12<ph id="ph17" dataRef="d5"/>.</source>
+</segment>
+</unit>
+<unit id="589">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="589">
+<source xml:space="preserve"> Retrieved <ph id="ph18" dataRef="d1"/>2007-05-30<ph id="ph19" dataRef="d2"/><ph id="ph20" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="590">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-22"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+<data id="d7">&lt;a rel="nofollow" class="external text" href="http://www.bailii.org/ie/cases/IEHC/2010/H47.html"></data>
+</originalData>
+<segment id="590">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/><ph id="ph8" dataRef="d7"/>"High Court of Ireland Decisions >> Ryanair Ltd -v- Billigfluege.de GMBH 2010 IEHC 47 (26 February 2010)"<ph id="ph9" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="591">
+<segment id="591">
+<source xml:space="preserve"> British and Irish Legal Information Institute.</source>
+</segment>
+</unit>
+<unit id="592">
+<originalData>
+<data id="d1">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="592">
+<source xml:space="preserve"> 2010-02-26<ph id="ph10" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="593">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="593">
+<source xml:space="preserve"> Retrieved <ph id="ph11" dataRef="d1"/>2012-04-19<ph id="ph12" dataRef="d2"/><ph id="ph13" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="594">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-23"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+</originalData>
+<segment id="594">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/>Matthews, 횁ine (June 2010).</source>
+</segment>
+</unit>
+<unit id="595">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="http://www.lkshields.ie/htmdocs/publications/newsletters/update26/update26_03.htm"></data>
+</originalData>
+<segment id="595">
+<source xml:space="preserve"> <ph id="ph8" dataRef="d1"/>"Intellectual Property:</source>
+</segment>
+</unit>
+<unit id="596">
+<originalData>
+<data id="d1">&lt;/a></data>
+</originalData>
+<segment id="596">
+<source xml:space="preserve"> Website Terms of Use"<ph id="ph9" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="597">
+<originalData>
+<data id="d1">&lt;i></data>
+</originalData>
+<segment id="597">
+<source xml:space="preserve"> <ph id="ph10" dataRef="d1"/>Issue 26:</source>
+</segment>
+</unit>
+<unit id="598">
+<originalData>
+<data id="d1">&lt;/i></data>
+</originalData>
+<segment id="598">
+<source xml:space="preserve"> June 2010<ph id="ph11" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="599">
+<originalData>
+<data id="d1">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="599">
+<source xml:space="preserve"> LK Shields Solicitors Update. p. 03<ph id="ph12" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="600">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="600">
+<source xml:space="preserve"> Retrieved <ph id="ph13" dataRef="d1"/>2012-04-19<ph id="ph14" dataRef="d2"/><ph id="ph15" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="601">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-24"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+</originalData>
+<segment id="601">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/>National Office for the Information Economy (February 2004).</source>
+</segment>
+</unit>
+<unit id="602">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="https://www.lloyds.com/~/media/5880dae185914b2487bed7bd63b96286.ashx"></data>
+</originalData>
+<segment id="602">
+<source xml:space="preserve"> <ph id="ph8" dataRef="d1"/>"Spam Act 2003:</source>
+</segment>
+</unit>
+<unit id="603">
+<originalData>
+<data id="d1">&lt;/a></data>
+</originalData>
+<segment id="603">
+<source xml:space="preserve"> An overview for business"<ph id="ph9" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="604">
+<originalData>
+<data id="d1">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="604">
+<source xml:space="preserve"> Australian Communications Authority. p. 6<ph id="ph10" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="605">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="605">
+<source xml:space="preserve"> Retrieved <ph id="ph11" dataRef="d1"/>2017-12-07<ph id="ph12" dataRef="d2"/><ph id="ph13" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="606">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-25"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;cite class="citation web"></data>
+</originalData>
+<segment id="606">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/><ph id="ph6" dataRef="d6"/>National Office for the Information Economy (February 2004).</source>
+</segment>
+</unit>
+<unit id="607">
+<originalData>
+<data id="d1">&lt;a rel="nofollow" class="external text" href="http://www.webstartdesign.com.au/spam_business_practical_guide.pdf"></data>
+</originalData>
+<segment id="607">
+<source xml:space="preserve"> <ph id="ph8" dataRef="d1"/>"Spam Act 2003:</source>
+</segment>
+</unit>
+<unit id="608">
+<originalData>
+<data id="d1">&lt;/a></data>
+<data id="d2">&lt;span class="cs1-format"></data>
+<data id="d3">&lt;/span></data>
+</originalData>
+<segment id="608">
+<source xml:space="preserve"> A practical guide for business"<ph id="ph9" dataRef="d1"/> <ph id="ph10" dataRef="d2"/>(PDF)<ph id="ph11" dataRef="d3"/>.</source>
+</segment>
+</unit>
+<unit id="609">
+<originalData>
+<data id="d1">&lt;span class="reference-accessdate"></data>
+</originalData>
+<segment id="609">
+<source xml:space="preserve"> Australian Communications Authority. p. 20<ph id="ph12" dataRef="d1"/>.</source>
+</segment>
+</unit>
+<unit id="610">
+<originalData>
+<data id="d1">&lt;span class="nowrap"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="610">
+<source xml:space="preserve"> Retrieved <ph id="ph13" dataRef="d1"/>2017-12-07<ph id="ph14" dataRef="d2"/><ph id="ph15" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="611">
+<originalData>
+<data id="d1">&lt;a href="#cite_ref-26"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;/b></data>
+<data id="d4">&lt;/span></data>
+<data id="d5">&lt;span class="reference-text"></data>
+<data id="d6">&lt;a rel="nofollow" class="external text" href="https://s3.us-west-2.amazonaws.com/research-papers-mynk/Breaking-Fraud-And-Bot-Detection-Solutions.pdf"></data>
+<data id="d7">&lt;i></data>
+<data id="d8">&lt;/i></data>
+</originalData>
+<segment id="611">
+<source xml:space="preserve"><ph id="ph1" dataRef="d1"/>^<ph id="ph2" dataRef="d2"/><ph id="ph3" dataRef="d3"/><ph id="ph4" dataRef="d4"/> <ph id="ph5" dataRef="d5"/>Mayank Dhiman <ph id="ph7" dataRef="d6"/>Breaking Fraud &amp; Bot Detection Solutions<ph id="ph8" dataRef="d2"/> <ph id="ph9" dataRef="d7"/>OWASP AppSec Cali' 2018<ph id="ph10" dataRef="d8"/> Retrieved February 10, 2018.</source>
+</segment>
+</unit>
+<unit id="612">
+<originalData>
+<data id="d1">&lt;div class="printfooter"></data>
+<data id="d2">&lt;a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Web_scraping&amp;oldid=928033480"></data>
+<data id="d3">&lt;/a></data>
+</originalData>
+<segment id="612">
+<source xml:space="preserve"><ph id="ph9" dataRef="d1"/>Retrieved from "<ph id="ph11" dataRef="d2"/>https://en.wikipedia.org/w/index.php?title=Web_scraping&amp;oldid=928033480<ph id="ph12" dataRef="d3"/>"</source>
+</segment>
+</unit>
+<unit id="613">
+<segment id="613">
+<source xml:space="preserve">Help:Category</source>
+</segment>
+</unit>
+<unit id="614">
+<originalData>
+<data id="d1">"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="614">
+<source xml:space="preserve"><ph id="ph6" dataRef="d1"/>Categories<ph id="ph7" dataRef="d2"/>:</source>
+</segment>
+</unit>
+<unit id="615">
+<segment id="615">
+<source xml:space="preserve">Category:Web scraping</source>
+</segment>
+</unit>
+<unit id="616">
+<segment id="616">
+<source xml:space="preserve">Web scraping</source>
+</segment>
+</unit>
+<unit id="617">
+<segment id="617">
+<source xml:space="preserve">Hidden categories:</source>
+</segment>
+</unit>
+<unit id="618">
+<segment id="618">
+<source xml:space="preserve">Category:CS1 Danish-language sources (da)</source>
+</segment>
+</unit>
+<unit id="619">
+<segment id="619">
+<source xml:space="preserve">CS1 Danish-language sources (da)</source>
+</segment>
+</unit>
+<unit id="620">
+<segment id="620">
+<source xml:space="preserve">Category:Articles needing additional references from June 2017</source>
+</segment>
+</unit>
+<unit id="621">
+<segment id="621">
+<source xml:space="preserve">Articles needing additional references from June 2017</source>
+</segment>
+</unit>
+<unit id="622">
+<segment id="622">
+<source xml:space="preserve">Category:All articles needing additional references</source>
+</segment>
+</unit>
+<unit id="623">
+<segment id="623">
+<source xml:space="preserve">All articles needing additional references</source>
+</segment>
+</unit>
+<unit id="624">
+<segment id="624">
+<source xml:space="preserve">Category:Articles needing additional references from October 2018</source>
+</segment>
+</unit>
+<unit id="625">
+<segment id="625">
+<source xml:space="preserve">Articles needing additional references from October 2018</source>
+</segment>
+</unit>
+<unit id="626">
+<segment id="626">
+<source xml:space="preserve">Category:Articles with limited geographic scope from October 2015</source>
+</segment>
+</unit>
+<unit id="627">
+<segment id="627">
+<source xml:space="preserve">Articles with limited geographic scope from October 2015</source>
+</segment>
+</unit>
+<unit id="628">
+<segment id="628">
+<source xml:space="preserve">Category:USA-centric</source>
+</segment>
+</unit>
+<unit id="629">
+<segment id="629">
+<source xml:space="preserve">USA-centric</source>
+</segment>
+</unit>
+<unit id="630">
+<segment id="630">
+<source xml:space="preserve">Navigation menu</source>
+</segment>
+</unit>
+<unit id="631">
+<segment id="631">
+<source xml:space="preserve">Personal tools</source>
+</segment>
+</unit>
+<unit id="632">
+<segment id="632">
+<source xml:space="preserve">Not logged in</source>
+</segment>
+</unit>
+<unit id="633">
+<segment id="633">
+<source xml:space="preserve">Discussion about edits from this IP address [n]</source>
+</segment>
+</unit>
+<unit id="634">
+<segment id="634">
+<source xml:space="preserve">Talk</source>
+</segment>
+</unit>
+<unit id="635">
+<segment id="635">
+<source xml:space="preserve">A list of edits made from this IP address [y]</source>
+</segment>
+</unit>
+<unit id="636">
+<segment id="636">
+<source xml:space="preserve">Contributions</source>
+</segment>
+</unit>
+<unit id="637">
+<segment id="637">
+<source xml:space="preserve">You are encouraged to create an account and log in; however, it is not mandatory</source>
+</segment>
+</unit>
+<unit id="638">
+<segment id="638">
+<source xml:space="preserve">Create account</source>
+</segment>
+</unit>
+<unit id="639">
+<segment id="639">
+<source xml:space="preserve">You're encouraged to log in; however, it's not mandatory.</source>
+</segment>
+</unit>
+<unit id="640">
+<segment id="640">
+<source xml:space="preserve"> [o]</source>
+</segment>
+</unit>
+<unit id="641">
+<segment id="641">
+<source xml:space="preserve">Log in</source>
+</segment>
+</unit>
+<unit id="642">
+<segment id="642">
+<source xml:space="preserve">Namespaces</source>
+</segment>
+</unit>
+<unit id="643">
+<segment id="643">
+<source xml:space="preserve">View the content page [c]</source>
+</segment>
+</unit>
+<unit id="644">
+<segment id="644">
+<source xml:space="preserve">Article</source>
+</segment>
+</unit>
+<unit id="645">
+<segment id="645">
+<source xml:space="preserve">Discussion about the content page [t]</source>
+</segment>
+</unit>
+<unit id="646">
+<segment id="646">
+<source xml:space="preserve">Talk</source>
+</segment>
+</unit>
+<unit id="647">
+<originalData>
+<data id="d1">&lt;h3 id="p-variants-label"></data>
+<data id="d2">&lt;span></data>
+</originalData>
+<segment id="647">
+<source xml:space="preserve"><ph id="ph6" dataRef="d1"/> <ph id="ph7" dataRef="d2"/>Variants</source>
+</segment>
+</unit>
+<unit id="648">
+<segment id="648">
+<source xml:space="preserve">Views</source>
+</segment>
+</unit>
+<unit id="649">
+<segment id="649">
+<source xml:space="preserve">Read</source>
+</segment>
+</unit>
+<unit id="650">
+<segment id="650">
+<source xml:space="preserve">Edit this page [e]</source>
+</segment>
+</unit>
+<unit id="651">
+<segment id="651">
+<source xml:space="preserve">Edit</source>
+</segment>
+</unit>
+<unit id="652">
+<segment id="652">
+<source xml:space="preserve">Past revisions of this page [h]</source>
+</segment>
+</unit>
+<unit id="653">
+<segment id="653">
+<source xml:space="preserve">View history</source>
+</segment>
+</unit>
+<unit id="654">
+<originalData>
+<data id="d1">&lt;h3 id="p-cactions-label"></data>
+<data id="d2">&lt;span></data>
+</originalData>
+<segment id="654">
+<source xml:space="preserve"><ph id="ph6" dataRef="d1"/><ph id="ph7" dataRef="d2"/>More</source>
+</segment>
+</unit>
+<unit id="655">
+<segment id="655">
+<source xml:space="preserve">Search</source>
+</segment>
+</unit>
+<unit id="656">
+<segment id="656">
+<source xml:space="preserve">Special:Search</source>
+</segment>
+</unit>
+<unit id="657">
+<segment id="657">
+<source xml:space="preserve">Search</source>
+</segment>
+</unit>
+<unit id="658">
+<segment id="658">
+<source xml:space="preserve">Go</source>
+</segment>
+</unit>
+<unit id="659">
+<segment id="659">
+<source xml:space="preserve">Visit the main page</source>
+</segment>
+</unit>
+<unit id="660">
+<segment id="660">
+<source xml:space="preserve">Navigation</source>
+</segment>
+</unit>
+<unit id="661">
+<segment id="661">
+<source xml:space="preserve">Visit the main page [z]</source>
+</segment>
+</unit>
+<unit id="662">
+<segment id="662">
+<source xml:space="preserve">Main page</source>
+</segment>
+</unit>
+<unit id="663">
+<segment id="663">
+<source xml:space="preserve">Guides to browsing Wikipedia</source>
+</segment>
+</unit>
+<unit id="664">
+<segment id="664">
+<source xml:space="preserve">Contents</source>
+</segment>
+</unit>
+<unit id="665">
+<segment id="665">
+<source xml:space="preserve">Featured content �� the best of Wikipedia</source>
+</segment>
+</unit>
+<unit id="666">
+<segment id="666">
+<source xml:space="preserve">Featured content</source>
+</segment>
+</unit>
+<unit id="667">
+<segment id="667">
+<source xml:space="preserve">Find background information on current events</source>
+</segment>
+</unit>
+<unit id="668">
+<segment id="668">
+<source xml:space="preserve">Current events</source>
+</segment>
+</unit>
+<unit id="669">
+<segment id="669">
+<source xml:space="preserve">Load a random article [x]</source>
+</segment>
+</unit>
+<unit id="670">
+<segment id="670">
+<source xml:space="preserve">Random article</source>
+</segment>
+</unit>
+<unit id="671">
+<segment id="671">
+<source xml:space="preserve">Support us</source>
+</segment>
+</unit>
+<unit id="672">
+<segment id="672">
+<source xml:space="preserve">Donate to Wikipedia</source>
+</segment>
+</unit>
+<unit id="673">
+<segment id="673">
+<source xml:space="preserve">Visit the Wikipedia store</source>
+</segment>
+</unit>
+<unit id="674">
+<segment id="674">
+<source xml:space="preserve">Wikipedia store</source>
+</segment>
+</unit>
+<unit id="675">
+<segment id="675">
+<source xml:space="preserve">Interaction</source>
+</segment>
+</unit>
+<unit id="676">
+<segment id="676">
+<source xml:space="preserve">Guidance on how to use and edit Wikipedia</source>
+</segment>
+</unit>
+<unit id="677">
+<segment id="677">
+<source xml:space="preserve">Help</source>
+</segment>
+</unit>
+<unit id="678">
+<segment id="678">
+<source xml:space="preserve">Find out about Wikipedia</source>
+</segment>
+</unit>
+<unit id="679">
+<segment id="679">
+<source xml:space="preserve">About Wikipedia</source>
+</segment>
+</unit>
+<unit id="680">
+<segment id="680">
+<source xml:space="preserve">About the project, what you can do, where to find things</source>
+</segment>
+</unit>
+<unit id="681">
+<segment id="681">
+<source xml:space="preserve">Community portal</source>
+</segment>
+</unit>
+<unit id="682">
+<segment id="682">
+<source xml:space="preserve">A list of recent changes in the wiki [r]</source>
+</segment>
+</unit>
+<unit id="683">
+<segment id="683">
+<source xml:space="preserve">Recent changes</source>
+</segment>
+</unit>
+<unit id="684">
+<segment id="684">
+<source xml:space="preserve">How to contact Wikipedia</source>
+</segment>
+</unit>
+<unit id="685">
+<segment id="685">
+<source xml:space="preserve">Contact page</source>
+</segment>
+</unit>
+<unit id="686">
+<segment id="686">
+<source xml:space="preserve">Tools</source>
+</segment>
+</unit>
+<unit id="687">
+<segment id="687">
+<source xml:space="preserve">List of all English Wikipedia pages containing links to this page [j]</source>
+</segment>
+</unit>
+<unit id="688">
+<segment id="688">
+<source xml:space="preserve">What links here</source>
+</segment>
+</unit>
+<unit id="689">
+<segment id="689">
+<source xml:space="preserve">Recent changes in pages linked from this page [k]</source>
+</segment>
+</unit>
+<unit id="690">
+<segment id="690">
+<source xml:space="preserve">Related changes</source>
+</segment>
+</unit>
+<unit id="691">
+<segment id="691">
+<source xml:space="preserve">Upload files [u]</source>
+</segment>
+</unit>
+<unit id="692">
+<segment id="692">
+<source xml:space="preserve">Upload file</source>
+</segment>
+</unit>
+<unit id="693">
+<segment id="693">
+<source xml:space="preserve">A list of all special pages [q]</source>
+</segment>
+</unit>
+<unit id="694">
+<segment id="694">
+<source xml:space="preserve">Special pages</source>
+</segment>
+</unit>
+<unit id="695">
+<segment id="695">
+<source xml:space="preserve">Permanent link to this revision of the page</source>
+</segment>
+</unit>
+<unit id="696">
+<segment id="696">
+<source xml:space="preserve">Permanent link</source>
+</segment>
+</unit>
+<unit id="697">
+<segment id="697">
+<source xml:space="preserve">More information about this page</source>
+</segment>
+</unit>
+<unit id="698">
+<segment id="698">
+<source xml:space="preserve">Page information</source>
+</segment>
+</unit>
+<unit id="699">
+<segment id="699">
+<source xml:space="preserve">Link to connected data repository item [g]</source>
+</segment>
+</unit>
+<unit id="700">
+<segment id="700">
+<source xml:space="preserve">Wikidata item</source>
+</segment>
+</unit>
+<unit id="701">
+<segment id="701">
+<source xml:space="preserve">Information on how to cite this page</source>
+</segment>
+</unit>
+<unit id="702">
+<segment id="702">
+<source xml:space="preserve">Cite this page</source>
+</segment>
+</unit>
+<unit id="703">
+<segment id="703">
+<source xml:space="preserve">Print/export</source>
+</segment>
+</unit>
+<unit id="704">
+<segment id="704">
+<source xml:space="preserve">Create a book</source>
+</segment>
+</unit>
+<unit id="705">
+<segment id="705">
+<source xml:space="preserve">Download as PDF</source>
+</segment>
+</unit>
+<unit id="706">
+<segment id="706">
+<source xml:space="preserve">Printable version of this page [p]</source>
+</segment>
+</unit>
+<unit id="707">
+<segment id="707">
+<source xml:space="preserve">Printable version</source>
+</segment>
+</unit>
+<unit id="708">
+<segment id="708">
+<source xml:space="preserve">Languages</source>
+</segment>
+</unit>
+<unit id="709">
+<segment id="709">
+<source xml:space="preserve">碼卍魔漠�꾓㎔� 碼�꾔끯댵Ω귋� �� Arabic</source>
+</segment>
+</unit>
+<unit id="710">
+<segment id="710">
+<source xml:space="preserve">碼�꾓밑극ⓜ듰�</source>
+</segment>
+</unit>
+<unit id="711">
+<segment id="711">
+<source xml:space="preserve">Web scraping �� Catalan</source>
+</segment>
+</unit>
+<unit id="712">
+<segment id="712">
+<source xml:space="preserve">Catal횪</source>
+</segment>
+</unit>
+<unit id="713">
+<segment id="713">
+<source xml:space="preserve">Screen Scraping �� German</source>
+</segment>
+</unit>
+<unit id="714">
+<segment id="714">
+<source xml:space="preserve">Deutsch</source>
+</segment>
+</unit>
+<unit id="715">
+<segment id="715">
+<source xml:space="preserve">Web scraping �� Spanish</source>
+</segment>
+</unit>
+<unit id="716">
+<segment id="716">
+<source xml:space="preserve">Espa챰ol</source>
+</segment>
+</unit>
+<unit id="717">
+<segment id="717">
+<source xml:space="preserve">Web scraping �� Basque</source>
+</segment>
+</unit>
+<unit id="718">
+<segment id="718">
+<source xml:space="preserve">Euskara</source>
+</segment>
+</unit>
+<unit id="719">
+<segment id="719">
+<source xml:space="preserve">Web scraping �� French</source>
+</segment>
+</unit>
+<unit id="720">
+<segment id="720">
+<source xml:space="preserve">Fran챌ais</source>
+</segment>
+</unit>
+<unit id="721">
+<segment id="721">
+<source xml:space="preserve">Web scraping �� Indonesian</source>
+</segment>
+</unit>
+<unit id="722">
+<segment id="722">
+<source xml:space="preserve">Bahasa Indonesia</source>
+</segment>
+</unit>
+<unit id="723">
+<segment id="723">
+<source xml:space="preserve">Vefs철fnun �� Icelandic</source>
+</segment>
+</unit>
+<unit id="724">
+<segment id="724">
+<source xml:space="preserve">횒slenska</source>
+</segment>
+</unit>
+<unit id="725">
+<segment id="725">
+<source xml:space="preserve">Web scraping �� Italian</source>
+</segment>
+</unit>
+<unit id="726">
+<segment id="726">
+<source xml:space="preserve">Italiano</source>
+</segment>
+</unit>
+<unit id="727">
+<segment id="727">
+<source xml:space="preserve">Rasmo큄ana �� Latvian</source>
+</segment>
+</unit>
+<unit id="728">
+<segment id="728">
+<source xml:space="preserve">Latvie큄u</source>
+</segment>
+</unit>
+<unit id="729">
+<segment id="729">
+<source xml:space="preserve">Scrapen �� Dutch</source>
+</segment>
+</unit>
+<unit id="730">
+<segment id="730">
+<source xml:space="preserve">Nederlands</source>
+</segment>
+</unit>
+<unit id="731">
+<segment id="731">
+<source xml:space="preserve">�궑�궒�깣�궧�궚�꺃�궎�깞�꺍�궛 �� Japanese</source>
+</segment>
+</unit>
+<unit id="732">
+<segment id="732">
+<source xml:space="preserve">�뿥�쑍沃�</source>
+</segment>
+</unit>
+<unit id="733">
+<segment id="733">
+<source xml:space="preserve">Coleta de dados web �� Portuguese</source>
+</segment>
+</unit>
+<unit id="734">
+<segment id="734">
+<source xml:space="preserve">Portugu챗s</source>
+</segment>
+</unit>
+<unit id="735">
+<segment id="735">
+<source xml:space="preserve">�믌둔�-�곍붇�筠橘極龜戟均 �� Russian</source>
+</segment>
+</unit>
+<unit id="736">
+<segment id="736">
+<source xml:space="preserve">�졥꺫곎곍분먁�</source>
+</segment>
+</unit>
+<unit id="737">
+<segment id="737">
+<source xml:space="preserve">Web scraping �� Serbian</source>
+</segment>
+</unit>
+<unit id="738">
+<segment id="738">
+<source xml:space="preserve">鬼�極�곍분� / srpski</source>
+</segment>
+</unit>
+<unit id="739">
+<segment id="739">
+<source xml:space="preserve">Web kaz캇ma �� Turkish</source>
+</segment>
+</unit>
+<unit id="740">
+<segment id="740">
+<source xml:space="preserve">T체rk챌e</source>
+</segment>
+</unit>
+<unit id="741">
+<segment id="741">
+<source xml:space="preserve">Web scraping �� Ukrainian</source>
+</segment>
+</unit>
+<unit id="742">
+<segment id="742">
+<source xml:space="preserve">叫克�逵�쀐싼곎뚍분�</source>
+</segment>
+</unit>
+<unit id="743">
+<segment id="743">
+<source xml:space="preserve">營묌〉�뒖�룚 �� Chinese</source>
+</segment>
+</unit>
+<unit id="744">
+<segment id="744">
+<source xml:space="preserve">訝��뻼</source>
+</segment>
+</unit>
+<unit id="745">
+<segment id="745">
+<source xml:space="preserve">Edit interlanguage links</source>
+</segment>
+</unit>
+<unit id="746">
+<segment id="746">
+<source xml:space="preserve">Edit links</source>
+</segment>
+</unit>
+<unit id="747">
+<originalData>
+<data id="d1">&lt;span class="anonymous-show"></data>
+<data id="d2">&lt;/span></data>
+</originalData>
+<segment id="747">
+<source xml:space="preserve"> This page was last edited on 26 November 2019, at 10:31<ph id="ph7" dataRef="d1"/> (UTC)<ph id="ph8" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="748">
+<originalData>
+<data id="d1">&lt;a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></data>
+</originalData>
+<segment id="748">
+<source xml:space="preserve">Text is available under the <ph id="ph1" dataRef="d1"/>Creative Commons Attribution-ShareAlike License<ph id="ph2" dataRef="d2"/><ph id="ph4" dataRef="d3"/><ph id="ph5" dataRef="d2"/>; additional terms may apply.</source>
+</segment>
+</unit>
+<unit id="749">
+<originalData>
+<data id="d1">&lt;a href="//foundation.wikimedia.org/wiki/Terms_of_Use"></data>
+<data id="d2">&lt;/a></data>
+<data id="d3">&lt;a href="//foundation.wikimedia.org/wiki/Privacy_policy"></data>
+</originalData>
+<segment id="749">
+<source xml:space="preserve"> By using this site, you agree to the <ph id="ph7" dataRef="d1"/>Terms of Use<ph id="ph8" dataRef="d2"/> and <ph id="ph10" dataRef="d3"/>Privacy Policy<ph id="ph11" dataRef="d2"/>.</source>
+</segment>
+</unit>
+<unit id="750">
+<originalData>
+<data id="d1">&lt;a href="//www.wikimediafoundation.org/"></data>
+<data id="d2">&lt;/a></data>
+</originalData>
+<segment id="750">
+<source xml:space="preserve"> Wikipedia짰 is a registered trademark of the <ph id="ph13" dataRef="d1"/>Wikimedia Foundation, Inc.<ph id="ph14" dataRef="d2"/>, a non-profit organization.</source>
+</segment>
+</unit>
+<unit id="751">
+<segment id="751">
+<source xml:space="preserve">wmf:Privacy policy</source>
+</segment>
+</unit>
+<unit id="752">
+<segment id="752">
+<source xml:space="preserve">Privacy policy</source>
+</segment>
+</unit>
+<unit id="753">
+<segment id="753">
+<source xml:space="preserve">Wikipedia:About</source>
+</segment>
+</unit>
+<unit id="754">
+<segment id="754">
+<source xml:space="preserve">About Wikipedia</source>
+</segment>
+</unit>
+<unit id="755">
+<segment id="755">
+<source xml:space="preserve">Wikipedia:General disclaimer</source>
+</segment>
+</unit>
+<unit id="756">
+<segment id="756">
+<source xml:space="preserve">Disclaimers</source>
+</segment>
+</unit>
+<unit id="757">
+<segment id="757">
+<source xml:space="preserve">Contact Wikipedia</source>
+</segment>
+</unit>
+<unit id="758">
+<segment id="758">
+<source xml:space="preserve">Developers</source>
+</segment>
+</unit>
+<unit id="759">
+<segment id="759">
+<source xml:space="preserve">Statistics</source>
+</segment>
+</unit>
+<unit id="760">
+<segment id="760">
+<source xml:space="preserve">Cookie statement</source>
+</segment>
+</unit>
+<unit id="761">
+<segment id="761">
+<source xml:space="preserve">Mobile view</source>
+</segment>
+</unit>
+<unit id="762">
+<segment id="762">
+<source xml:space="preserve">Wikimedia Foundation</source>
+</segment>
+</unit>
+<unit id="763">
+<segment id="763">
+<source xml:space="preserve">Powered by MediaWiki</source>
+</segment>
+</unit>
+</file>
+</xliff>
